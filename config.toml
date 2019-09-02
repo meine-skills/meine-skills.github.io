@@ -148,14 +148,14 @@ publishDir = "docs"
     identifier        = "privacy"
     url               = "/privacy/"
     pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+    weight            = 7
 
 [Languages]
   # Each language has its own menu.
-  [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
-    weight              = 1
+#  [Languages.en]
+#    LanguageCode        = "en"
+#    LanguageName        = "English"
+#    weight              = 1
 
   [Languages.de]
     LanguageCode        = "de"
