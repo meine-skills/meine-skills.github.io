@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meine skills training</title>
-    <link>https://josy1024.github.io/meine-skills.github.io/</link>
+    <link>https://josy1024.github.io/</link>
     <description>Recent content on meine skills training</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Mon, 02 Sep 2019 13:44:22 +0200</lastBuildDate>
     
-	<atom:link href="https://josy1024.github.io/meine-skills.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://josy1024.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://josy1024.github.io/meine-skills.github.io/about/</link>
+      <link>https://josy1024.github.io/about/</link>
       <pubDate>Mon, 02 Sep 2019 13:44:22 +0200</pubDate>
       
-      <guid>https://josy1024.github.io/meine-skills.github.io/about/</guid>
+      <guid>https://josy1024.github.io/about/</guid>
       <description>Hello Hugo world! No more excuses for having no blog or documentation now!
  Waves are the practice of the water. Shunryu Suzuki
  willkomen auf der home seite
@@ -25,19 +25,19 @@ es gibt noch About es gibt noch Datenschutz sowie auch Kontakt</description>
     
     <item>
       <title>My First Post</title>
-      <link>https://josy1024.github.io/meine-skills.github.io/posts/my-first-post/</link>
+      <link>https://josy1024.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 02 Sep 2019 13:29:48 +0200</pubDate>
       
-      <guid>https://josy1024.github.io/meine-skills.github.io/posts/my-first-post/</guid>
+      <guid>https://josy1024.github.io/posts/my-first-post/</guid>
       <description>post 1</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://josy1024.github.io/meine-skills.github.io/contact/</link>
+      <link>https://josy1024.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://josy1024.github.io/meine-skills.github.io/contact/</guid>
+      <guid>https://josy1024.github.io/contact/</guid>
       <description>Mein Name ist Marlene Kienbacher.
  Lebenslauf&amp;hellip;
  Über mich!
@@ -46,10 +46,10 @@ es gibt noch About es gibt noch Datenschutz sowie auch Kontakt</description>
     
     <item>
       <title>Datenschutz</title>
-      <link>https://josy1024.github.io/meine-skills.github.io/privacy/</link>
+      <link>https://josy1024.github.io/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://josy1024.github.io/meine-skills.github.io/privacy/</guid>
+      <guid>https://josy1024.github.io/privacy/</guid>
       <description>Allgemeine Hinweise
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie meine Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie der unter diesem Text aufgeführten Datenschutzerklärung.
 Datenerfassung auf dieser Website Wer ist verantwortlich für die Datenerfassung auf dieser Website?
