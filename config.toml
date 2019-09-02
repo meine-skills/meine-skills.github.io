@@ -35,6 +35,9 @@ canonifyURLs = true
   [params.meta]
     # Sets the meta tag description
     description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    accent_color = "#ae5976"
+    accent-color = "#ae5976"
+    accentcolor = "#ae5976"
     # Sets the meta tag author
     author              = "HTML5UP and Hugo"
     # If you would like to add more comprehensive favicon support passed root
@@ -44,8 +47,8 @@ canonifyURLs = true
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
-    msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
-    iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
+    msColor             = "#ae5976" # Copy from the https://realfavicongenerator.net
+    iOSColor            = "#ae5976" # Copy from the https://realfavicongenerator.net
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
