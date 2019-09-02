@@ -1,4 +1,4 @@
-baseurl                 = "https://josy1024.github.io/"
+baseurl                 = "https://josy1024.github.io/meine-skills.github.io/"
 DefaultContentLanguage  = "de"
 title                   = "meine skills"
 theme                   = "hugo-future-imperfect-slim"
@@ -159,7 +159,7 @@ disableLanguages        = [""]
   [Languages.de]
     LanguageCode        = "de"
     LanguageName        = "Deutsch"
-    title               = "Hugo Future Imperfect Slim auf deutsch"
+    title               = "meine skills training"
     description         = "Ein Thema von HTML5 UP, portiert von Julio Pescador.  Vereinfacht und verbessert von Patrick Collins. Mehrsprachig von StatnMap. Unterstützt von: Hugo. "
     weight              = 2
 
@@ -190,7 +190,7 @@ disableLanguages        = [""]
       url               = "/contact/"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
-      
+
     [[Languages.de.menu.main]]
       name              = "Über mich"
       identifier        = "about"
