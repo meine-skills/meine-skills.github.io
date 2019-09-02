@@ -8,6 +8,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
+publishDir = "docs"
 
 [params]
   mainSections = ["blog", "post"]
