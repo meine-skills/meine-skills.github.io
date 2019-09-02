@@ -1,7 +1,9 @@
 +++
 author = ""
 categories = []
-description = ""
+title = "Kontakt"
+description = "Kontakt"
+
 linktitle = ""
 images = [""]
 

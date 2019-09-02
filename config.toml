@@ -9,6 +9,7 @@ googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
 publishDir = "docs"
+canonifyURLs = true
 
 [params]
   mainSections = ["blog", "post"]

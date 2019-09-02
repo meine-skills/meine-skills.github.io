@@ -33,18 +33,6 @@ es gibt noch About es gibt noch Datenschutz sowie auch Kontakt</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://josy1024.github.io/meine-skills.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://josy1024.github.io/meine-skills.github.io/contact/</guid>
-      <description>Mein Name ist Marlene Kienbacher.
- Lebenslauf&amp;hellip;
- Über mich!
-  sie Erreichen mich unter tel:+43 676 12345678</description>
-    </item>
-    
-    <item>
       <title>Datenschutz</title>
       <link>https://josy1024.github.io/meine-skills.github.io/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -54,6 +42,18 @@ es gibt noch About es gibt noch Datenschutz sowie auch Kontakt</description>
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie meine Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie der unter diesem Text aufgeführten Datenschutzerklärung.
 Datenerfassung auf dieser Website Wer ist verantwortlich für die Datenerfassung auf dieser Website?
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://josy1024.github.io/meine-skills.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://josy1024.github.io/meine-skills.github.io/contact/</guid>
+      <description>Mein Name ist Marlene Kienbacher.
+ Lebenslauf&amp;hellip;
+ Über mich!
+  sie Erreichen mich unter tel:+43 676 12345678</description>
     </item>
     
   </channel>
