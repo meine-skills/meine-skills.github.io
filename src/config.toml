@@ -1,4 +1,4 @@
-baseurl                 = "https://meine-skills.github.io/public/"
+baseurl                 = "https://meine-skills.github.io/"
 DefaultContentLanguage  = "de"
 title                   = "meine skills"
 theme                   = "hugo-future-imperfect-slim"
@@ -8,7 +8,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
-#publishDir = "docs"
+publishDir = "../"
 canonifyURLs = true
 
 [params]
