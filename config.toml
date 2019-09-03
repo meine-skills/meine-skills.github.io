@@ -1,4 +1,4 @@
-baseurl                 = "https://josy1024.github.io/meine-skills.github.io/"
+baseurl                 = "https://meine-skills.github.io/"
 DefaultContentLanguage  = "de"
 title                   = "meine skills"
 theme                   = "hugo-future-imperfect-slim"
