@@ -9,4 +9,13 @@ http://localhost:1313/
 # compile
 hugo
 
+# new page
 hugo new css.md
+
+# checkout
+
+git clone --recursive https://github.com/meine-skills/meine-skills.github.io.git
+
+##checkout with not --recurive
+cd meine-skills.github.io
+git submodule update --init --recursive
