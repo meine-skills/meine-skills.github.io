@@ -1,3 +1,5 @@
+# TODO:// MASTER CONFIG FILE!
+
 baseurl                 = "https://meine-skills.github.io/"
 DefaultContentLanguage  = "de"
 title                   = "meine skills"
