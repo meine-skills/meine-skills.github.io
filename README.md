@@ -3,7 +3,7 @@ https://meine-skills.github.io/
 
 
 # debug test
-hugo server -D
+hugo server -D &
 http://localhost:1313/
 
 # compile

@@ -8,7 +8,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
-publishDir = "docs"
+#publishDir = "docs"
 canonifyURLs = true
 
 [params]
