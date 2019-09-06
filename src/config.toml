@@ -43,7 +43,7 @@ canonifyURLs = true
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
     # for the theme's naming.
-    favicon             = false
+    favicon             = true
     svg                 = true
     faviconVersion      = "1"
     msColor             = "#ae5976" # Copy from the https://realfavicongenerator.net
@@ -77,13 +77,13 @@ canonifyURLs = true
       alt                 = "meine skills"
 
   [params.sidebar]
-    about               = "über mich text ..."
+    about               = "Über uns"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
-    categories          = true
+    categories          = false
     # Sets Categories to sort by number of posts instead of alphabetical
-    categoriesByCount   = true
+    categoriesByCount   = false
 
   [params.footer]
     # Sets RSS icons to appear on the sidebar with the social media buttons
@@ -120,7 +120,7 @@ canonifyURLs = true
     weight            = 1
 
   [[menu.main]]
-    name              = "About"
+    name              = "Über uns"
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
@@ -182,12 +182,26 @@ canonifyURLs = true
 #      pre               = "<i class='far fa-newspaper'></i>"
 #      weight            = 3
 
-    [[Languages.de.menu.main]]
-      name              = "Kategorien"
-      identifier        = "categories"
-      url               = "/categories/"
+#    [[Languages.de.menu.main]]
+#      name              = "Kategorien"
+#      identifier        = "categories"
+#      url               = "/categories/"
+#      pre               = "<i class='fas fa-sitemap'></i>"
+#      weight            = 5
+
+[[Languages.de.menu.main]]
+      name              = "Angebot"
+      identifier        = "angebot"
+      url               = "/angebot/"
       pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
+      weight            = 6
+
+[[Languages.de.menu.main]]
+      name              = "Aktuelles"
+      identifier        = "aktuelles"
+      url               = "/aktuelles/"
+      pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 6
 
     [[Languages.de.menu.main]]
       name              = "Kontakt"
@@ -197,11 +211,11 @@ canonifyURLs = true
       weight            = 6
 
     [[Languages.de.menu.main]]
-      name              = "Über mich"
+      name              = "Über uns"
       identifier        = "about"
       url               = "/about/"
       pre               = "<i class='far fa-id-card'></i>"
-      weight            = 2
+      weight            = 7
  
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop

@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Über uns"
 date: 2019-09-02T13:44:22+02:00
 draft: false
 #tags: ["über mich"]
@@ -7,13 +7,18 @@ categories: []
 meta: "false"
 ---
 
-Hello Hugo world! No more excuses for having no blog or documentation now!
+Wir sind Klinische und GesundheitspsychologInnen und haben den interdisziplinären Lehrgang Skills-Training des ÖDBT bei Alice Sendera und Burkhard Dafert 2017 absolviert. 
 
-> Waves are the practice of the water. Shunryu Suzuki
+Nach zweijähriger Erfahrung merkten wir schnell, dass dieses Skillstraining in vielen Lebenslagen anwendbar ist. 
+
+Wir haben es speziell für Eltern angepasst, die sich erschöpft, gestresst, isoliert, überfordert, etc. fühlen. 
+
+Karin 
+
+Marlene 
+
+[Über uns](/about) [Kontakt](/contact)
+
+[Datenschutz](/privacy)
 
 
-willkomen auf der home seite
-
-es gibt noch [About](/about)
-es gibt noch [Datenschutz](/privacy)
-sowie auch [Kontakt](/contact)

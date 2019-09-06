@@ -21,15 +21,18 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>Über uns</title>
       <link>https://meine-skills.at/about/</link>
       <pubDate>Mon, 02 Sep 2019 13:44:22 +0200</pubDate>
       
       <guid>https://meine-skills.at/about/</guid>
-      <description>Hello Hugo world! No more excuses for having no blog or documentation now!
- Waves are the practice of the water. Shunryu Suzuki
- willkomen auf der home seite
-es gibt noch About es gibt noch Datenschutz sowie auch Kontakt</description>
+      <description>Wir sind Klinische und GesundheitspsychologInnen und haben den interdisziplinären Lehrgang Skills-Training des ÖDBT bei Alice Sendera und Burkhard Dafert 2017 absolviert.
+Nach zweijähriger Erfahrung merkten wir schnell, dass dieses Skillstraining in vielen Lebenslagen anwendbar ist.
+Wir haben es speziell für Eltern angepasst, die sich erschöpft, gestresst, isoliert, überfordert, etc. fühlen.
+Karin
+Marlene
+Über uns Kontakt
+Datenschutz</description>
     </item>
     
     <item>
@@ -52,6 +55,18 @@ dunkel: #ae5976 hell: #d2a2b2
 Mein Name ist Marlene Kienbacher.
  Lebenslauf&amp;hellip;
  Über mich!
+  </description>
+    </item>
+    
+    <item>
+      <title>Aktuelles</title>
+      <link>https://meine-skills.at/aktuelles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meine-skills.at/aktuelles/</guid>
+      <description> Termine: Montag 17:15 Uhr oder Freitag 14:00 Uhr bzw. nach Vereinbarung
+ Start ab Oktober 2019
+ OFFEN: &amp;hellip; Eventuell später für einen &amp;ldquo;Blog&amp;rdquo;
   </description>
     </item>
     
@@ -79,6 +94,22 @@ Klinische- und Gesundheitspsychologin
 tel: 0676 694 22 87
 Mag.a Karin Pöppl Klinische- und Gesundheitspsychologin
 tel: 0676 3999 220</description>
+    </item>
+    
+    <item>
+      <title>Angebot Skillstraining</title>
+      <link>https://meine-skills.at/angebot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meine-skills.at/angebot/</guid>
+      <description>SKILLSTRAINING  für Eltern, die sich erschöpft, gestresst, isoliert, überfordert, etc. fühlen
+ bei Risikogruppen als Vorbeugung bereits vor der Geburt
+  In zehn wöchentlich stattfindenden Einheiten (á 90 Minuten) erlernen und trainieren Sie in der Gruppe Werkzeuge für den Weg aus der Krise.
+Inhalte  Achtsamkeitstraining
+ Umgang mit Gefühlen und negativen Gedanken
+ Bewältigung emotionaler Last
+ Selbstwertsteigerung
+ Verbesserung der zwischenmenschlichen Fertigkeiten (um Hilfe bitten, etc.</description>
     </item>
     
   </channel>
