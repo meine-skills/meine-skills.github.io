@@ -24,27 +24,19 @@
     </item>
     
     <item>
-      <title>Markdown and Shortcodes</title>
-      <link>https://meine-skills.at/blog/examples/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Skillstrainig</title>
+      <link>https://meine-skills.at/blog/angebot/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://meine-skills.at/blog/examples/</guid>
-      <description>Thanks! Special thanks to Markdown Cheatsheet.
-H1 H2 H3 H4 H5 H6 Alt-H1 Alt-H2 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 Alt-H1 ====== Alt-H2 ------  Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.
-Strikethrough uses two tildes. Scratch this.
-Emphasis, aka italics, with *asterisks* or _underscores_. Strong emphasis, aka bold, with **asterisks** or __underscores__.</description>
-    </item>
-    
-    <item>
-      <title>Ein neues Thema erstellen</title>
-      <link>https://meine-skills.at/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://meine-skills.at/blog/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://meine-skills.at/blog/angebot/</guid>
+      <description>SKILLSTRAINING  für Eltern, die sich erschöpft, gestresst, isoliert, überfordert, etc. fühlen
+ bei Risikogruppen als Vorbeugung bereits vor der Geburt
+  In zehn wöchentlich stattfindenden Einheiten (á 90 Minuten) erlernen und trainieren Sie in der Gruppe Werkzeuge für den Weg aus der Krise.
+Inhalte  Achtsamkeitstraining
+ Umgang mit Gefühlen und negativen Gedanken
+ Bewältigung emotionaler Last
+ Selbstwertsteigerung
+ Verbesserung der zwischenmenschlichen Fertigkeiten (um Hilfe bitten, etc.</description>
     </item>
     
   </channel>

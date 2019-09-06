@@ -1,5 +1,5 @@
 Set-Location $PSScriptRoot
 
-& hugo
+& hugo -Fv
 
 

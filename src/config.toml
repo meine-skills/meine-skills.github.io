@@ -193,9 +193,9 @@ canonifyURLs = true
 [[Languages.de.menu.main]]
       name              = "Angebot"
       identifier        = "angebot"
-      url               = "/angebot/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 6
+      url               = "/blog/angebot/"
+      pre               = "<i class='fas fa-newspaper'></i>"
+      weight            = 2
 
 #[[Languages.de.menu.main]]
 #      name              = "Aktuelles"

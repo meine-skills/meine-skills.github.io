@@ -1,10 +1,14 @@
 +++
-author = ""
+author = "Marlene"
 categories = ["Skillstrainig"]
+date = "2019-09-05"
 description = "Endlich Eltern, doch das Glück bleibt aus?"
+featured = "pic01.jpg"
+featuredalt = "pic01"
+featuredpath = "date"
 linktitle = "Skillstrainig"
-title = "Angebot"
-images = ["/img/main/logo.jpg"]
+title = "Skillstrainig"
+type = "post"
 
 +++
 

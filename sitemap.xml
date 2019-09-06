@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://meine-skills.at/blog/angebot/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://meine-skills.at/tags/angebote/</loc>
     <lastmod>2019-09-02T16:34:49+02:00</lastmod>
   </url>
@@ -63,26 +68,6 @@
   </url>
   
   <url>
-    <loc>https://meine-skills.at/categories/markdown/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/blog/examples/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/blog/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/categories/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://meine-skills.at/css/</loc>
   </url>
   
@@ -92,10 +77,6 @@
   
   <url>
     <loc>https://meine-skills.at/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/angebot/</loc>
   </url>
   
   <url>
