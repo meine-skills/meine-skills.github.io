@@ -1,14 +1,14 @@
 +++
 author = ""
-categories = []
+categories = ["Skillstrainig"]
 description = "Endlich Eltern, doch das Glück bleibt aus?"
 linktitle = "Skillstrainig"
-title = "Angebot Skillstraining"
+title = "Angebot"
 images = ["/img/main/logo.jpg"]
 
 +++
 
-# SKILLSTRAINING 
+# SKILLSTRAINING
  
 
 * für Eltern, die sich erschöpft, gestresst, isoliert, überfordert, etc. fühlen 

@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://meine-skills.at/blog/aktuelles/</loc>
+    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/blog/</loc>
+    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/categories/</loc>
+    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/</loc>
+    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/categories/skillstrainig/</loc>
+    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://meine-skills.at/tags/angebote/</loc>
     <lastmod>2019-09-02T16:34:49+02:00</lastmod>
   </url>
@@ -14,11 +39,6 @@
   
   <url>
     <loc>https://meine-skills.at/tags/flyer/</loc>
-    <lastmod>2019-09-02T16:34:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/</loc>
     <lastmod>2019-09-02T16:34:49+02:00</lastmod>
   </url>
   
@@ -43,15 +63,27 @@
   </url>
   
   <url>
+    <loc>https://meine-skills.at/categories/markdown/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/blog/examples/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/blog/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/categories/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://meine-skills.at/css/</loc>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/aktuelles/</loc>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/categories/</loc>
   </url>
   
   <url>
@@ -64,6 +96,10 @@
   
   <url>
     <loc>https://meine-skills.at/angebot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/home/</loc>
   </url>
   
 </urlset>

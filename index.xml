@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meine skills training</title>
+    <title>meine skills - training</title>
     <link>https://meine-skills.at/</link>
-    <description>Recent content on meine skills training</description>
+    <description>Recent content on meine skills - training</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Sep 2019 16:34:49 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://meine-skills.at/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aktuelles</title>
+      <link>https://meine-skills.at/blog/aktuelles/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://meine-skills.at/blog/aktuelles/</guid>
+      <description> Aktuelles  Termine: Montag 17:15 Uhr oder Freitag 14:00 Uhr bzw. nach Vereinbarung
+ Start ab Oktober 2019
+ OFFEN: &amp;hellip; Eventuell später für einen &amp;ldquo;Blog&amp;rdquo;
+  </description>
+    </item>
     
     <item>
       <title>Flyer</title>
@@ -31,7 +43,6 @@ Nach zweijähriger Erfahrung merkten wir schnell, dass dieses Skillstraining in 
 Wir haben es speziell für Eltern angepasst, die sich erschöpft, gestresst, isoliert, überfordert, etc. fühlen.
 Karin
 Marlene
-Über uns Kontakt
 Datenschutz</description>
     </item>
     
@@ -45,6 +56,30 @@ Datenschutz</description>
     </item>
     
     <item>
+      <title>Markdown and Shortcodes</title>
+      <link>https://meine-skills.at/blog/examples/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://meine-skills.at/blog/examples/</guid>
+      <description>Thanks! Special thanks to Markdown Cheatsheet.
+H1 H2 H3 H4 H5 H6 Alt-H1 Alt-H2 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 Alt-H1 ====== Alt-H2 ------  Emphasis, aka italics, with asterisks or underscores.
+Strong emphasis, aka bold, with asterisks or underscores.
+Combined emphasis with asterisks and underscores.
+Strikethrough uses two tildes. Scratch this.
+Emphasis, aka italics, with *asterisks* or _underscores_. Strong emphasis, aka bold, with **asterisks** or __underscores__.</description>
+    </item>
+    
+    <item>
+      <title>Ein neues Thema erstellen</title>
+      <link>https://meine-skills.at/blog/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://meine-skills.at/blog/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://meine-skills.at/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,18 +90,6 @@ dunkel: #ae5976 hell: #d2a2b2
 Mein Name ist Marlene Kienbacher.
  Lebenslauf&amp;hellip;
  Über mich!
-  </description>
-    </item>
-    
-    <item>
-      <title>Aktuelles</title>
-      <link>https://meine-skills.at/aktuelles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://meine-skills.at/aktuelles/</guid>
-      <description> Termine: Montag 17:15 Uhr oder Freitag 14:00 Uhr bzw. nach Vereinbarung
- Start ab Oktober 2019
- OFFEN: &amp;hellip; Eventuell später für einen &amp;ldquo;Blog&amp;rdquo;
   </description>
     </item>
     
@@ -97,7 +120,7 @@ tel: 0676 3999 220</description>
     </item>
     
     <item>
-      <title>Angebot Skillstraining</title>
+      <title>Angebot</title>
       <link>https://meine-skills.at/angebot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -110,6 +133,15 @@ Inhalte  Achtsamkeitstraining
  Bewältigung emotionaler Last
  Selbstwertsteigerung
  Verbesserung der zwischenmenschlichen Fertigkeiten (um Hilfe bitten, etc.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://meine-skills.at/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meine-skills.at/home/</guid>
+      <description> willkommen </description>
     </item>
     
   </channel>

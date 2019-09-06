@@ -5,7 +5,7 @@ title = "Datenschutz"
 description = "Datenschutzerklärung"
 linktitle = ""
 images = [""]
-menu = "main"
+menu = ""
 +++
 
 #Allgemeine Hinweise

@@ -5,7 +5,7 @@ DefaultContentLanguage  = "de"
 title                   = "meine skills"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
-paginate                = 3
+paginate                = 5
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
@@ -22,11 +22,12 @@ canonifyURLs = true
   cssFiles              = ["default"]
   jsFiles               = ["default"]
   # Sets options for highlight.js
-  highlightjs           = true
-  highlightjsTheme      = "github"
-  highlightjsLang       = ["html", "css", "js", "toml"]
+  highlightjs           = false
+  #highlightjsTheme      = "github"
+  #highlightjsLang       = ["html", "css", "js", "toml"]
+
   # Sets where "View More Posts" links to
-  viewMorePostsLink     = "/blog/"
+  #viewMorePostsLink     = "/blog/"
   # Activate Estimated Reading Times, which appear in the post headers
   readingTime           = true
   # Sets which Social Share links appear in posts.
@@ -46,14 +47,14 @@ canonifyURLs = true
     favicon             = true
     svg                 = true
     faviconVersion      = "1"
-    msColor             = "#ae5976" # Copy from the https://realfavicongenerator.net
-    iOSColor            = "#ae5976" # Copy from the https://realfavicongenerator.net
+    msColor             = "#d2a2b2" # Copy from the https://realfavicongenerator.net
+    iOSColor            = "#d2a2b2" # Copy from the https://realfavicongenerator.net
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
     navbarTitle         = "meine skills"
     # Sets navbarTitle to match the section of the website
-    dynamicTitles       = true
+    dynamicTitles       = false
     searchMenu          = true
     shareMenu           = false
     languageMenu        = false
@@ -61,16 +62,16 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "meine skills"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "meine skills header"
+    paragraph             = "SKILLSTRAINING im paragraph"
     rssIntro              = false
     socialIntro           = false
 
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/holz.JPG"
-      #src                 = "/img/main/logo.jpg"
+      #src                 = "/img/holz.JPG"
+      src                 = "/img/main/logo.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = ""
@@ -89,7 +90,7 @@ canonifyURLs = true
     # Sets RSS icons to appear on the sidebar with the social media buttons
     rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
+    socialFooter        = false
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
@@ -147,12 +148,12 @@ canonifyURLs = true
     pre               = "<i class='far fa-envelope'></i>"
     weight            = 6
 
-  [[menu.main]]
-    name              = "privacy"
-    identifier        = "privacy"
-    url               = "/privacy/"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 7
+#  [[menu.main]]
+#    name              = "privacy"
+#    identifier        = "privacy"
+#    url               = "/privacy/"
+#    pre               = "<i class='far fa-envelope'></i>"
+#    weight            = 7
 
 [Languages]
   # Each language has its own menu.
@@ -164,8 +165,8 @@ canonifyURLs = true
   [Languages.de]
     LanguageCode        = "de"
     LanguageName        = "Deutsch"
-    title               = "meine skills training"
-    description         = "Ein Thema von HTML5 UP, portiert von Julio Pescador.  Vereinfacht und verbessert von Patrick Collins. Mehrsprachig von StatnMap. Unterstützt von: Hugo. "
+    title               = "meine skills - training"
+    description         = "meine skills - beschreibung"
     weight              = 1
 
     [[Languages.de.menu.main]]
@@ -182,12 +183,12 @@ canonifyURLs = true
 #      pre               = "<i class='far fa-newspaper'></i>"
 #      weight            = 3
 
-#    [[Languages.de.menu.main]]
-#      name              = "Kategorien"
-#      identifier        = "categories"
-#      url               = "/categories/"
-#      pre               = "<i class='fas fa-sitemap'></i>"
-#      weight            = 5
+    [[Languages.de.menu.main]]
+      name              = "Kategorien"
+      identifier        = "categories"
+      url               = "/categories/"
+      pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 5
 
 [[Languages.de.menu.main]]
       name              = "Angebot"
@@ -196,12 +197,12 @@ canonifyURLs = true
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 6
 
-[[Languages.de.menu.main]]
-      name              = "Aktuelles"
-      identifier        = "aktuelles"
-      url               = "/aktuelles/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 6
+#[[Languages.de.menu.main]]
+#      name              = "Aktuelles"
+#      identifier        = "aktuelles"
+#      url               = "/aktuelles/"
+#      pre               = "<i class='fas fa-sitemap'></i>"
+#      weight            = 6
 
     [[Languages.de.menu.main]]
       name              = "Kontakt"

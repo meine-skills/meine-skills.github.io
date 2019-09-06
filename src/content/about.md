@@ -2,7 +2,7 @@
 title: "Über uns"
 date: 2019-09-02T13:44:22+02:00
 draft: false
-#tags: ["über mich"]
+#tags: ["über uns"]
 categories: []
 meta: "false"
 ---
@@ -16,8 +16,6 @@ Wir haben es speziell für Eltern angepasst, die sich erschöpft, gestresst, iso
 Karin 
 
 Marlene 
-
-[Über uns](/about) [Kontakt](/contact)
 
 [Datenschutz](/privacy)
 

@@ -1,7 +1,26 @@
 #site-header {
+    background-color: #ae5976;
+    color: #000000;
+} 
+
+/*
+#ae5976
+#d2a2b2
+ #site-nav-menu {
     background-color: #d2a2b2;
     color: #ffffff;
 }
+*/
+#site-nav .flyout-menu .link  {
+    background-color: #ae5976;
+    color: #ffffff;
+}
+
+#site-nav .flyout-menu .link:hover  {
+    background-color: #d2a2b2;
+    color: #ffffff;
+}
+
 
 .button:hover
 {
@@ -10,16 +29,16 @@
 }
 
 a:hover{
-    color: #ae5976;
+    color: #d2a2b2;
 }
 
 a.button:hover
 {
-    color: #ae5976 !important;
+    color: #d2a2b2 !important;
 }
 
 ::selection {
-    background: #ffffff;
+    background: #d2a2b2; 
     text-shadow: none;
 }
 

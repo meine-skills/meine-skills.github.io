@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skillstrainig on meine skills - training</title>
+    <link>https://meine-skills.at/categories/skillstrainig/</link>
+    <description>Recent content in Skillstrainig on meine skills - training</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://meine-skills.at/categories/skillstrainig/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aktuelles</title>
+      <link>https://meine-skills.at/blog/aktuelles/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://meine-skills.at/blog/aktuelles/</guid>
+      <description> Aktuelles  Termine: Montag 17:15 Uhr oder Freitag 14:00 Uhr bzw. nach Vereinbarung
+ Start ab Oktober 2019
+ OFFEN: &amp;hellip; Eventuell später für einen &amp;ldquo;Blog&amp;rdquo;
+  </description>
+    </item>
+    
+    <item>
+      <title>Angebot</title>
+      <link>https://meine-skills.at/angebot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meine-skills.at/angebot/</guid>
+      <description>SKILLSTRAINING  für Eltern, die sich erschöpft, gestresst, isoliert, überfordert, etc. fühlen
+ bei Risikogruppen als Vorbeugung bereits vor der Geburt
+  In zehn wöchentlich stattfindenden Einheiten (á 90 Minuten) erlernen und trainieren Sie in der Gruppe Werkzeuge für den Weg aus der Krise.
+Inhalte  Achtsamkeitstraining
+ Umgang mit Gefühlen und negativen Gedanken
+ Bewältigung emotionaler Last
+ Selbstwertsteigerung
+ Verbesserung der zwischenmenschlichen Fertigkeiten (um Hilfe bitten, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
