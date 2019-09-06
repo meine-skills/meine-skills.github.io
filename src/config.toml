@@ -1,6 +1,6 @@
 # TODO:// MASTER CONFIG FILE!
 
-baseurl                 = "https://meine-skills.github.io/"
+baseurl                 = "https://meine-skills.at"
 DefaultContentLanguage  = "de"
 title                   = "meine skills"
 theme                   = "hugo-future-imperfect-slim"
@@ -9,7 +9,7 @@ paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = [""]
+disableLanguages        = ["en"]
 publishDir = "../"
 canonifyURLs = true
 
@@ -37,11 +37,8 @@ canonifyURLs = true
   [params.meta]
     # Sets the meta tag description
     description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
-    accent_color = "#ae5976"
-    accent-color = "#ae5976"
-    accentcolor = "#ae5976"
     # Sets the meta tag author
-    author              = "HTML5UP and Hugo"
+    author              = "Marlene Kienbacher Karin Pöppl, Klinische- und Gesundheitspsychologen"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
@@ -72,7 +69,8 @@ canonifyURLs = true
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.jpg"
+      src                 = "/img/holz.JPG"
+      #src                 = "/img/main/logo.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = ""
@@ -158,17 +156,17 @@ canonifyURLs = true
 
 [Languages]
   # Each language has its own menu.
-#  [Languages.en]
-#    LanguageCode        = "en"
-#    LanguageName        = "English"
-#    weight              = 1
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
+    weight              = 2
 
   [Languages.de]
     LanguageCode        = "de"
     LanguageName        = "Deutsch"
     title               = "meine skills training"
     description         = "Ein Thema von HTML5 UP, portiert von Julio Pescador.  Vereinfacht und verbessert von Patrick Collins. Mehrsprachig von StatnMap. Unterstützt von: Hugo. "
-    weight              = 2
+    weight              = 1
 
     [[Languages.de.menu.main]]
       name              = "Startseite"
@@ -231,13 +229,13 @@ canonifyURLs = true
 #  xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
+#  facebook              = "example"
 #  googleplus            = ""
 #  reddit                = "example"
 #  quora                 = ""
 #  youtube               = ""
 #  vimeo                 = ""
-  whatsapp              = "+4367612345678" # WhatsApp Number
+#  whatsapp              = "+4367612345678" # WhatsApp Number
     # WeChat and QQ need testing.
 #    wechat              = ""
     qq                  = "" # User ID Number
