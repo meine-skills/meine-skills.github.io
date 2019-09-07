@@ -54,8 +54,8 @@ Ich weise darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommu
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Marlene Kienbacher
-Telefon: +436761234578
+Marlene Kienbacher, Karin Pöppl
+Telefon: //TODO:
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 

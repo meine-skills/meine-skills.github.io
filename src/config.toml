@@ -29,7 +29,7 @@ canonifyURLs = true
   # Sets where "View More Posts" links to
   #viewMorePostsLink     = "/blog/"
   # Activate Estimated Reading Times, which appear in the post headers
-  readingTime           = true
+  readingTime           = false
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
   #socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
@@ -37,7 +37,7 @@ canonifyURLs = true
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "meine skills - skillstraining angebote wochenbettdepression schwangerschaftsdepression"
     # Sets the meta tag author
     author              = "Marlene Kienbacher Karin Pöppl, Klinische- und Gesundheitspsychologen"
     # If you would like to add more comprehensive favicon support passed root
@@ -80,9 +80,9 @@ canonifyURLs = true
   [params.sidebar]
     about               = "Über uns"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    postAmount          = 5
+    postAmount          = 1
     # set to show or to hide categories in the sidebar
-    categories          = false
+    categories          = true
     # Sets Categories to sort by number of posts instead of alphabetical
     categoriesByCount   = false
 
@@ -183,12 +183,12 @@ canonifyURLs = true
 #      pre               = "<i class='far fa-newspaper'></i>"
 #      weight            = 3
 
-    [[Languages.de.menu.main]]
-      name              = "Kategorien"
-      identifier        = "categories"
-      url               = "/categories/"
-      pre               = "<i class='fas fa-sitemap'></i>"
-      weight            = 5
+#    [[Languages.de.menu.main]]
+#      name              = "Kategorien"
+#      identifier        = "categories"
+#      url               = "/categories/"
+#      pre               = "<i class='fas fa-sitemap'></i>"
+#      weight            = 5
 
 [[Languages.de.menu.main]]
       name              = "Angebot"

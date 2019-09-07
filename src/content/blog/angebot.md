@@ -1,10 +1,10 @@
 +++
-author = "Marlene"
+author = "Marlene & Karin"
 categories = ["Skillstrainig"]
 date = "2019-09-05"
 description = "Endlich Eltern, doch das Glück bleibt aus?"
-featured = "pic01.jpg"
-featuredalt = "pic01"
+featured = "skills_qf.jpg"
+featuredalt = "Skills"
 featuredpath = "date"
 linktitle = "Skillstrainig"
 title = "Skillstrainig"

@@ -17,6 +17,5 @@ Karin
 
 Marlene 
 
-[Datenschutz](/privacy)
 
 

@@ -1,9 +1,9 @@
 +++
-author = "Marlene"
+author = "Marlene & Karin"
 categories = ["Skillstrainig"]
 date = "2019-09-06"
 description = "Aktuelle Angebote zum Thema Skillstraining"
-featured = "pic03.jpg"
+featured = "wein_qf.jpg"
 featuredalt = "Holz"
 featuredpath = "date"
 linktitle = ""
