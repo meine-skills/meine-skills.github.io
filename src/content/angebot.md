@@ -1,6 +1,7 @@
 +++
 author = ""
-Angebote = ["Skillstraining"]
+#Angebote = ["Skillstraining"]
+Angebote = []
 date = "2019-09-05"
 description = ""
 featured = "skills_qf.jpg"
