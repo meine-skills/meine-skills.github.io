@@ -1,5 +1,5 @@
 +++
-author = "Marlene & Karin"
+author = ""
 Angebote = ["Skillstrainig"]
 date = "2019-09-05"
 description = "Endlich Eltern, doch das Glück bleibt aus?"

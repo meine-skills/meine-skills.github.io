@@ -1,5 +1,5 @@
 +++
-author = "Marlene & Karin"
+author = ""
 categories = ["Skillstrainig"]
 date = "2019-09-06"
 description = "Aktuelle Angebote zum Thema Skillstraining"
