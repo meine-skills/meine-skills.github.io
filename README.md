@@ -8,10 +8,11 @@ hugo server -D &
 http://localhost:1313/
 
 # compile
-hugo
+hugo -Fv
 
 # new page
-hugo new css.md
+hugo new page.md
+hugo new blog\page.md
 
 # checkout
 
