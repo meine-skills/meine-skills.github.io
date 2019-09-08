@@ -1,4 +1,1 @@
-<!-- {{/*
-Usage: {{% a_email "TITLE" "EMAIL" %}}
-*/}}-->
-<a target="_blank" href="mailto:{{ .Get 1 }}">{{ .Get 0 | markdownify }}</a> <i class="far fa-envelope"></i>
+<a href="mailto:{{ .Get 1 }}"><i class="far fa-envelope"></i> {{ .Get 0 | markdownify }}</a>
