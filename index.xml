@@ -109,6 +109,16 @@ Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Des
     </item>
     
     <item>
+      <title>Impressum</title>
+      <link>https://meine-skills.at/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meine-skills.at/impressum/</guid>
+      <description>// TODO:
+Impressum &amp;hellip;.</description>
+    </item>
+    
+    <item>
       <title>Kontakt</title>
       <link>https://meine-skills.at/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -119,8 +129,7 @@ Klinische- und Gesundheitspsychologin
 tel: 0676 694 22 87
 Mag.a Karin Pöppl Klinische- und Gesundheitspsychologin
 tel: 0676 3999 220
-Email: termin@meine-skills.at
-Datenschutz</description>
+Email: termin@meine-skills.at</description>
     </item>
     
   </channel>

@@ -1,4 +1,3 @@
-# TODO:// MASTER CONFIG FILE!
 
 baseurl                 = "https://meine-skills.at"
 DefaultContentLanguage  = "de"
@@ -167,6 +166,8 @@ canonifyURLs = true
     LanguageName        = "English"
     weight              = 2
 
+# TODO:// MASTER CONFIG FILE!
+
   [Languages.de]
     LanguageCode        = "de"
     LanguageName        = "Deutsch"
@@ -202,6 +203,13 @@ canonifyURLs = true
       url               = "/angebot/"
       pre               = "<i class='fas fa-newspaper'></i>"
       weight            = 2
+
+[[Languages.de.menu.main]]
+      name              = "Aktuelles"
+      identifier        = "aktuelles"
+      url               = "/blog/aktuelles"
+      pre               = "<i class='fas fa-newspaper'></i>"
+      weight            = 3
 
   [[Languages.de.menu.main]]
       name              = "Allgemeine Informationen"

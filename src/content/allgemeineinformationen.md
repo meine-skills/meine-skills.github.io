@@ -32,4 +32,4 @@ Ort: {{% a_blank "Schloss Schiltern, Obere Straße 45, 3553 Schiltern" "https://
 
 *(sollte Schiltern für Sie nicht erreichbar sein, melden Sie sich bitte [bei uns](/contact))*
 
-[Datenschutz](/privacy)
+
