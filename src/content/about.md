@@ -7,7 +7,7 @@ categories: []
 meta: "false"
 ---
 
-Wir sind Klinische und GesundheitspsychologInnen und haben den interdisziplinären Lehrgang Skills-Training des ÖDBT 2017 absolviert. Nach zweijähriger Erfahrung merkten wir schnell, dass dieses Training und die darin erlernten Skills in vielen Lebenslagen anwendbar sind. 
+Wir sind Klinische- und GesundheitspsychologInnen und haben den interdisziplinären Lehrgang Skills-Training des ÖDBT 2017 absolviert. Nach zweijähriger Erfahrung merkten wir schnell, dass dieses Training und die darin erlernten Skills in vielen Lebenslagen anwendbar sind. 
 
 Wir haben die Inhalte des Skillstrainings für unsere Zielgruppe angepasst. Speziell soll es Eltern helfen, die sich erschöpft, gestresst, isoliert, überfordert, depressiv, etc. fühlen. Diese Eltern empfindet häufig Gefühle wie Schuld, Scham, Trauer, Wut und Angst - das Umfeld erwartet aber, dass sie überaus glücklich sein sollen.
 

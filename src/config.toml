@@ -85,7 +85,7 @@ canonifyURLs = true
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
       #src                 = "/img/holz.JPG"
-      src                 = "/img/main/logo.jpg"
+      src                 = "/img/main/LogoWebsite.PNG"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "hexagon"
       width               = "64"
