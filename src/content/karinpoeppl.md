@@ -8,22 +8,9 @@ images = [""]
 +++
 
 
-Mein Name ist **Karin Pöppl**. Mein Studium der Psychologie habe ich 2010 in Wien abgeschlossen. Danach arbeitete ich als Trainerin in der Erwachsenenbildung. 
-
-Ich habe mein Studium der Psychologie 2010 an der Universität Wien abgeschlossen. Danach arbeitete ich als Trainerin in der Erwachsenenbildung. Die Tätigkeit gefiel mir sehr gut, da ich mit Menschen arbeiten durfte, was mir sehr liegt und Freude bereitet. Dennoch war es mir zu wenig „psychologisch“ und ich entschied mich daher die Ausbildung zur Klinischen- und Gesundheitspsychologin beim Berufsverband Österreichischer Psychologen in Wien zu absolvieren. Für die nötigen Praxisstunden wählte ich das Psychosomatische Zentrum in Eggenburg, da ich eine vielseitige Ausbildung erwartete. Diese Erwartungen wurden erfüllt, ich lernte viele Tools im Umgang mit Menschen, sie in ihrer Mitte zu stärken. Mein Zugang ist, dass Menschen alles für die Lösung ihrer Probleme mitbringen, meine Aufgabe sehe ich darin sie auf den Weg zu ihrer Lösung zu begleiten. 
-Nach erfolgreich absolvierter Ausbildung wurde ich 2011 in die Liste der Klinischen- und Gesundheitspsychologinnen eingetragen.
-2017 erlangte ich die Qualifizierung zur Arbeits- und Organisationspsychologin.
-Ebenfalls bin ich seit 2017 zertifizierte Skills Trainerin und biete laufend mit meinen KollegInnen im PSZ Schiltern Skills Training an.
-
-Ich habe diverse Weiterbildungen Richtung „Themenzentrierte Interaktion nach Ruth Cohn“ absolviert – hier ein Ausschnitt:
-Beziehung-weise – unser Leben gestalten in jeder Beziehung
-In Balance zwischen Engagement und Gelassenheit – verändern wollen und sein lassen können
-Themen meines Lebens – Lebensthemen – erkennen, benennen, Wegweiser formulieren
-Schwierige Situationen in Gruppen – Ursachen erkennen und beheben
-weiters:
-Die Durchführung des Gruppentrainings sozialer Kompetenzen“ nach Rüdiger Hinsch
-Einführung in das Programmpaket Biofeedback 2000 bei der Firma Schuhfried 2014
-
+Mein Name ist **Karin Pöppl**. Mein Studium der Psychologie habe ich 2010 in Wien abgeschlossen. Danach arbeitete ich als Trainerin in der Erwachsenenbildung - mir fehlte dabei aber die psychologische Tätigkeit. Ich entschloss mich die Ausbildung zur Klinischen- und Gesundheitspsychologin zu beginnen. Die dafür notwendigen Praxisstunden absolvierte ich im Psychosomatischen Zentrum in Eggenburg. Es erwartete mich eine vielseitige Ausbildung und ich lernte viele Tools im Umgang mit Menschen.
+Mein Zugang liegt darin, dass Menschen alles für die Lösung ihrer Probleme mitbringen. Meine Aufgabe sehe ich darin, sie auf den Weg zu ihrer Lösung zu begleiten.
+Seit 2015 arbeite ich im Psychosozialen Zentrum in Schiltern, wo wir seit 2017 laufend Skillstraining anbieten.
 
 # Lebenslauf
 
@@ -36,3 +23,15 @@ Einführung in das Programmpaket Biofeedback 2000 bei der Firma Schuhfried 2014
 
 * Lehrgang Skills-Training des ÖDBT
 * Gruppentraining sozialer Kompetenzen nach Hinsch und Pfingsten
+* Einführung in das Programmpaket Biofeedback 2000 der Firma Schuhfried
+* Selbstbild und Selbstwert – Tools für die psychologische Praxis
+
+Diverse Weiterbildungen Richtung „Themenzentrierte Interaktion nach Ruth Cohn“
+
+* Beziehung-weise – unser Leben gestalten in jeder Beziehung
+* In Balance zwischen Engagement und Gelassenheit – verändern wollen und sein lassen können
+* Themen meines Lebens – Lebensthemen – erkennen, benennen, Wegweiser formulieren
+* Schwierige Situationen in Gruppen – Ursachen erkennen und beheben
+
+
+

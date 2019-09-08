@@ -1,13 +1,13 @@
 +++
 author = ""
-Angebote = ["Skillstrainig"]
+Angebote = ["Skillstraining"]
 date = "2019-09-05"
-description = "Endlich Eltern, doch das Glück bleibt aus?"
+description = ""
 featured = "skills_qf.jpg"
 featuredalt = "Skills"
 featuredpath = "date"
 linktitle = "Skillstrainig"
-title = "Skillstrainig"
+title = "Endlich Eltern - Doch das Glück fehlt"
 type = "post"
 
 +++

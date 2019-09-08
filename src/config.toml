@@ -181,7 +181,7 @@ canonifyURLs = true
   [Languages.de]
     LanguageCode        = "de"
     LanguageName        = "Deutsch"
-    title               = "meine skills - training"
+    title               = "meine skills"
     description         = "meine skills - beschreibung"
     weight              = 1
 
