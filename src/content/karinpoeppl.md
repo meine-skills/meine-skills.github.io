@@ -8,15 +8,7 @@ images = [""]
 +++
 
 
-css features:
-
-dunkel:
-#ae5976
-hell:
-#d2a2b2
-
-Mein Name ist **Marlene Kienbacher**. Als mein Sohn 2018 zur Welt kam wurde mein bisheriges Leben auf den Kopf gestellt. In meinem Psychologiestudium lernte ich, dass eine Lebenskrise auch durch positive Ereignisse ausgelöst werden kann. Eine Lebenskrise bedeutet, dass plötzlich alles anders ist. Die bisherigen Bewältigungsmechanismen greifen nicht mehr, dadurch fühlt man sich erstmal überfordert. Es heßt neue Kompetenzen zu entwickeln um die Krise zu überwinden.
-Und genau in so einer Krise befand ich mich. 
+Mein Name ist **Karin Pöppl**. 
 
 # Lebenslauf
 

@@ -13,9 +13,9 @@ Wir haben die Inhalte des Skillstrainings für unsere Zielgruppe angepasst. Spez
 
  
 
-Karin Pöppl
+[Karin Pöppl](/karinpoeppl)
 
-Marlene Kienbacher
+[Marlene Kienbacher](/marlenekienbacher)
 
 
 

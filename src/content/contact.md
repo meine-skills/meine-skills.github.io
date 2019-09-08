@@ -2,7 +2,7 @@
 author = ""
 categories = []
 title = "Kontakt"
-description = "Kontakt Meine-Skills"
+description = ""
 
 linktitle = ""
 images = [""]
@@ -17,7 +17,7 @@ Klinische- und Gesundheitspsychologin<br>
 Mag.a Karin Pöppl <br>
 Klinische- und Gesundheitspsychologin<br>
 [tel: 0676 3999 220](tel:+43676 3999 220)
-{{% a_email "karin.pöppl@meine-skills.at" "karin.pöppl@meine-skills.at" %}}
+{{% a_email "karin.poeppl@meine-skills.at" "karin.poeppl@meine-skills.at" %}}
 
 {{% a_email "termin@meine-skills.at" "termin@meine-skills.at" %}}
 
