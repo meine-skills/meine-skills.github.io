@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="{{ .Page.Language | default "en" }}">
+    {{ partial "head" . }}
+  <body>
+      {{ partial "site-header" . }}
+
+
+    <div id="wrapper">
+
+      {{ partial "site-intro" . }}
+      <main id="site-main">
+        # UNDER CONSTRUCTION <br>
+        
+        Willkommen<br>
+        Foto von Karin und mir, kurze Info, cooler Spruch, etc   <br>
+        #
+
+        {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+          {{ range $paginator.Pages }}
+            {{ .Render "content-list" }}
+          {{ end }}
+          {{ partial "pagination" . }}
+        </main>
+      <section id="site-sidebar">
+
+          {{ if .Site.Params.sidebar.categories }}
+            {{ if ne ($.Scratch.Get "showCategories") false }}
+              <section id="categories">
+                <header>
+                  <h1><a href="{{ "categories" | relLangURL }}">{{ i18n "categories" }}</a></h1>
+                </header>
+                <ul>
+                  {{ if .Site.Params.sidebar.categoriesByCount }}
+                    {{ $.Scratch.Set "categories" .Site.Taxonomies.categories.ByCount }}
+                  {{ else }}
+                    {{ $.Scratch.Set "categories" .Site.Taxonomies.categories.Alphabetical }}
+                  {{ end }}
+                  {{ range $key, $value := $.Scratch.Get "categories" }}
+                  <li>
+                    {{ if ne $value.Name "" }}
+                      <a href="{{ printf "%s/%s" "categories" $value.Name | urlize | relLangURL }}/">{{ $value.Name }}<span class="count">{{ $value.Count }}</span></a>
+                    {{ else }}
+                      {{ i18n "uncategorized" }}<span class="count">{{ $value.Count }}</span>
+                    {{ end }}
+                  {{ end }}
+                  </li>
+                </ul>
+              </section>
+            {{ end }}
+          {{ end }}
+        
+        </section>
+        {{ partial "site-footer" . }}
+      {{ partial "scripts" . }}
+    </div>
+  </body>
+</html>

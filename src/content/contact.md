@@ -21,6 +21,6 @@ Klinische- und Gesundheitspsychologin<br>
 
 Email: [termin@meine-skills.at](mailto:termin@meine-skills.at)
 
-[Datenschutz](/privacy)
+
 
 

@@ -1,6 +1,6 @@
 +++
 author = "Marlene & Karin"
-categories = ["Skillstrainig"]
+Angebote = ["Skillstrainig"]
 date = "2019-09-05"
 description = "Endlich Eltern, doch das Glück bleibt aus?"
 featured = "skills_qf.jpg"
