@@ -8,18 +8,18 @@
     <div id="wrapper">
 
       {{ partial "site-intro" . }}
-      <main id="site-main">
-        # UNDER CONSTRUCTION <br>
-        
-        Willkommen<br>
-        Foto von Karin und mir, kurze Info, cooler Spruch, etc   <br>
-        #
-
-        {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-          {{ range $paginator.Pages }}
-            {{ .Render "content-list" }}
-          {{ end }}
-          {{ partial "pagination" . }}
+        <main id="site-main">
+          <article class="post">
+            <header>
+              <div class="title">
+                  {{ with .Site.Params.home.header }}<h2>{{ . | safeHTML }}</h2>{{ end }}
+                  {{ with .Site.Params.home.paragraph }}<p>{{ . | safeHTML }}</p>{{ end }}
+              </div>
+            </header>
+              <div id="content">
+                {{ with .Site.Params.home.content }}<p>{{ . | safeHTML }}</p>{{ end }}
+            </div>
+          </article>
         </main>
       <section id="site-sidebar">
 

@@ -63,8 +63,16 @@ canonifyURLs = true
     shareMenu           = false
     languageMenu        = false
 
+  # startseite
+  [params.home]
+    header                = "willkommen"
+    paragraph             = "auf meine-skills.at"
+    content               = "Foto von Karin und mir, kurze Info, cooler Spruch, etc...   <br>"
+
+
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
+  
   [params.intro]
     header                = "meine skills header"
     paragraph             = "SKILLSTRAINING im paragraph"
