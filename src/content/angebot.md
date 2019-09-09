@@ -16,9 +16,9 @@ type = "post"
 # SKILLSTRAINING
  
 
-* für Eltern, die sich erschöpft, gestresst, isoliert, überfordert, etc. fühlen 
+* für Eltern, die sich erschöpft, gestresst, isoliert, überfordert etc. fühlen 
 
-* bei Risikogruppen als Vorbeugung bereits vor der Geburt 
+* bei Risikogruppen als Vorbeugung auch vor der Geburt 
 
 
 In zehn wöchentlich stattfindenden Einheiten (á 90 Minuten) erlernen und trainieren Sie in der Gruppe Werkzeuge für den Weg aus der Krise. 
