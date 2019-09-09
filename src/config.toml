@@ -87,7 +87,7 @@ canonifyURLs = true
       #src                 = "/img/holz.JPG"
       src                 = "/img/main/LogoWebsite.PNG"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "hexagon"
+      shape               = "circle"
       width               = "64"
       alt                 = "meine skills"
 
