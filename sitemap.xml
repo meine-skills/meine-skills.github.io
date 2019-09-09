@@ -13,53 +13,13 @@
   </url>
   
   <url>
-    <loc>https://meine-skills.at/categories/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://meine-skills.at/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://meine-skills.at/categories/skillstrainig/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/angebote/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/angebote/skillstrainig/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://meine-skills.at/angebot/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/tags/angebote/</loc>
-    <lastmod>2019-09-02T16:34:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/flyer/</loc>
-    <lastmod>2019-09-02T16:34:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/tags/flyer/</loc>
-    <lastmod>2019-09-02T16:34:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meine-skills.at/tags/</loc>
-    <lastmod>2019-09-02T16:34:49+02:00</lastmod>
   </url>
   
   <url>
@@ -90,6 +50,14 @@
   </url>
   
   <url>
+    <loc>https://meine-skills.at/angebote/</loc>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/categories/</loc>
+  </url>
+  
+  <url>
     <loc>https://meine-skills.at/privacy/</loc>
   </url>
   
@@ -99,6 +67,10 @@
   
   <url>
     <loc>https://meine-skills.at/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/tags/</loc>
   </url>
   
 </urlset>

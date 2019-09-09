@@ -222,7 +222,7 @@ canonifyURLs = true
       weight            = 3
 
   [[Languages.de.menu.main]]
-      name              = "Allgemeine Informationen"
+      name              = "Informationen"
       identifier        = "allgemeineinformationen"
       url               = "/allgemeineinformationen/"
       pre               = "<i class='fas fa-newspaper'></i>"

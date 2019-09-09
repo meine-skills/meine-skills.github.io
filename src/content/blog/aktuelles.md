@@ -1,6 +1,5 @@
 +++
 author = ""
-categories = ["Skillstrainig"]
 date = "2019-09-06"
 description = "Aktuelle Angebote zum Thema Skillstraining"
 featured = "wein_qf.jpg"
@@ -10,6 +9,7 @@ linktitle = ""
 title = "Aktuelles"
 type = "post"
 
+#categories = ["Skillstrainig"]
 +++
 
 # Aktuelles
