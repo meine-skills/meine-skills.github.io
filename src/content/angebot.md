@@ -18,10 +18,10 @@ type = "post"
 
 * für Eltern, die sich erschöpft, gestresst, isoliert, überfordert etc. fühlen 
 
-* bei Risikogruppen als Vorbeugung auch vor der Geburt 
+* bei Risikogruppen als Vorbeugung auch vor der Geburt (z.B. psychischer Erkrankung, geringe Unterstützung)
 
 
-In zehn wöchentlich stattfindenden Einheiten (á 90 Minuten) erlernen und trainieren Sie in der Gruppe Werkzeuge für den Weg aus der Krise. 
+In zehn wöchentlich stattfindenden Einheiten (à 90 Minuten) erlernen und trainieren Sie in der Gruppe Werkzeuge für den Weg aus der Krise. 
 
 ## Inhalte 
 
