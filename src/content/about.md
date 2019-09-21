@@ -7,9 +7,9 @@ categories: []
 meta: "false"
 ---
 
-Wir sind Klinische- und Gesundheitspsychologinnen und haben den interdisziplinären Lehrgang Skills-Training des ÖDBT 2017 absolviert. Nach zweijähriger Erfahrung merkten wir schnell, dass dieses Training und die darin erlernten Skills in vielen Lebenslagen anwendbar sind. 
+Wir - Karin Pöppl und Marlene Kienbacher - sind Klinische- und Gesundheitspsychologinnen. Als wir gemeinsam 2017 den interdisziplinären Lehrgang Skills-Training des ÖDBT 2017 absolvierten, war uns schnell klar, dass wir zukünftig in diesem Bereich zusammenarbeiten möchten.
 
-Wir haben die Inhalte des Skillstrainings für unsere Zielgruppe angepasst. Speziell soll es Eltern helfen, die sich erschöpft, gestresst, isoliert, überfordert, depressiv, etc. fühlen. Diese Eltern empfinden häufig Gefühle wie Schuld, Scham, Trauer, Wut und Angst - das Umfeld erwartet aber, dass sie glücklich sein sollen.
+2019 hatten wir dann die entscheidende Idee, das Skillstraining speziell für Mütter mit postpartaler Depression anzubieten. Wir bekamen von Eltern oft die Rückmeldung, dass besonders die Umstellung nach dem ersten Kind schwierig war und sie ebenfalls Unterstützung gebraucht hätten. So haben wir beschlossen, diese Skillsgruppe auch für Eltern anzubieten, die sich erschöpft, gestresst, isoliert, überfordert etc. fühlen - den davon gibt es viele. Vom sozialen Umfeld wird aber erwartet, dass sie glücklich sind. Deshalb empfinden diese Mütter und Väter häufig Gefühle wie Schuld, Scham, Trauer, Wut und Angst und trauen sich oft nicht darüber zu sprechen.
 
 
 [Marlene Kienbacher](/marlenekienbacher)
