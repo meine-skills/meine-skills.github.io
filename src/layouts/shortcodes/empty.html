@@ -1,0 +1,6 @@
+<!--
+  This shortcode is used as a workaround for a Hugo's bug.
+
+  [Issue #1642] Shortcode output wrapped in <p> tags under certain conditions
+    https://github.com/gohugoio/hugo/issues/1642
+-->{{ with .Inner }}{{ end -}}
