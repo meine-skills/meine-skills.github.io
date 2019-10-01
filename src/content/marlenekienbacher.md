@@ -24,3 +24,4 @@ Und genau in so einer Krise befand ich mich. Schnell merkte ich, dass mir die er
 * Gruppentraining sozialer Kompetenzen nach Hinsch und Pfingsten
 * Selbstbild und Selbstwert – Tools für die psychologische Praxis
 
+![Beschreibungstext](/img/holz-square.png "BildTitel") 
