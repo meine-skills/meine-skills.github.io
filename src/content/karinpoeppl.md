@@ -14,10 +14,24 @@ Seit 2015 arbeite ich im Psychosozialen Zentrum in Schiltern, wo wir seit 2017 l
 
 # Lebenslauf
 
-* 2003-2010 Psychologiestudium Universität Wien
-* 2011 Ausbildung zur Klinischen- und Gesundheitspsychologin
-* 2017 Qualifizierung zur Arbeits- und Organisationspsychologin
-* seit 2015 Psychosoziale Trainingsleiterin PSZ Schiltern GmbH
+<div class="table">
+  <div class="table-row">
+    <div class="table-cell">2003-2010</div>
+    <div class="table-cell">Psychologiestudium Universität Wien</div>
+  </div>
+  <div class="table-row">
+    <div class="table-cell">2011</div>
+    <div class="table-cell">Ausbildung zur Klinischen- und Gesundheitspsychologin</div>
+  </div>
+<div class="table-row">
+    <div class="table-cell">2017</div>
+    <div class="table-cell">Qualifizierung zur Arbeits- und Organisationspsychologin</div>
+  </div>
+<div class="table-row">
+    <div class="table-cell">seit 2015</div>
+    <div class="table-cell">Psychosoziale Trainingsleiterin PSZ Schiltern GmbH</div>
+  </div>
+</div>
 
 # Fortbildungen
 
