@@ -3,7 +3,6 @@ author = ""
 categories = []
 title = "Allgemeine Informationen"
 description = ""
-linktitle = "Allgemeine Informationen Meine-Skills"
 images = [""]
 
 +++
