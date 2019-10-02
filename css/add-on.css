@@ -1,0 +1,32 @@
+.table {
+	display: table;
+	border-collapse:collapse;
+	width: 100%;
+}
+
+.table-row {
+	display: table-row;
+
+}
+
+.table-cell {
+	display: table-cell;
+	padding: 1px;
+}
+
+.thead {
+	font-weight: bold;
+	background:#eee;
+}
+ @media only screen and (max-width: 800px) {
+
+	.table {border:none;}
+	
+	.table-row,
+	.table-cell {
+		display: block;
+	}
+	
+	.table-row { margin-bottom: 5px; }
+	
+}
