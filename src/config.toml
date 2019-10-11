@@ -76,8 +76,8 @@ canonifyURLs = true
   # required for proper functionality. HTML is supported within the params.
   
   [params.intro]
-    header                = "meine skills header"
-    paragraph             = "SKILLSTRAINING im paragraph"
+    header                = "meine skills"
+    paragraph             = "so erhalte ich mir meine psychische Gesundheit"
     rssIntro              = false
     socialIntro           = false
 

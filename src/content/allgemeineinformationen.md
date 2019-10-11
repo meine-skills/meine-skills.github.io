@@ -1,8 +1,8 @@
 +++
 author = ""
 categories = []
-title = "Allgemeine Informationen"
-description = ""
+title = "Informationen"
+description = "Allgemeine Informationen"
 images = [""]
 
 +++

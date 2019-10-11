@@ -42,10 +42,6 @@
   </url>
   
   <url>
-    <loc>https://meine-skills.at/allgemeineinformationen/</loc>
-  </url>
-  
-  <url>
     <loc>https://meine-skills.at/angebote/</loc>
   </url>
   
@@ -59,6 +55,10 @@
   
   <url>
     <loc>https://meine-skills.at/impressum/</loc>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/allgemeineinformationen/</loc>
   </url>
   
   <url>

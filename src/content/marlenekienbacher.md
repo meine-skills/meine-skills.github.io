@@ -10,6 +10,8 @@ images = [""]
 Mein Name ist **Marlene Kienbacher**. Als mein Sohn 2018 zur Welt kam, wurde mein bisheriges Leben auf den Kopf gestellt. In meinem Psychologiestudium lernte ich, dass eine Lebenskrise auch durch positive Ereignisse ausgelöst werden kann. Eine Lebenskrise bedeutet, dass plötzlich alles anders ist. Die bisherigen Bewältigungsmechanismen greifen nicht mehr, dadurch fühlt man sich erstmal überfordert. Es heißt neue Kompetenzen zu entwickeln, um die Krise zu überwinden.
 Und genau in so einer Krise befand ich mich. Schnell merkte ich, dass mir die erlernten Skills aus der Ausbildung in meiner Situation helfen konnten. Es entstand die Idee, das Skillstraining für junge Eltern anzupassen.
 
+![Beschreibungstext](/img/MarleneKienbacher.JPG "Marlene Kienbacher")
+
 
 # Lebenslauf
 
@@ -36,4 +38,3 @@ Und genau in so einer Krise befand ich mich. Schnell merkte ich, dass mir die er
 * Gruppentraining sozialer Kompetenzen nach Hinsch und Pfingsten
 * Selbstbild und Selbstwert – Tools für die psychologische Praxis
 
-![Beschreibungstext](/img/holz-square.png "BildTitel") 

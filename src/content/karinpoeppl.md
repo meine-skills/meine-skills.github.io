@@ -12,6 +12,8 @@ Mein Name ist **Karin Pöppl**. Mein Studium der Psychologie habe ich 2010 in Wi
 Mein Zugang liegt darin, dass Menschen alles für die Lösung ihrer Probleme mitbringen. Meine Aufgabe sehe ich darin, sie auf den Weg zu ihrer Lösung zu begleiten.
 Seit 2015 arbeite ich im Psychosozialen Zentrum in Schiltern, wo wir seit 2017 laufend Skillstraining anbieten.
 
+![Beschreibungstext](/img/KarinPoeppl.JPG "Karin Pöppl")
+
 # Lebenslauf
 
 <div class="table">
