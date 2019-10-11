@@ -77,7 +77,7 @@ canonifyURLs = true
   
   [params.intro]
     header                = "meine skills"
-    paragraph             = "so erhalte ich mir meine psychische Gesundheit"
+    paragraph             = "Erhaltung und Förderung psychischer Gesundheit von Eltern"
     rssIntro              = false
     socialIntro           = false
 
