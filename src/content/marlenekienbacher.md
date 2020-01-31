@@ -25,8 +25,12 @@ Und genau in so einer Krise befand ich mich. Schnell merkte ich, dass mir die er
     <div class="table-cell">Ausbildung zur Klinischen- und Gesundheitspsychologin</div>
   </div>
 <div class="table-row">
-    <div class="table-cell">seit 2013</div>
+    <div class="table-cell">2013-2020</div>
     <div class="table-cell">Psychosoziale Trainingsleiterin PSZ Schiltern GmbH</div>
+  </div>
+  <div class="table-row">
+    <div class="table-cell">seit 2020</div>
+    <div class="table-cell">Klinische und Gesundheitspsychologin PSZ Schiltern GmbH</div>
   </div>
 </div>
 
