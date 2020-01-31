@@ -60,7 +60,7 @@ canonifyURLs = true
     navbarTitle         = "meine skills"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = false
-    searchMenu          = true
+    searchMenu          = false
     shareMenu           = false
     languageMenu        = false
 

@@ -1,13 +1,13 @@
 +++
 author = ""
 date = "2019-09-06"
-description = "Aktuelle Angebote zum Thema Skillstraining"
 featured = "wein_qf.jpg"
 featuredalt = "Holz"
 featuredpath = "date"
 linktitle = ""
 title = "Aktuelles"
 type = "post"
+description = "Aktuelle Angebote zum Thema Skillstraining"
 
 #categories = ["Skillstrainig"]
 +++

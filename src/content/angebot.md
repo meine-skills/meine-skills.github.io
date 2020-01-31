@@ -1,27 +1,28 @@
 +++
 author = ""
-#Angebote = ["Skillstraining"]
 Angebote = []
+
 date = "2019-09-05"
-description = ""
+
 featured = "skills_qf.jpg"
 featuredalt = "Skills"
 featuredpath = "date"
-linktitle = "Skillstrainig"
-title = "Endlich Eltern - Doch das Glück fehlt"
-type = "post"
 
+title = "Skillstrainig"
+type = "post"
+description = "Endlich Eltern - Doch das Glück fehlt"
 +++
 
 # SKILLSTRAINING
- 
 
 * für Eltern, die sich erschöpft, gestresst, isoliert, überfordert etc. fühlen 
 
-* bei Risikogruppen als Vorbeugung auch vor der Geburt (z.B. psychischer Erkrankung, geringe Unterstützung)
+* bei Risikogruppen als Vorbeugung auch vor der Geburt 
+(z.B. psychischer Erkrankung, geringe Unterstützung)
 
 
-In zehn wöchentlich stattfindenden Einheiten (à 90 Minuten) erlernen und trainieren Sie in der Gruppe Werkzeuge für den Weg aus der Krise. 
+In zehn wöchentlich stattfindenden Einheiten (à 90 Minuten) 
+erlernen und trainieren Sie in der Gruppe Werkzeuge für den Weg aus der Krise. 
 
 ## Inhalte 
 
@@ -33,7 +34,8 @@ In zehn wöchentlich stattfindenden Einheiten (à 90 Minuten) erlernen und train
 
 * Selbstwertsteigerung 
 
-* Verbesserung der zwischenmenschlichen Fertigkeiten (um Hilfe bitten, etc.) 
+* Verbesserung der zwischenmenschlichen Fertigkeiten 
+(um Hilfe bitten, etc.) 
 
  
 
