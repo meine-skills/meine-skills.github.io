@@ -59,4 +59,4 @@ Manche Eltern haben ein erhöhtes Risiko die Zeit nach der Geburt als zu große 
 
 Das Sozialministerium hat einen Ratgeber zusammengestellt, in dem man die wichtigsten Informationen zum diesem Thema findet.
 
-Ratgeber: {{% a_blank "Psychische und soziale Belastung in der Schwangerschaft und nach der Geburt" "https://www.sozialministerium.at/cms/site/attachments/2/4/1/CH3999/CMS1382012804966/ratgeberppd.pdf" %}}
+Ratgeber: {{% a_blank "Psychische und soziale Belastung in der Schwangerschaft und nach der Geburt" "https://www.sozialministerium.at/dam/jcr:b7137268-89c1-4784-998b-c895f050d1be/Postpartale_Depression_druck_20170329.pdf" %}}
