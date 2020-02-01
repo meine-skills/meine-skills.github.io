@@ -17,6 +17,10 @@ Special thanks to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/
 
 ---
 
+# CHANGELOG: 
+* 1.2.2020: hugo-extended v0.59.1 =>  Version 0.63.2 
+
+
 {{% a_email "x@meine-skills.at" "x@meine-skills.at" %}}
 
 

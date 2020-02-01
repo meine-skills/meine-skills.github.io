@@ -12,6 +12,9 @@ disableLanguages        = ["en"]
 publishDir = "../"
 canonifyURLs = true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [taxonomies]
   category = "categories"
   tag = "tags"
