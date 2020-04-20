@@ -68,10 +68,10 @@ unsafe= true
     languageMenu        = false
 
   # startseite
-  [params.home]
-    header                = "willkommen"
-    paragraph             = "auf meine-skills.at"
-    content               = "WEBSITE im AUFBAU - UNDER CONSTRUCTION ... <br> "
+  #[params.home]
+  #  header                = "willkommen"
+  #  paragraph             = "auf meine-skills.at"
+    #content               = "WEBSITE im AUFBAU - UNDER CONSTRUCTION ... <br> "
     #content               = "Foto von Karin und mir, kurze Info, cooler Spruch, etc...   <br>"
 
 
