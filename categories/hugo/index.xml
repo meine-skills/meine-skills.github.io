@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on meine skills - training</title>
+    <title>Hugo on meine skills</title>
     <link>https://meine-skills.at/categories/hugo/</link>
-    <description>Recent content in Hugo on meine skills - training</description>
+    <description>Recent content in Hugo on meine skills</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
