@@ -760,7 +760,7 @@ table {
 
 #wrapper {
   display: grid;
-  grid-template-areas: 'intro' 'main' 'sidebar' 'footer';
+  grid-template-areas: 'intro' 'main' 'sidebar' 'footer';
   grid-template-rows: auto 1fr auto auto;
   margin: 0 auto;
   max-width: 90em;
@@ -772,7 +772,7 @@ table {
   transition: .5s; }
   @media (min-width: 1024px) {
     #wrapper {
-      grid-template-areas: 'intro main' 'sidebar main' 'footer main' 'blank main';
+      grid-template-areas: 'intro main' 'sidebar main' 'footer main' 'blank main';
       grid-template-columns: 22em 1fr;
       grid-template-rows: auto auto auto 1fr;
       padding: 0 2.5em; } }

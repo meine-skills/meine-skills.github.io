@@ -42,3 +42,9 @@ Und genau in so einer Krise befand ich mich. Schnell merkte ich, dass mir die er
 * Gruppentraining sozialer Kompetenzen nach Hinsch und Pfingsten
 * Selbstbild und Selbstwert – Tools für die psychologische Praxis
 
+# Kontakt
+
+Mag.a Marlene Kienbacher <br>
+Klinische- und Gesundheitspsychologin<br>
+[<i class="fa fa-phone"></i> 0676 694 22 87](tel:+436766942287)
+<br>{{% a_email "marlene.kienbacher@meine-skills.at" "marlene.kienbacher@meine-skills.at" %}}
