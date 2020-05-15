@@ -15,7 +15,8 @@ Mag. Marlene Kienbacher<br/>
 Mitglied beim Berufsverband Österreichischer Psychologen und Psychologinnen (BÖP)
 
 
-Mag. Karin Pöppl<br/>
+Mag. Karin Pöppl
+
 Die Homepage meine-skills.at bietet der Öffentlichkeit Informationen über unser Angebot, aktuelle Termine und Hintergrundinformationen.
 
 ### Allgemeine Nutzungsbedingungen
