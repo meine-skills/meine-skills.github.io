@@ -5,6 +5,7 @@ title = "Impressum"
 description = ""
 linktitle = ""
 images = [""]
+type = "post"
 
 +++
 

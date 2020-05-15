@@ -4,7 +4,7 @@ categories = []
 title = "Informationen"
 description = ""
 images = [""]
-
+type = "post"
 +++
 
 

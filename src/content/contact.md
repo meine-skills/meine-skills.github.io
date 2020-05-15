@@ -1,6 +1,7 @@
 +++
 author = ""
-categories = []
+Angebote = []
+type = "post"
 title = "Kontakt"
 description = "für Terminvereinbarungen"
 

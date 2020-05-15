@@ -1,6 +1,7 @@
 +++
 author = ""
 Angebote = []
+category = []
 
 date = "2019-09-05"
 
