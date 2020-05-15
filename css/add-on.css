@@ -1,3 +1,6 @@
+body{
+	background-color: #eddfe3;
+}
 .table {
 	display: table;
 	border-collapse:collapse;

@@ -28,6 +28,16 @@
   </url>
   
   <url>
+    <loc>https://meine-skills.at/beratung-im-einzelsetting/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/skillstraining-in-der-gruppe/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://meine-skills.at/about/</loc>
     <lastmod>2019-09-02T13:44:22+02:00</lastmod>
   </url>
@@ -55,6 +65,10 @@
   </url>
   
   <url>
+    <loc>https://meine-skills.at/datenschutz/</loc>
+  </url>
+  
+  <url>
     <loc>https://meine-skills.at/privacy/</loc>
   </url>
   
@@ -71,11 +85,19 @@
   </url>
   
   <url>
+    <loc>https://meine-skills.at/literatur/</loc>
+  </url>
+  
+  <url>
     <loc>https://meine-skills.at/marlenekienbacher/</loc>
   </url>
   
   <url>
     <loc>https://meine-skills.at/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/infoppd/</loc>
   </url>
   
 </urlset>
