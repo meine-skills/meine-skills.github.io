@@ -82,7 +82,7 @@ unsafe= true
   
   [params.intro]
     header                = "meine skills"
-    paragraph             = "Erhaltung und Förderung psychischer Gesundheit von Eltern"
+    paragraph             = "Erhaltung und Förderung psychischer Gesundheit"
     rssIntro              = false
     socialIntro           = false
 
