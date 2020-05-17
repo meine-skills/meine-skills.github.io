@@ -17,4 +17,4 @@ description = "Unser Angebot umfasst folgende Themenschwerpunkte"
 * [Skillstraining in der Gruppe](/skillstraining-in-der-gruppe)
 * [Beratung im Einzelsetting](/beratung-im-einzelsetting)
 
-
+<img src="/img/Steinmann840260.webp" >

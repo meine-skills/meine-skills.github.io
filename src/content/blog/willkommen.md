@@ -1,8 +1,8 @@
 +++
 author = ""
 date = "2020-04-18"
-images  = ["img/MeineSkillsTitelbild.jpg"]
-featured = "img/MeineSkillsTitelbild.jpg"
+images  = ["img/Pusteblumen840341.webp"]
+featured = "img/Pusteblumen840341.webp"
 
 featuredalt = "MeineSkillsTitelbild"
 linktitle = ""
