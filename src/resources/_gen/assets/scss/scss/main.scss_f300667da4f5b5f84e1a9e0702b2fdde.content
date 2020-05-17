@@ -973,7 +973,8 @@ table {
   justify-content: space-between; }
   #site-nav .flyout-menu {
     right: -177px;
-    width: 177px; }
+    width: 177px;
+    width: max-content; }
     @media (min-width: 1024px) {
       #site-nav .flyout-menu {
         background-color: unset;

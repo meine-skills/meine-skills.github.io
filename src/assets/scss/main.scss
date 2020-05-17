@@ -1257,6 +1257,7 @@ textarea {
    .flyout-menu {
      right: -177px;
      width: 177px;
+     width: max-content;
      @include for-desktop-up {
        background-color: unset;
        border: none;
