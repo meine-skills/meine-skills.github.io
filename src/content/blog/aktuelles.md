@@ -6,14 +6,17 @@ featuredpath = "date"
 linktitle = ""
 title = "Aktuelles"
 type = "post"
-description = "Aktuelle Angebote zum Thema Skillstraining"
+description = ""
 
 #categories = ["Skillstrainig"]
 +++
 
-# Aktuelles
-* Termine: Montag 17:15 Uhr oder Freitag 14:00 Uhr bzw. nach Vereinbarung  
+Geplante Fortbildung
 
-* Start	ab Oktober 2019 
+Unser Angebot soll durch diese kommenden Fortbildung möglichst bald erweitert werden:
+
+* Fortbildung Ernährungspsychologie - Referentin: Mag. Cornelia Fiechtl (Herbst 2020)
+* Fortbildung Geburtstrauma - Referentin: Mag. Judith Raunig, Co-Referentin: Alexandra Vöhringer, BSc. (bis Mitte 2021)
+
 
 <img src="/img/Orchidee840341.webp" >

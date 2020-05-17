@@ -5,9 +5,10 @@ category = []
 
 date = "2019-09-05"
 
-featured = "skills_qf.jpg"
-featuredalt = "Skills"
+featured = "alteseele.webp"
+featuredalt = "lemomeineseele"
 featuredpath = "date"
+
 
 title = "Beratung im Einzelsetting"
 type = "post"

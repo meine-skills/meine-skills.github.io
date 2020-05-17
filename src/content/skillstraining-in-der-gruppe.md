@@ -4,8 +4,8 @@ Angebote = []
 
 date = "2019-09-05"
 
-featured = "skills_qf.jpg"
-featuredalt = "Skills"
+featured = "babyblues.webp"
+featuredalt = "babyblues"
 featuredpath = "date"
 
 title = "Skillstraining in der Gruppe"

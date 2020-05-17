@@ -9,5 +9,5 @@ type = "post"
 
 
 * [Wenn nach einer Geburt das Glück auf sich warten lässt](/infoppd)
-* [Literaturtipps und Literaturverzeichnis](/literatur)
-* [Datenschutz](/datenschutz)
+* [Literaturtipps und Quellenverzeichnis](/literatur)
+* [Zitatsammlung](/zitate)
