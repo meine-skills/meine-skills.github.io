@@ -11,7 +11,7 @@ description = ""
 #categories = ["Skillstrainig"]
 +++
 
-Geplante Fortbildung
+Geplante Fortbildungen
 
 Unser Angebot soll durch diese kommenden Fortbildung möglichst bald erweitert werden:
 
