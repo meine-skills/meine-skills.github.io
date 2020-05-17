@@ -5,6 +5,7 @@ draft: false
 #tags: ["über uns"]
 categories: []
 meta: "false"
+type: "post"
 ---
 
 Wir - Karin Pöppl und Marlene Kienbacher - sind Klinische- und Gesundheitspsychologinnen. Als wir gemeinsam 2017 den interdisziplinären Lehrgang Skills-Training des ÖDBT 2017 absolvierten, war uns schnell klar, dass wir zukünftig in diesem Bereich zusammenarbeiten möchten.

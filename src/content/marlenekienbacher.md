@@ -4,7 +4,7 @@ categories = []
 title = "Marlene Kienbacher"
 description = ""
 images = [""]
-
+type = "post"
 +++
 
 Mein Name ist **Marlene Kienbacher**. Als mein Sohn 2018 zur Welt kam, wurde mein bisheriges Leben auf den Kopf gestellt. In meinem Psychologiestudium lernte ich, dass eine Lebenskrise auch durch positive Ereignisse ausgelöst werden kann. Eine Lebenskrise bedeutet, dass plötzlich alles anders ist. Die bisherigen Bewältigungsmechanismen greifen nicht mehr, dadurch fühlt man sich erstmal überfordert. Es heißt neue Kompetenzen zu entwickeln, um die Krise zu überwinden.

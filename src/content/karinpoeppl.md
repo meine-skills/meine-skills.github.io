@@ -1,10 +1,11 @@
 +++
 author = ""
 categories = []
+title = "Karin Pöppl"
 description = ""
 linktitle = ""
 images = [""]
-
+type = "post"
 +++
 
 
@@ -49,5 +50,9 @@ Diverse Weiterbildungen Richtung „Themenzentrierte Interaktion nach Ruth Cohn�
 * Themen meines Lebens – Lebensthemen – erkennen, benennen, Wegweiser formulieren
 * Schwierige Situationen in Gruppen – Ursachen erkennen und beheben
 
+# Kontakt
 
-
+Mag.a Karin Pöppl <br>
+Klinische- und Gesundheitspsychologin<br>
+[<i class="fa fa-phone"></i> 0676 3999 220](tel:+436763999220)
+<br>{{% a_email "karin.poeppl@meine-skills.at" "karin.poeppl@meine-skills.at" %}}

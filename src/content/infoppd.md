@@ -4,7 +4,7 @@ categories = []
 title = "Wenn das Glück fehlt"
 description = "Hintergrundinformationen"
 images = [""]
-
+type = "post"
 +++
 
 **Babyblues oder postpartale Depression - wo liegt der Unterschied?**
