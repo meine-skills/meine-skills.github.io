@@ -22,7 +22,7 @@ Sofern Sie uns personenbezogene Daten zur Verfügung gestellt haben, nutzen wir 
 
 Es werden nur solche personenbezogenen Daten erhoben, die für die Durchführung und Abwicklung unserer Leistungen erforderlich sind oder die Sie uns freiwillig zur Verfügung gestellt haben. 
 
-Wir werden die uns zur Verfügung gestellten Daten nicht für andere Zwecke als die durch Vertrag oder durch Ihre Einwilligung oder sonst durch eine Bestimmung im Einklang mit der DSGVO gedeckten Zwecken verarbeiten.  
+Wir werden die uns zur Verfügung gestellten Daten nicht für andere Zwecke, als für die durch Vertrag oder durch Ihre Einwilligung oder sonst durch eine Bestimmung im Einklang mit der DSGVO gedeckten Zwecken verarbeiten.  
 
 
 ### Auskunft und Löschung 

@@ -7,14 +7,14 @@ images = [""]
 type = "post"
 +++
 
-**Babyblues oder postpartale Depression - wo liegt der Unterschied?**
+**Babyblues oder postpartale bzw. postnatale Depression - wo liegt der Unterschied?**
 
-Der Babyblues (auch Heultage) treten innerhalb der ersten zwei Wochen nach der Geburt auf - oft um den dritten bis vierten Tag. Diese depressive Verstimmung klingt in nur wenigen Tagen wieder spontan ab.
-Eine länger anhaltende Depression entwickeln 10-15% der Frauen innerhalb der ersten sechs Monate nach der Geburt (manchmal auch innerhalb eines Jahres). 
+Der Babyblues (auch Heultage) tritt innerhalb der ersten zwei Wochen nach der Geburt auf - oft um den dritten bis vierten Tag. Diese depressive Verstimmung klingt in nur wenigen Tagen wieder spontan ab.
+Eine länger anhaltende Depression entwickeln 10 - 15% der Frauen innerhalb der ersten sechs Monate nach der Geburt (manchmal auch innerhalb eines Jahres). 
 
-typische depressive Symptome sind:
+Typische depressive Symptome sind:
 
-* gedrückte, traurige Verstimmung
+* gedrückte, traurige Stimmung
 * Freudlosigkeit und Interessensverlust
 * das Gefühl antriebslos zu sein
 * Konzentrationsstörungen, verlangsamtes Denken
@@ -31,7 +31,7 @@ Vor allem leiden Betroffene aber auch unter:
 
 Etwa ein Drittel der depressiven Mütter erlebt Zwangsgedanken, die davon handeln dem Kind Schaden zuzufügen (z.B. die Vorstellung das Kind fallen zu lassen). Viele Frauen schämen sich, weil sie keine Zuneigung ihrem Kind gegenüber empfinden können.
 
-Die psychischen Beinträchtigungen, die rund um die Geburt auftreten können, reichen von der prä- und postnatalen Depression, von Angst- und Zwangserkrankungen über die Anpassungsstörung bis hin zur postpartalen Psychose. In allen Fällen ist ein Facharzt zu kontaktieren (vgl. Wortmann-Fleischer, Downing & Hornstein, 2016, S.17).
+Die psychischen Beeinträchtigungen, die rund um die Geburt auftreten können, reichen von der prä- und postnatalen Depression, von Angst- und Zwangserkrankungen über die Anpassungsstörung bis hin zur postpartalen Psychose. In allen Fällen ist ein Facharzt zu kontaktieren (vgl. Wortmann-Fleischer, Downing & Hornstein, 2016, S.17).
 
 **Geht es nur mir so?**
 
@@ -40,11 +40,11 @@ Viele Eltern leiden in dieser Zeit an quälenden Zwangsgedanken ihr Kind zu sch�
 
 **Ich fühle mich während der Schwangerschaft so unglücklich - ich sollte doch glücklich sein?**
 
-Auch während der Schwangerschaft kann es bereits zur depressiven Verstimmung oder Depressionen kommen. Familiäre Probleme, permanenter Stress im Berufs- oder Privatleben, finanzielle Sorgen, etc. können dafür verantwortlich sein.
+Auch während der Schwangerschaft kann es bereits zur depressiven Verstimmung oder zu Depressionen kommen. Familiäre Probleme, permanenter Stress im Berufs- oder Privatleben, finanzielle Sorgen, etc. können dafür verantwortlich sein.
 
 **Ich habe Angst vor der Zeit nach der Geburt**
 
-Manche Eltern haben ein erhöhtes Risiko die Zeit nach der Geburt als zu große Belastung zu erleben bzw. eine psychischen Erkrankung/Krise zu durchleben:
+Manche Eltern haben ein erhöhtes Risiko die Zeit nach der Geburt als zu große Belastung zu erleben bzw. eine psychisch Erkrankung/Krise zu durchleben:
 
 * in der eigenen Familie gibt es jemanden mit einer psychischen Erkrankung
 * frühere Angst- und Depressionsepisoden
@@ -61,8 +61,8 @@ Ratgeber:
 
 **Was soll ich tun?**
 
-Zahlreiche Bücher oder sogenannte Experten in den Medien geben oft vor, die universelle Lösung für dieses Problem gefunden zu haben. Der Gedanke - endlich eine passende Antwort zu bekommen, eine die immer hilft und die Lösung für alle Probleme darstellt – ist sehr verlockend. Das Scheitern ist aber meist vorprogrammiert, nach einiger Zeit kommt die Erkenntnis, dass es doch nicht immer funktioniert und oft werden die Selbstzweifel dadurch nur noch größer *„Nicht einmal das schaffe ich!“*
+Zahlreiche Bücher oder sogenannte Experten in den Medien geben oft vor, die universelle Lösung für dieses Problem gefunden zu haben. Der Gedanke, endlich eine passende Antwort zu bekommen - eine die immer hilft und die Lösung für alle Probleme darstellt – ist sehr verlockend. Das Scheitern ist aber meist vorprogrammiert, nach einiger Zeit kommt die Erkenntnis, dass es doch nicht wie erwartet funktioniert und oft werden die Selbstzweifel dadurch nur noch größer *„Nicht einmal das schaffe ich!“*
 
 Aber gerade in zwischenmenschlichen Beziehungen haben starre Schablonen keinen Platz. Hier geht es um Individualität und darum, seinen eigenen Weg zu finden. Welcher Weg zu einem passt hängt aber von verschiedenen Faktoren ab. Manche kann man beeinflussen (Welche Schuhe zieht man an? Wie gut ist man trainiert? Welches Outfit wählt man? etc.), manche kommen unerwartet oder können nicht verändert werden (Gewitter, Hitze, ein Baum liegt auf dem Weg, etc.).
 
-Es geht also eigentlich um die Frage *„Was will ich"* bzw. *wo will ich hin?“*. Mit der richtigen Ausrüstung (Skills), die bewusst verändern und trainiert werden können (bessere Schuhe, regelmäßiges Training, etc,) kann man den Weg mit seinen unvorhersehbaren Hürden (Gewitter, Hitze, etc.) besser meistern.
+Es geht also eigentlich um die Frage *„Was will ich"* bzw. *"wo will ich hin?“*. Mit der richtigen Ausrüstung (Skills), die bewusst verändert und trainiert werden können (bessere Schuhe, regelmäßiges Training, etc,) kann man den Weg mit seinen unvorhersehbaren Hürden (Gewitter, Hitze, etc.) besser meistern.
