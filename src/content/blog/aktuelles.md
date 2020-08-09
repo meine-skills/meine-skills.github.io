@@ -8,7 +8,7 @@ title = "Aktuelles"
 type = "post"
 description = ""
 
-draft = strue
+draft = true
 #categories = ["Skillstrainig"]
 +++
 
