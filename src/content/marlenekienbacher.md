@@ -7,8 +7,13 @@ images = [""]
 type = "post"
 +++
 
-Mein Name ist **Marlene Kienbacher**. Als mein Sohn 2018 zur Welt kam, wurde mein bisheriges Leben auf den Kopf gestellt. In meinem Psychologiestudium lernte ich, dass eine Lebenskrise auch durch positive Ereignisse ausgelöst werden kann. Eine Lebenskrise bedeutet, dass plötzlich alles anders ist. Die bisherigen Bewältigungsmechanismen greifen nicht mehr, dadurch fühlt man sich erstmal überfordert. Es heißt neue Kompetenzen zu entwickeln, um die Krise zu überwinden.
-Und genau in so einer Krise befand ich mich. Schnell merkte ich, dass mir die erlernten Skills aus der Ausbildung in meiner Situation helfen konnten. Es entstand die Idee, das Skillstraining für junge Eltern anzupassen.
+Mein Name ist **Marlene Kienbacher**. Bereits die erste Psychologiestunde in der Schule hat meine Faszination für diesen Bereich geweckt und meine Entscheidung Psychologie zu studieren war schnell gefasst. 2013 habe ich dieses Studium abgeschlossen und gleich im Anschluss meine Ausbildung zur Klinischen- und Gesundheitspsychologin begonnen. 
+
+Als mein Sohn 2018 zur Welt kam, wurde mein bisheriges Leben auf den Kopf gestellt. In meinem Psychologiestudium lernte ich, dass eine Lebenskrise auch durch positive Ereignisse ausgelöst werden kann. Eine Lebenskrise bedeutet, dass plötzlich alles anders ist. Die bisherigen Bewältigungsmechanismen greifen nicht mehr, dadurch fühlt man sich erstmal überfordert. Es heißt neue Kompetenzen zu entwickeln, um die Krise zu überwinden.
+Und genau in so einer Krise befand ich mich. Schnell merkte ich, dass mir die erlernten Skills aus der Ausbildung auch in meiner Situation helfen konnten.
+Der Trend, dass das Skillstraining weitaus umfangreicher angewendet werden kann als ursprünglich geplant, zeigt sich seit ein paar Jahren und ist wohl nicht unbegründet. Deswegen habe auch ich beschlossen den Schwerpunkt drauf zu legen.
+
+
 
 ![Beschreibungstext](/img/MarleneKienbacher.JPG "Marlene Kienbacher")
 

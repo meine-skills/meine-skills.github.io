@@ -66,3 +66,7 @@ Zahlreiche Bücher oder sogenannte Experten in den Medien geben oft vor, die uni
 Aber gerade in zwischenmenschlichen Beziehungen haben starre Schablonen keinen Platz. Hier geht es um Individualität und darum, seinen eigenen Weg zu finden. Welcher Weg zu einem passt hängt aber von verschiedenen Faktoren ab. Manche kann man beeinflussen (Welche Schuhe zieht man an? Wie gut ist man trainiert? Welches Outfit wählt man? etc.), manche kommen unerwartet oder können nicht verändert werden (Gewitter, Hitze, ein Baum liegt auf dem Weg, etc.).
 
 Es geht also eigentlich um die Frage *„Was will ich"* bzw. *"wo will ich hin?“*. Mit der richtigen Ausrüstung (Skills), die bewusst verändert und trainiert werden können (bessere Schuhe, regelmäßiges Training, etc,) kann man den Weg mit seinen unvorhersehbaren Hürden (Gewitter, Hitze, etc.) besser meistern.
+
+* [Literaturtipps und Quellenverzeichnis](/literatur)
+
+* [Zitatsammlung](/zitate)

@@ -8,7 +8,7 @@ featured = "babyblues.webp"
 featuredalt = "babyblues"
 featuredpath = "date"
 
-title = "Skillstraining in der Gruppe"
+title = "Skillstraining speziell nach der Geburt"
 type = "post"
 description = "Endlich Eltern - Doch das Glück fehlt"
 +++
@@ -68,3 +68,6 @@ Vereinbaren Sie mit uns einen kostenfreien Informationsabend bzw. Erstgespräch 
 Ort: {{% a_blank "Schloss Schiltern, Obere Straße 45, 3553 Schiltern" "https://www.google.com/maps/place/PSZ+Schiltern+GmbH/@48.5173697,15.614279,17.75z/data=!4m12!1m6!3m5!1s0x47729a46cf321fc7:0xc3038bf5eab37bfd!2sSchloss+Schiltern!8m2!3d48.5188308!4d15.6171278!3m4!1s0x47729a46afb40ad5:0x247894cccaae6bf4!8m2!3d48.5178445!4d15.6164532" %}}
 
 *(sollte Schiltern für Sie nicht erreichbar sein, melden Sie sich bitte [bei uns](/contact))*
+
+### Beginn
+Das Skillstraining startet sobald genügend Anmeldungen vorhanden sind. Auf Wunsch bieten wir die Inhalte des Skillstrainings auch im [Einzelsetting](/einzelsetting) an.
