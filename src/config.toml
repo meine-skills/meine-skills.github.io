@@ -220,9 +220,9 @@ unsafe= true
       weight            = 2
 
 [[Languages.de.menu.main]]
-      name              = "Aktuelles"
-      identifier        = "aktuelles"
-      url               = "/blog/aktuelles"
+      name              = "Einzelsetting"
+      identifier        = "Einzelsetting"
+      url               = "/einzelsetting"
       pre               = "<i class='fas fa-newspaper'></i>"
       weight            = 3
 
