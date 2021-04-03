@@ -67,6 +67,3 @@ Aber gerade in zwischenmenschlichen Beziehungen haben starre Schablonen keinen P
 
 Es geht also eigentlich um die Frage *„Was will ich"* bzw. *"wo will ich hin?“*. Mit der richtigen Ausrüstung (Skills), die bewusst verändert und trainiert werden können (bessere Schuhe, regelmäßiges Training, etc,) kann man den Weg mit seinen unvorhersehbaren Hürden (Gewitter, Hitze, etc.) besser meistern.
 
-* [Literaturtipps und Quellenverzeichnis](/literatur)
-
-* [Zitatsammlung](/zitate)

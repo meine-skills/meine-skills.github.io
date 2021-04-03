@@ -50,9 +50,8 @@ Die Kosten für das Skillstraining betragen 450 € für 10 Einheiten (jeweils 9
 
 
 ### Veranstaltungsort 
-
-Krems an der Donau
+Schiltern bei Langenlois, Krems an der Donau oder Mühldorf bei Spitz
 
 ### Beginn
 
-Das Skillstraining startet sobald genügend Anmeldungen vorhanden sind. Auf Wunsch bieten wir die Inhalte des Skillstrainings auch im [Einzelsetting](/einzelsetting) an.
+Das Skillstraining startet sobald genügend Anmeldungen vorhanden sind. Auf Wunsch bieten wir die Inhalte des Skillstrainings auch im [Einzelsetting](/angebot) an.

@@ -37,7 +37,7 @@ werden hier demnächst bekannt gegeben
 
 ### Veranstaltungsort 
 
-Krems an der Donau
+Schiltern bei Langenlois, Krems an der Donau oder Mühldorf bei Spitz
 
 Gerne bieten wir dieses Training für Schulen oder Firmen vor Ort an (max. TeilnehmerInnenanzahl 10 Personen)
 
