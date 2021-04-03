@@ -140,7 +140,7 @@ unsafe= true
     weight            = 1
 
   [[menu.main]]
-    name              = "Über uns"
+    name              = "Über mich"
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
@@ -220,9 +220,9 @@ unsafe= true
       weight            = 2
 
 [[Languages.de.menu.main]]
-      name              = "Einzelsetting"
-      identifier        = "Einzelsetting"
-      url               = "/einzelsetting"
+      name              = "Gruppensetting"
+      identifier        = "Gruppensetting"
+      url               = "/gruppensetting"
       pre               = "<i class='fas fa-newspaper'></i>"
       weight            = 3
 
@@ -248,7 +248,7 @@ unsafe= true
       weight            = 90
 
     [[Languages.de.menu.main]]
-      name              = "Über uns"
+      name              = "Über mich"
       identifier        = "about"
       url               = "/about/"
       pre               = "<i class='far fa-id-card'></i>"

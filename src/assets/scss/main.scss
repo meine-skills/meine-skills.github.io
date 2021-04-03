@@ -17,13 +17,13 @@
  /* ==========================================================================
     Variables
     ========================================================================== 
-    #ae5976
-#d2a2b2
+    #Dcc1b0
+#DFAF29
     */
 
-$accent-color: #ae5976;
-$hover-color: #d2a2b2;
-$headercolor: #ffffff;
+$accent-color: #847072;
+$hover-color: #DFAF29;
+$headercolor: #fff;
  /* ==========================================================================
     Breakpoints
     ========================================================================== */
@@ -98,19 +98,25 @@ $headercolor: #ffffff;
  */
 
 /* dunkel:
-#ae5976
+
+
+
+#Dcc1b0
 hell:
-#d2a2b2
-b3d4fc > d2a2b2
+#DFAF29
+b3d4fc > DFAF29
+
+#farbemarkierung
+
 */
 
 ::-moz-selection {
-    background: #d2a2b2;
+    background: #DFAF29;
     text-shadow: none;
 }
 
 ::selection {
-    background: #d2a2b2;
+    background: #DFAF29;
     text-shadow: none;
 }
 
@@ -354,7 +360,7 @@ textarea {
 
  ::-webkit-input-placeholder, :-moz-placeholder,
  ::-moz-placeholder, :-ms-input-placeholder, .formerize-placeholder {
- 	color: #aaaaaa;
+ 	color: #111111;
  	opacity: 1.0;
  }
 
@@ -1015,7 +1021,7 @@ textarea {
    }
  }
 
- /* ---------------------------------Classes--------------------------------- */
+ /* #farbenpost ---------------------------------Classes--------------------------------- */
 
  .post {
    background: #ffffff;
@@ -1191,9 +1197,9 @@ textarea {
  /* -----------------------------------IDs----------------------------------- */
 
  /* Site Header */
-
+/* #farbeskills */
  #site-header {
-   background-color: #ae5976;
+   background-color: #40686A;
    color: $headercolor;
    border-bottom: solid 1px rgba(160, 160, 160, 0.3);
    -webkit-box-shadow:  0 3px 6px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23);
@@ -1219,8 +1225,9 @@ textarea {
      padding: 0 1.5em;
      text-transform: uppercase;
    }
+   /*#farbenmenü */
    .flyout-menu {
-     background-color: #ae5976;
+     background-color: #847072 ;
      border-left: 1px solid rgba(160, 160, 160, 0.3);
      height: 100%;
      margin-top: 3.5em;
@@ -1622,7 +1629,7 @@ textarea {
    margin: 3em 2em 0 2em;
    padding-top: 3em;
    .copyright {
-     color: #aaaaaa;
+     color: #111111;
      font-family: "Raleway", Helvetica, sans-serif;
      font-size: 0.5em;
      font-weight: 400;
@@ -1634,7 +1641,7 @@ textarea {
 
  #back-to-top {
    bottom: 15px;
-   color: #aaaaaa;
+   color: #111111;
    display: none;
    position: fixed;
    right: 15px;
