@@ -5,10 +5,6 @@
     <link>https://meine-skills.at/angebote/</link>
     <description>Recent content in Angebote on meine skills</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    
-	<atom:link href="https://meine-skills.at/angebote/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>de</language><atom:link href="https://meine-skills.at/angebote/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
