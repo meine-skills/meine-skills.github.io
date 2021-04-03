@@ -1,8 +1,8 @@
 +++
 author = ""
 date = "2021-04-03"
-images  = ["img/Steinmann840260.webp"]
-featured = "img/Steinmann840260.webp"
+images  = [""]
+featured = ""
 
 featuredalt = "MeineSkillsTitelbild"
 linktitle = ""
@@ -13,4 +13,8 @@ description = "auf meine-skills.at"
 #categories = ["Skillstrainig"]
 +++
 
+<p align="center">
+<img  src="/img/Titelbild.webp" width="600">
+</p>
 
+Mein Name ist Marlene Kienbacher, ich bin Klinische- und Gesundheitspsychologin und biete in meiner Praxis psychologische Beratung und Behandlung zu verschiedenen [Schwerpunkten](/angebot) an - vor allem bezüglich Elternschaft und Geburt.

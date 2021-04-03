@@ -5,8 +5,8 @@ category = []
 
 date = "2019-09-05"
 
-featured = "alteseele.webp"
-featuredalt = "lemomeineseele"
+featured = ""
+featuredalt = ""
 featuredpath = "date"
 
 

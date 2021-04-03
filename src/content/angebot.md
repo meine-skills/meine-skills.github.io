@@ -21,6 +21,7 @@ Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
 * [Endlich Eltern – Doch das Glück fehlt](/einzelsettingppd)
 * außergewöhnlichen Belastungen vor, während und nach der Geburt eines Kindes
 * Depression und depressive Phasen
+* [Ernährung](/ernaehrung)
 * Stress und Stressmanagement
 * Selbstwertproblematik, Selbstwertaufbau
 * Beratung und Begleitung bei Lebensproblemen und Lebenskrisen
@@ -30,6 +31,17 @@ Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
 
 Gerne können Sie - falls Sie keine andere Möglichkeit haben - ihr Baby zu den Einheiten mitnehmen. Eine Teeküche zur Zubereitung von Milchnahrung ist vorhanden.
 
+## Methoden
+
+Ich nutze unter anderem die Inhalte des DBT-Skills-Training, dessen Schwerpunkte auf folgenden Bereichen liegen:
+
+* Achtsamkeit, Entspannungstechniken
+* Stressregulation
+* Emotions(Gefühls)regulation
+* Zwischenmenschliche Fertigkeiten
+* Selbstwert
+
+Des weiteren verwende ich auch gerne Imaginationstechniken zur Ressourcenstärkung. Da aber jeder Mensch unterschiedlich ist und nicht jedes "Werkzeug" bei jedem oder jeder gleich gut funktioniert, passe ich meine Arbeitsweise individuell an meine KlientInnen an. Dabei steht vor allem ein wertschätzender Umgang für mich im Vordergrund. 
 
 <img src="/img/Steinmann840260.webp" >
 
