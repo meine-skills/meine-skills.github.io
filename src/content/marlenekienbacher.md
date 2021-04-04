@@ -25,9 +25,14 @@ type = "post"
   </div>
   <div class="table-row">
     <div class="table-cell">seit 2020</div>
-    <div class="table-cell">Klinische und Gesundheitspsychologin PSZ Schiltern GmbH</div>
+    <div class="table-cell">Klinische- und Gesundheitspsychologin PSZ Schiltern GmbH</div>
+  </div>
+  <div class="table-row">
+    <div class="table-cell">seit 2021</div>
+    <div class="table-cell">nebenberuflich in selbstständiger Praxis tätig</div>
   </div>
 </div>
+
 
 # Ausbildungen
 
@@ -43,9 +48,10 @@ type = "post"
 * Gruppentraining sozialer Kompetenzen nach Hinsch und Pfingsten
 * Selbstbild und Selbstwert – Tools für die psychologische Praxis
 
-# Kontakt
+# Vorträge
 
-Mag.a Marlene Kienbacher <br>
-Klinische- und Gesundheitspsychologin<br>
-[<i class="fa fa-phone"></i> 0676 694 22 87](tel:+436766942287)
-<br>{{% a_email "marlene.kienbacher@meine-skills.at" "marlene.kienbacher@meine-skills.at" %}}
+* Familiäre Resilienz: Was die Kinderwelt zusammenhält
+* Bindung braucht einen Körper
+* Fortbildung Ernährungspsychologie
+* Skillsbasierte Spannungsregulation für BetreuerInnen und KlientInnen
+

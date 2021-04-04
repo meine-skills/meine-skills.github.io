@@ -29,7 +29,7 @@ Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
 * Selbsterfahrung, Wunsch nach Entwicklung bzw. Veränderung
 * Ängste im zwischenmenschlichen Kontakt, soziale Unsicherheit
 
-Gerne können Sie - falls Sie keine andere Möglichkeit haben - ihr Baby zu den Einheiten mitnehmen. Eine Teeküche zur Zubereitung von Milchnahrung ist vorhanden.
+Gerne können Sie - falls Sie keine andere Möglichkeit haben - Ihr Baby zu den Einheiten mitnehmen. Eine Teeküche zur Zubereitung von Milchnahrung ist vorhanden.
 
 ## Methoden
 
@@ -41,7 +41,7 @@ Ich nutze unter anderem die Inhalte des DBT-Skills-Training, dessen Schwerpunkte
 * Zwischenmenschliche Fertigkeiten
 * Selbstwert
 
-Des weiteren verwende ich auch gerne Imaginationstechniken zur Ressourcenstärkung. Da aber jeder Mensch unterschiedlich ist und nicht jedes "Werkzeug" bei jedem oder jeder gleich gut funktioniert, passe ich meine Arbeitsweise individuell an meine KlientInnen an. Dabei steht vor allem ein wertschätzender Umgang für mich im Vordergrund. 
+Des Weiteren verwende ich auch gerne Imaginationstechniken zur Ressourcenstärkung. Da aber jeder Mensch unterschiedlich ist und nicht jedes "Werkzeug" bei jedem oder jeder gleich gut funktioniert, passe ich meine Arbeitsweise individuell an meine KlientInnen an. Dabei steht vor allem ein wertschätzender Umgang für mich im Vordergrund. 
 
 <img src="/img/Steinmann840260.webp" >
 
@@ -49,11 +49,11 @@ Des weiteren verwende ich auch gerne Imaginationstechniken zur Ressourcenstärku
 
 ### Kennenlernen
 
-Wenn Sie Interesse an meinem Angebot haben, nehmen Sie mit [mir](/marlenekienbacher) Kontakt auf und vereinbaren Sie ein kostenloses Erstgespräch. Dieses dient dazu uns gegenseitig kennenzulernen, Ihre Ziele zu besprechen und Ihnen meine Arbeitsweise vorzustellen.
+Wenn Sie Interesse an meinem Angebot haben, nehmen Sie mit [mir](/about) Kontakt auf und vereinbaren Sie ein kostenloses Erstgespräch. Dieses dient dazu uns gegenseitig kennenzulernen, Ihre Ziele zu besprechen und Ihnen meine Arbeitsweise vorzustellen.
 
 ### Kosten
 
-Eine Einheit dauert 50 Minuten und die Kosten dafür belaufen sich auf 75 € pro Einheit. Klinisch-psychologische Behandlung ist leider zur Zeit noch eine Privatleistung und es gibt keinen Kostenzuschuss von der Krankenkasse. Aus diesem Grund ist auch keine Zuweisung vom Arzt notwendig. Unter bestimmten Bedingungen biete ich auch gerne einen Sozialtarif an.
+Eine Einheit dauert 50 Minuten und die Kosten dafür belaufen sich auf 75 € pro Einheit. Klinisch-psychologische Behandlung ist leider zurzeit noch eine Privatleistung und es gibt keinen Kostenzuschuss der Krankenkasse. Aus diesem Grund ist auch keine Zuweisung vom Arzt notwendig. Unter bestimmten Bedingungen biete ich auch gerne einen Sozialtarif an.
  
 ### Verschwiegenheitspflicht
 
@@ -66,7 +66,7 @@ Sollten Sie einen Termin nicht wahrnehmen können, sagen Sie diesen bitte mindes
 
 Niederranna 1, 3622 Niederranna (Mühldorf bei Spitz)
 
-Mein Praxisraum befindet sich im ersten Stock und ist über Treppen erreichbar. 
+Mein Praxisraum befindet sich im ersten Stock und ist über eine Treppe erreichbar. 
 Im Hof finden Sie genügend Parkmöglichkeiten. 
 
 Sollten Sie einen barrierefreien Zugang benötigen, können wir die Einheiten ins Schloss Schiltern bei Langenlois verlegen.

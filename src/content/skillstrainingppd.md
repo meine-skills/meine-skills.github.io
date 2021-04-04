@@ -18,7 +18,7 @@ description = "Endlich Eltern - Doch das Glück fehlt"
 * für Eltern, die sich erschöpft, gestresst, isoliert, überfordert etc. fühlen 
 
 * bei Risikogruppen als Vorbeugung auch vor der Geburt 
-(z.B. psychischer Erkrankung, geringe Unterstützung)
+(z.B. psychischer Erkrankung, geringe Unterstützung, etc.)
 
 
 In zehn wöchentlich stattfindenden Einheiten (à 90 Minuten) 
