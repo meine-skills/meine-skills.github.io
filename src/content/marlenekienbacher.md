@@ -52,6 +52,6 @@ type = "post"
 
 * Familiäre Resilienz: Was die Kinderwelt zusammenhält
 * Bindung braucht einen Körper
-* Fortbildung Ernährungspsychologie
+* Ernährungspsychologie
 * Skillsbasierte Spannungsregulation für BetreuerInnen und KlientInnen
 
