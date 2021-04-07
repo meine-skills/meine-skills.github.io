@@ -11,7 +11,7 @@ type = "post"
 
 Mein Name ist **Karin Pöppl**. Mein Studium der Psychologie habe ich 2010 in Wien abgeschlossen. Danach arbeitete ich als Trainerin in der Erwachsenenbildung - mir fehlte dabei aber die psychologische Tätigkeit. Ich entschloss mich, die Ausbildung zur Klinischen- und Gesundheitspsychologin zu beginnen. Die dafür notwendigen Praxisstunden absolvierte ich im Psychosomatischen Zentrum in Eggenburg. Es erwartete mich eine vielseitige Ausbildung und ich lernte viele Tools im Umgang mit Menschen.
 Mein Zugang liegt darin, dass Menschen alles für die Lösung ihrer Probleme mitbringen. Meine Aufgabe sehe ich darin, sie auf den Weg zu ihrer Lösung zu begleiten.
-Seit 2015 arbeite ich im Psychosozialen Zentrum in Schiltern, wo wir seit 2017 laufend Skillstraining anbieten.
+
 
 ![Beschreibungstext](/img/KarinPoeppl.JPG "Karin Pöppl")
 
@@ -31,8 +31,12 @@ Seit 2015 arbeite ich im Psychosozialen Zentrum in Schiltern, wo wir seit 2017 l
     <div class="table-cell">Qualifizierung zur Arbeits- und Organisationspsychologin</div>
   </div>
 <div class="table-row">
-    <div class="table-cell">seit 2015</div>
+    <div class="table-cell">2015-2020</div>
     <div class="table-cell">Psychosoziale Trainingsleiterin PSZ Schiltern GmbH</div>
+  </div>
+<div class="table-row">
+    <div class="table-cell">seit 12/2020</div>
+    <div class="table-cell">Klinische- und Gesundheitspsychologin in der Rehabilitationsklinik Gars am Kamp</div>
   </div>
 </div>
 

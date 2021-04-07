@@ -44,7 +44,7 @@ Auch während der Schwangerschaft kann es bereits zur depressiven Verstimmung od
 
 **Ich habe Angst vor der Zeit nach der Geburt**
 
-Manche Eltern haben ein erhöhtes Risiko die Zeit nach der Geburt als zu große Belastung zu erleben bzw. eine psychische Erkrankung/Krise zu durchleben:
+Manche Eltern haben ein erhöhtes Risiko, die Zeit nach der Geburt als zu große Belastung zu erleben bzw. eine psychische Erkrankung/Krise zu durchleben:
 
 * in der eigenen Familie gibt es jemanden mit einer psychischen Erkrankung
 * frühere Angst- und Depressionsepisoden
@@ -61,9 +61,9 @@ Ratgeber:
 
 **Was soll ich tun?**
 
-Zahlreiche Bücher oder sogenannte Experten in den Medien geben oft vor, die universelle Lösung für dieses Problem gefunden zu haben. Der Gedanke, endlich eine passende Antwort zu bekommen - eine die immer hilft und die Lösung für alle Probleme darstellt – ist sehr verlockend. Das Scheitern ist aber meist vorprogrammiert, nach einiger Zeit kommt die Erkenntnis, dass es doch nicht wie erwartet funktioniert und oft werden die Selbstzweifel dadurch nur noch größer *„Nicht einmal das schaffe ich!“*
+Zahlreiche Bücher oder sogenannte ExpertInnen in den Medien geben oft vor, die universelle Lösung für dieses Problem gefunden zu haben. Der Gedanke, endlich eine passende Antwort zu bekommen - eine die immer hilft und die Lösung für alle Probleme darstellt – ist sehr verlockend. Das Scheitern ist aber meist vorprogrammiert, nach einiger Zeit kommt die Erkenntnis, dass es doch nicht wie erwartet funktioniert und oft werden die Selbstzweifel dadurch nur noch größer *„Nicht einmal das schaffe ich!“*
 
-Starre Schablonen werden aber unserer Vielfältigkeit nicht gerecht. Hier geht es um Individualität und darum, seinen eigenen Weg zu finden. Welcher Weg zu einem passt hängt aber von verschiedenen Faktoren ab. Manche kann man beeinflussen (Welche Schuhe zieht man an? Wie gut ist man trainiert? Welches Outfit wählt man? etc.), manche kommen unerwartet oder können nicht verändert werden (Gewitter, Hitze, ein Baum liegt auf dem Weg, etc.).
+Starre Schablonen werden aber unserer Vielfalt nicht gerecht. Hier geht es um Individualität und darum, seinen eigenen Weg zu finden. Welcher Weg zu einem passt, hängt aber von verschiedenen Faktoren ab. Manche kann man beeinflussen (Welche Schuhe zieht man an? Wie gut ist man trainiert? Welches Outfit wählt man? etc.), manche kommen unerwartet oder können nicht verändert werden (Gewitter, Hitze, ein Baum liegt auf dem Weg, etc.).
 
-Es geht also eigentlich um die Frage *„Was will ich"* bzw. *"wo will ich hin?“*. Mit der richtigen Ausrüstung (Skills), die bewusst verändert und trainiert werden können (bessere Schuhe, regelmäßiges Training, etc.) kann man den Weg mit seinen unvorhersehbaren Hürden (Gewitter, Hitze, etc.) besser meistern.
+Es geht also eigentlich um die Frage *„Was will ich"* bzw. *"wo will ich hin?“*. Mit der richtigen Ausrüstung (Skills), die bewusst verändert und trainiert werden kann (bessere Schuhe, regelmäßiges Training, etc.) kann man den Weg mit seinen unvorhersehbaren Hürden (Gewitter, Hitze, etc.) besser meistern.
 

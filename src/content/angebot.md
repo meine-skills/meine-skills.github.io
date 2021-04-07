@@ -19,7 +19,7 @@ Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
 
 * psychologische Elternberatung, speziell Themen wie Regretting Motherhood, Regretting Fatherhood, Regretting Parenthood
 * [Endlich Eltern – Doch das Glück fehlt](/einzelsettingppd)
-* außergewöhnlichen Belastungen vor, während und nach der Geburt eines Kindes
+* außergewöhnliche Belastungen vor, während und nach der Geburt eines Kindes
 * Depression und depressive Phasen
 * [Ernährung](/ernaehrung)
 * Stress und Stressmanagement
@@ -57,7 +57,7 @@ Eine Einheit dauert 50 Minuten und die Kosten dafür belaufen sich auf 75 € pr
  
 ### Verschwiegenheitspflicht
 
-PsychologInnen unterliegen einer gesetzlich verankerten absoluten Verschwiegenheitspflicht. Um Kontakt zwischen meinen KlientInnen zu vermeiden, bitte ich Sie darum, möglichst pünktlich in die Praxis zu kommen und anschließend wieder zu verlassen.
+PsychologInnen unterliegen einer gesetzlich verankerten absoluten Verschwiegenheitspflicht. Um Kontakt zwischen meinen KlientInnen zu vermeiden, bitte ich Sie darum, möglichst pünktlich in die Praxis zu kommen und diese anschließend wieder pünktlich zu verlassen.
 
 ### Absageregelung
 Sollten Sie einen Termin nicht wahrnehmen können, sagen Sie diesen bitte mindestens 24 Stunden vorher ab.

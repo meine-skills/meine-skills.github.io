@@ -15,7 +15,7 @@ description = "GSK"
 
 ## Gruppentraining sozialer Kompetenzen (GSK)
 
-Nach dem Konzept von Hinsch, R. & Pfingsten, U:
+Nach dem Konzept von Hinsch, R. & Pfingsten, U.:
 
 In diesem Training geht es darum, die eigenen sozialen Kompetenzen zu verbessern. Der Schwerpunkt liegt dabei auf den Themenbereichen
 
@@ -23,7 +23,7 @@ In diesem Training geht es darum, die eigenen sozialen Kompetenzen zu verbessern
 * Beziehungen 
 * um Sympathie werben
 
-Um diese unterschiedlichen Situationstypen im Alltag zu meistern, geht es zu Beginn darum, selbstsicheres Verhalten von unsicherem und aggressiven Verhalten zu unterscheiden. Die unterschiedlichen Themenbereiche umfassen eine andere, aber dennoch ähnliche Strategie, um selbstsicher in diesen Situationen auftreten zu können. Die Fähigkeit das eigene Recht durchzusetzen, soziale Beziehungen zu knüpfen und aktiv zu gestalten sowie die eigenen Gefühle und Bedürfnisse zu äußern ist maßgeblich für die Verbesserung und Stabilisierung der psychosozialen Gesundheit.
+Um diese unterschiedlichen Situationstypen im Alltag zu meistern, geht es zu Beginn darum, selbstsicheres Verhalten von unsicherem und aggressivem Verhalten zu unterscheiden. Die unterschiedlichen Themenbereiche umfassen eine andere, aber dennoch ähnliche Strategie, um selbstsicher in diesen Situationen auftreten zu können. Die Fähigkeit das eigene Recht durchzusetzen, soziale Beziehungen zu knüpfen und aktiv zu gestalten sowie die eigenen Gefühle und Bedürfnisse zu äußern ist maßgeblich für die Verbesserung und Stabilisierung der psychosozialen Gesundheit.
 
 
 ### Teilnahme

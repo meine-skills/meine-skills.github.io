@@ -15,7 +15,6 @@ type = "post"
 description = ""
 +++
 
-
 Viele Eltern sind nach der Geburt eines Kindes erstmal überfordert. Wie soll man den Spagat zwischen Elternschaft, Berufstätigkeit, Haushalt, den eigenen Wünschen, den Wünschen der anderen und all den zusätzlichen Verpflichtungen überhaupt gerecht werden? Von der sogenannten "Me-Time" kann man sowieso nur träumen. 
 
 Vielleicht kennen Sie das Gefühl, dass Sie ja eigentlich glücklich sein sollten und Sie es aber einfach nicht sind. Sie stellen sich ständig die Frage: „Was stimmt denn nicht mit mir? Wieso sind alle andere jungen Eltern so überaus glücklich, nur ich bekomm es einfach nicht auf die Reihe?“
