@@ -1000,7 +1000,8 @@ table {
         #site-nav .flyout-menu::-webkit-scrollbar {
           height: .25em; }
         #site-nav .flyout-menu::-webkit-scrollbar-track {
-          -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); }
+          -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+          box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); }
         #site-nav .flyout-menu::-webkit-scrollbar-thumb {
           background-color: darkgrey;
           outline: 1px solid slategrey; } }
