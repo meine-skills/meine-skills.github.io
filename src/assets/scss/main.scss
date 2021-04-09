@@ -1262,9 +1262,9 @@ textarea {
    display: flex;
    justify-content: space-between;
    .flyout-menu {
-     right: -177px;
-     width: 177px;
-     width: max-content;
+     right: -199px;
+     width: 199px;
+     //width: max-content;
      @include for-desktop-up {
        background-color: unset;
        border: none;
@@ -1405,8 +1405,8 @@ textarea {
 
  #lang-menu {
    &.flyout-menu {
-     right: -177px;
-     width: 177px;
+     right: -199px;
+     width: 199px;
      a {
        border-left: 0;
      }
@@ -1453,8 +1453,8 @@ textarea {
      justify-content: flex-start;
    }
    &.flyout-menu {
-     width: 177px;
-     right: -177px;
+     width: 199px;
+     right: -199px;
      padding: 1em;
      h1, a {
        margin: 0 .25em;
