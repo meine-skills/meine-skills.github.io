@@ -2,7 +2,7 @@
 author = ""
 Angebote = []
 
-date = "2019-09-05"
+date = "2021-04-08"
 
 #featured = "skills_qf.jpg"
 #featuredalt = "Skills"
@@ -20,6 +20,7 @@ Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
 * psychologische Elternberatung, speziell Themen wie Regretting Motherhood, Regretting Fatherhood, Regretting Parenthood
 * [Endlich Eltern – Doch das Glück fehlt](/einzelsettingppd)
 * außergewöhnliche Belastungen vor, während und nach der Geburt eines Kindes
+* Geburstrauma
 * Depression und depressive Phasen
 * [Ernährung](/ernaehrung)
 * Stress und Stressmanagement

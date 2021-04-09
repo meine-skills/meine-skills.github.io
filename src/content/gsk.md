@@ -2,7 +2,7 @@
 author = ""
 Angebote = []
 
-date = "2019-09-05"
+date = "2021-03-01"
 
 featured = "gsk.webp"
 featuredalt = "gsk"

@@ -38,12 +38,12 @@ type = "post"
 
 * Klinische- und Gesundheitspsychologin (BÖP)
 * Lehrgang Skills-Training des ÖDBT
-* zertifizierte Ernährungspsychologin
+* Ernährungspsychologin bei Mag. Cornelia Fiechtl
 
 # Fortbildungen
 
 * Psychologische Behandlung von werdenden Müttern mit problematischen Schwangerschaftsverläufen
-* Geburtstrauma (seit März 2021 laufend)
+* Geburtstrauma Curriculum bei Mag. Judith Raunig und Alexandra Vöhringer, BSc.
 * Bindung – Wiege der Persönlichkeit
 * Gruppentraining sozialer Kompetenzen nach Hinsch und Pfingsten
 * Selbstbild und Selbstwert – Tools für die psychologische Praxis

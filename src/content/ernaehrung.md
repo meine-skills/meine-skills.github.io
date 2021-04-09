@@ -3,7 +3,7 @@ author = ""
 Angebote = []
 category = []
 
-date = "2019-09-05"
+date = "2021-04-01"
 
 featured = "obst.webp"
 featuredalt = "Genuss"
