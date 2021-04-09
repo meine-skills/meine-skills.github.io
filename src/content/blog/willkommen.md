@@ -14,7 +14,7 @@ description = "auf meine-skills.at"
 +++
 
 <p align="center">
-<a href ="/angebot/"><img  src="/img/Titelbild.jpg" alt="regrettingmotherfatherparenthoodgeburtstraumapostpartaledepressionnatalernährungspsychologieabnehmenrosesrevolutiongewaltselbstwertskillstrainingbabybluesachtsamkeitdarmhypnosereizdarmelternberatungpsychologinberatungbehandlungpsychologisch" width="600"></a>
+<a href ="/angebot/"><img  src="/img/Titelbild.jpg" alt="regretting motherhood father parenthood geburtstrauma postpartaledepression natal ernährungspsychologie abnehmen rosesrevolution gewalt selbstwert skillstraining babyblues achtsamkeit darmhypnose reizdarm elternberatung psychologin beratungbehandlung psychologisch" width="600"></a>
 </p>
 
 Mein Name ist Marlene Kienbacher, ich bin Klinische- und Gesundheitspsychologin und biete in meiner Praxis psychologische Beratung und Behandlung zu verschiedenen [Schwerpunkten](/angebot) an - vor allem bezüglich Elternschaft und Geburt.
