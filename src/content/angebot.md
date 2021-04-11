@@ -22,6 +22,7 @@ Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
 * außergewöhnliche Belastungen vor, während und nach der Geburt eines Kindes
 * Geburstrauma
 * Depression und depressive Phasen
+* Mental Load - die Erschöpfung der unsichtbaren Arbeit (an alles denken müssen) betrifft sehr oft Mütter
 * [Ernährung](/ernaehrung)
 * Stress und Stressmanagement
 * Selbstwertproblematik, Selbstwertaufbau
