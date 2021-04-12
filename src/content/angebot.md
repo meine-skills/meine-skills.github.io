@@ -4,9 +4,16 @@ Angebote = []
 
 date = "2021-04-08"
 
+# 
 #featured = "skills_qf.jpg"
 #featuredalt = "Skills"
-featuredpath = "date"
+#featuredpath = "date"
+
+[[images]]
+    src = "img/2019/09/skills_qf.jpg" 
+    alt = "Regretting Motherhood"
+#    stretch 
+
 
 title = "Angebot"
 type = "post"
