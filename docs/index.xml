@@ -6,7 +6,11 @@
     <description>Recent content on meine skills</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://meine-skills.at/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://meine-skills.at/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Willkommen</title>
       <link>https://meine-skills.at/blog/willkommen/</link>
@@ -17,7 +21,7 @@
     </item>
     
     <item>
-      <title>Angebot</title>
+      <title></title>
       <link>https://meine-skills.at/angebot/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
       
@@ -27,7 +31,7 @@
     </item>
     
     <item>
-      <title>Beratung nach der Geburt</title>
+      <title></title>
       <link>https://meine-skills.at/einzelsettingppd/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
@@ -37,7 +41,16 @@ Vielleicht kennen Sie das Gefühl, dass Sie ja eigentlich glücklich sein sollte
     </item>
     
     <item>
-      <title>Ernährungspsychologie</title>
+      <title></title>
+      <link>https://meine-skills.at/einzelsettingskills/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://meine-skills.at/einzelsettingskills/</guid>
+      <description>Wenn Sie das Skillstraining in der Gruppe absolvieren, profitieren Sie sehr von den Inputs und der Zusammenarbeit bzw. dem gegenseitigen Austausch mit den anderen Gruppenmitgliedern. Möchten Sie aber nicht darauf warten, bis eine Gruppe zustande kommt oder nur einzelne Elemente aus dem Training bearbeiten so biete ich die Inhalte des Skillstrainings in der Gruppe gerne auch im Einzelsetting an.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://meine-skills.at/ernaehrung/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
@@ -66,16 +79,18 @@ Als mein Sohn 2018 zur Welt kam, wurde mein bisheriges Leben auf den Kopf gestel
     </item>
     
     <item>
-      <title>Skills zur Verbesserung der psychosozialen Gesundheit</title>
-      <link>https://meine-skills.at/einzelsettingskills/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://meine-skills.at/gsk/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://meine-skills.at/einzelsettingskills/</guid>
-      <description>Wenn Sie das Skillstraining in der Gruppe absolvieren, profitieren Sie sehr von den Inputs und der Zusammenarbeit bzw. dem gegenseitigen Austausch mit den anderen Gruppenmitgliedern. Möchten Sie aber nicht darauf warten, bis eine Gruppe zustande kommt oder nur einzelne Elemente aus dem Training bearbeiten so biete ich die Inhalte des Skillstrainings in der Gruppe gerne auch im Einzelsetting an.</description>
+      <guid>https://meine-skills.at/gsk/</guid>
+      <description>Gruppentraining sozialer Kompetenzen (GSK) Nach dem Konzept von Hinsch, R. &amp;amp; Pfingsten, U.:
+In diesem Training geht es darum, die eigenen sozialen Kompetenzen zu verbessern. Der Schwerpunkt liegt dabei auf den Themenbereichen
+ Recht durchsetzen Beziehungen um Sympathie werben  Um diese unterschiedlichen Situationstypen im Alltag zu meistern, geht es zu Beginn darum, selbstsicheres Verhalten von unsicherem und aggressivem Verhalten zu unterscheiden. Die unterschiedlichen Themenbereiche umfassen eine andere, aber dennoch ähnliche Strategie, um selbstsicher in diesen Situationen auftreten zu können.</description>
     </item>
     
     <item>
-      <title>Skillstraining</title>
+      <title></title>
       <link>https://meine-skills.at/skillstraining/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
@@ -85,7 +100,7 @@ Als mein Sohn 2018 zur Welt kam, wurde mein bisheriges Leben auf den Kopf gestel
     </item>
     
     <item>
-      <title>Skillstraining speziell nach der Geburt</title>
+      <title></title>
       <link>https://meine-skills.at/skillstrainingppd/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
@@ -96,17 +111,6 @@ Als mein Sohn 2018 zur Welt kam, wurde mein bisheriges Leben auf den Kopf gestel
 Inhalte   Achtsamkeitstraining
   Umgang mit Gefühlen und negativen Gedanken
   Bewältigung emotionaler Last</description>
-    </item>
-    
-    <item>
-      <title>Soziales Kompetenztraining</title>
-      <link>https://meine-skills.at/gsk/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://meine-skills.at/gsk/</guid>
-      <description>Gruppentraining sozialer Kompetenzen (GSK) Nach dem Konzept von Hinsch, R. &amp;amp; Pfingsten, U.:
-In diesem Training geht es darum, die eigenen sozialen Kompetenzen zu verbessern. Der Schwerpunkt liegt dabei auf den Themenbereichen
- Recht durchsetzen Beziehungen um Sympathie werben  Um diese unterschiedlichen Situationstypen im Alltag zu meistern, geht es zu Beginn darum, selbstsicheres Verhalten von unsicherem und aggressivem Verhalten zu unterscheiden. Die unterschiedlichen Themenbereiche umfassen eine andere, aber dennoch ähnliche Strategie, um selbstsicher in diesen Situationen auftreten zu können.</description>
     </item>
     
     <item>
@@ -213,7 +217,7 @@ Typische depressive Symptome sind:</description>
       
       <guid>https://meine-skills.at/zitate/</guid>
       <description>&amp;ldquo;Es reicht, wenn Sie als Mutter so gut sind, wie Sie es gerade können. Und auch Sie werden wieder Zeiten voller Kraft und Euphorie erleben.&amp;quot; Sahib (2018), S.21
-&amp;rdquo;&amp;hellip; und so sehr man diesen kleinen Menschen ja auch immer mehr lieben lernt - weil am Anfang ist es einfach ein fremdes Geschöpf, das plötzlich in den eigenen vier Wänden wohnt und alle erwarten von dir: &amp;ldquo;Hey, du bist jetzt Mama! Du musst so glücklich sein.</description>
+&amp;quot;&amp;hellip; und so sehr man diesen kleinen Menschen ja auch immer mehr lieben lernt - weil am Anfang ist es einfach ein fremdes Geschöpf, das plötzlich in den eigenen vier Wänden wohnt und alle erwarten von dir: &amp;ldquo;Hey, du bist jetzt Mama! Du musst so glücklich sein.</description>
     </item>
     
   </channel>
