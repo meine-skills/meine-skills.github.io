@@ -9,7 +9,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = ["en"]
-publishDir = "../"
+publishDir = "../docs"
 canonifyURLs = true
 
 
