@@ -9,9 +9,9 @@ date = "2021-04-08"
 #featuredalt = "Skills"
 #featuredpath = "date"
 
-[[images]]
-    src = "img/2019/09/skills_qf.jpg" 
-    alt = "Regretting Motherhood"
+# [[images]]
+#    src = "img/2019/09/skills_qf.jpg" 
+#    alt = "Regretting Motherhood"
 #    stretch 
 
 
