@@ -3,7 +3,7 @@ author = ""
 categories = []
 title = "Literaturtipps und Literaturverzeichnis"
 description = ""
-images = [""]
+ 
 type = "post"
 +++
 

@@ -3,9 +3,7 @@ author = "Autor eines Themas"
 categories = ["Hugo"]
 date = "2014-09-28"
 description = "Erfahren Sie, wie Sie ein Thema für Hugo erstellen"
-featured = "pic03.jpg"
-featuredalt = "Pic 3"
-featuredpath = "date"
+
 linktitle = ""
 title = "Ein neues Thema erstellen"
 type = "post"

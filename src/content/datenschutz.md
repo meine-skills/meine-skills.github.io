@@ -3,7 +3,7 @@ author = ""
 categories = []
 title = "Datenschutz"
 description = ""
-images = [""]
+ 
 type = "post"
 
 +++

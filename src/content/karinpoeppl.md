@@ -4,7 +4,7 @@ categories = []
 title = "Karin Pöppl"
 description = ""
 linktitle = ""
-images = [""]
+ 
 type = "post"
 +++
 

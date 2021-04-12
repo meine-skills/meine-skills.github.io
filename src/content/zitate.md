@@ -3,7 +3,7 @@ author = ""
 categories = []
 title = "Zitate"
 description = ""
-images = [""]
+ 
 type = "post"
 +++
 

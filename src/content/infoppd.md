@@ -3,7 +3,7 @@ author = ""
 categories = []
 title = "Wenn das Glück fehlt"
 description = "Hintergrundinformationen"
-images = [""]
+ 
 type = "post"
 +++
 

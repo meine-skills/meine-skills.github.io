@@ -4,9 +4,10 @@ Angebote = []
 
 date = "2021-03-01"
 
-featured = "gsk.webp"
-featuredalt = "gsk"
-featuredpath = "date"
+
+[[images]]
+    src = "img/2019/09/gsk.webp" 
+    alt = "gsk"
 
 title = "Soziales Kompetenztraining"
 type = "post"

@@ -4,9 +4,9 @@ Angebote = []
 
 date = "2021-03-01"
 
-featured = "Skills.webp"
-featuredalt = "Skills"
-featuredpath = "date"
+[[images]]
+    src = "img/2019/09/Skills.webp"
+    alt = "skill"
 
 title = "Skillstraining"
 type = "post"

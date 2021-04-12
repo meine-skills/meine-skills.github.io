@@ -5,9 +5,11 @@ category = []
 
 date = "2021-04-01"
 
-featured = "obst.webp"
-featuredalt = "Genuss"
-featuredpath = "date"
+
+
+[[images]]
+    src = "img/2019/09/obst.webp" 
+    alt = "genuss genusz"
 
 
 title = "Ernährungspsychologie"

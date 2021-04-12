@@ -4,9 +4,9 @@ Angebote = []
 
 date = "2021-03-01"
 
-featured = "babyblues.webp"
-featuredalt = "babyblues"
-featuredpath = "date"
+[[images]]
+    src = "img/2019/09/babyblues.webp" 
+    alt = "babyblues"
 
 title = "Skillstraining speziell nach der Geburt"
 type = "post"

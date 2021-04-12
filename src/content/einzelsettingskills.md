@@ -5,10 +5,10 @@ category = []
 
 date = "2021-04-01"
 
-featured = "alteseele.webp"
-featuredalt = "lemomeineseele"
-featuredpath = "date"
 
+[[images]]
+    src = "img/2019/09/alteseele.webp" 
+    alt = "lemo meineseele"
 
 title = "Skills zur Verbesserung der psychosozialen Gesundheit"
 type = "post"

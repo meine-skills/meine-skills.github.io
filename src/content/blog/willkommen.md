@@ -1,10 +1,7 @@
 +++
 author = ""
 date = "2021-04-12"
-images  = [""]
-featured = ""
 
-featuredalt = "MeineSkillsTitelbild"
 linktitle = ""
 title = "Willkommen"
 type = "post"

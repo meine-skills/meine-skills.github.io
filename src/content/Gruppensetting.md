@@ -5,10 +5,6 @@ category = []
 
 date = "2021-04-01"
 
-featured = ""
-featuredalt = ""
-featuredpath = "date"
-
 
 title = "Gruppensetting"
 type = "post"
