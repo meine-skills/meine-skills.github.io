@@ -5,9 +5,9 @@ category = []
 
 date = "2021-04-01"
 
-[[images]]
-    src = "img/2019/09/Loewenzahn.webp" 
-    alt = "eltern beratung loewenzahn"
+# [[images]]
+#    src = "img/2019/09/Loewenzahn.webp" 
+#    alt = "eltern beratung loewenzahn"
 
 title = "Beratung nach der Geburt"
 type = "post"
