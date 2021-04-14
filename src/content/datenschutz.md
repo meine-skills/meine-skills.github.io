@@ -13,7 +13,7 @@ type = "post"
 
 ### Verantwortliche und Kontaktdaten 
 
-Verantwortlich für die Datenverarbeitung gemäß Datenschutzgrundverordung (DSGVO) ist: Mag. Marlene Kienbacher, Obere Straße 45, 3553 Schiltern
+Verantwortlich für die Datenverarbeitung gemäß Datenschutzgrundverordung (DSGVO) ist: Mag. Marlene Kienbacher, Niederranna 1, 3622 Mühldorf
 
 Der Schutz Ihrer Daten ist uns besonders wichtig. Wir sind für Sie unter den [hier](/contact) angeführten Kontaktdaten jederzeit für Ihre Fragen oder Ihren Widerruf erreichbar. 
 

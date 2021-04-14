@@ -23,6 +23,6 @@ Obwohl jede/r von uns sich das eine oder andere Mal schlichtweg überfordert fü
 # Kontakt
 
 Mag.a Marlene Kienbacher <br>
-Klinische- und Gesundheitspsychologin<br>
+Klinische Psychologin und Gesundheitspsychologin<br>
 [<i class="fa fa-phone"></i> 0676 694 22 87](tel:+436766942287)
 <br>{{% a_email "marlene.kienbacher@meine-skills.at" "marlene.kienbacher@meine-skills.at" %}}

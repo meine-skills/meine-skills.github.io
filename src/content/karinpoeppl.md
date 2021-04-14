@@ -24,7 +24,7 @@ Mein Zugang liegt darin, dass Menschen alles für die Lösung ihrer Probleme mit
   </div>
   <div class="table-row">
     <div class="table-cell">2011</div>
-    <div class="table-cell">Ausbildung zur Klinischen- und Gesundheitspsychologin</div>
+    <div class="table-cell">Ausbildung zur Klinischen Psychologin und Gesundheitspsychologin</div>
   </div>
 <div class="table-row">
     <div class="table-cell">2017</div>
@@ -35,8 +35,8 @@ Mein Zugang liegt darin, dass Menschen alles für die Lösung ihrer Probleme mit
     <div class="table-cell">Psychosoziale Trainingsleiterin PSZ Schiltern GmbH</div>
   </div>
 <div class="table-row">
-    <div class="table-cell">seit 12/2020</div>
-    <div class="table-cell">Klinische- und Gesundheitspsychologin in der Rehabilitationsklinik Gars am Kamp</div>
+    <div class="table-cell">seit 2020</div>
+    <div class="table-cell">Klinische Psychologin und Gesundheitspsychologin in der Rehabilitationsklinik Gars am Kamp</div>
   </div>
 </div>
 

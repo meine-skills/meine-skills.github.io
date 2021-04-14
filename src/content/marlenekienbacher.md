@@ -17,7 +17,7 @@ type = "post"
   </div>
   <div class="table-row">
     <div class="table-cell">2013-2014</div>
-    <div class="table-cell">Ausbildung zur Klinischen- und Gesundheitspsychologin</div>
+    <div class="table-cell">Ausbildung zur Klinischen Psychologin und Gesundheitspsychologin</div>
   </div>
 <div class="table-row">
     <div class="table-cell">2013-2020</div>
@@ -25,7 +25,7 @@ type = "post"
   </div>
   <div class="table-row">
     <div class="table-cell">seit 2020</div>
-    <div class="table-cell">Klinische- und Gesundheitspsychologin PSZ Schiltern GmbH</div>
+    <div class="table-cell">Klinische Psychologin und Gesundheitspsychologin PSZ Schiltern GmbH</div>
   </div>
   <div class="table-row">
     <div class="table-cell">seit 2021</div>
