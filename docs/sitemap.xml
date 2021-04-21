@@ -28,12 +28,12 @@
   </url>
   
   <url>
-    <loc>https://meine-skills.at/ernaehrung/</loc>
+    <loc>https://meine-skills.at/einzelsettingppd/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://meine-skills.at/einzelsettingppd/</loc>
+    <loc>https://meine-skills.at/ernaehrung/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -82,6 +82,10 @@
   
   <url>
     <loc>https://meine-skills.at/datenschutz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://meine-skills.at/infodepression/</loc>
   </url>
   
   <url>

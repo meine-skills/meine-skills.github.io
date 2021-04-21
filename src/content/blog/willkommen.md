@@ -12,7 +12,7 @@ description = "auf meine-skills.at"
 +++
 
 <p align="center">
-<a href ="/angebot/"><img  src="/img/Titelbild.jpg" alt="regretting motherhood father parenthood geburtstrauma postpartaledepression natal ernährungspsychologie abnehmen rosesrevolution gewalt selbstwert skillstraining babyblues achtsamkeit darmhypnose reizdarm elternberatung psychologin beratungbehandlung psychologisch mentalload" width="600"></a>
+<a href ="/angebot/"><img  src="/img/Titelbild.webp" alt="regretting motherhood father parenthood geburtstrauma postpartaledepression natal ernährungspsychologie abnehmen rosesrevolution gewalt selbstwert skillstraining babyblues achtsamkeit darmhypnose reizdarm elternberatung psychologin beratungbehandlung psychologisch mentalload" width="600"></a>
 </p>
 
 

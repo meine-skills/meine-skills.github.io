@@ -24,18 +24,18 @@ description = "Klinisch-psychologische Beratung bzw. Behandlung"
 
 Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
 
-* psychologische Elternberatung, speziell Themen wie Regretting Motherhood, Regretting Fatherhood, Regretting Parenthood
-* [Endlich Eltern – Doch das Glück fehlt](/einzelsettingppd)
+* [Depression](/infodepression) und depressive Phasen
+* Beratung und Begleitung bei Lebensproblemen und Lebenskrisen
+* Selbsterfahrung, Wunsch nach Entwicklung bzw. Veränderung
 * außergewöhnliche Belastungen vor, während und nach der Geburt eines Kindes
 * Geburtstrauma
-* Depression und depressive Phasen
+* psychologische Elternberatung, speziell Themen wie Regretting Motherhood, Regretting Fatherhood, Regretting Parenthood
+* [Endlich Eltern – Doch das Glück fehlt](/einzelsettingppd)
 * Mental Load - die Erschöpfung der unsichtbaren Arbeit (an alles denken müssen) betrifft sehr oft Mütter
 * [Ernährung](/ernaehrung)
 * Stress und Stressmanagement
 * Selbstwertproblematik, Selbstwertaufbau
-* Beratung und Begleitung bei Lebensproblemen und Lebenskrisen
 * Klärung und Einordnung von zunächst unklaren psychischen Problemen und Beschwerden
-* Selbsterfahrung, Wunsch nach Entwicklung bzw. Veränderung
 * Ängste im zwischenmenschlichen Kontakt, soziale Unsicherheit
 
 Gerne können Sie - falls Sie keine andere Möglichkeit haben - Ihr Baby zu den Einheiten mitnehmen. Eine Teeküche zur Zubereitung von Milchnahrung ist vorhanden.

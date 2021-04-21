@@ -8,7 +8,7 @@ meta: "false"
 type: "post"
 ---
 
-![Beschreibungstext](/img/MarleneKienbacher.JPG "Marlene Kienbacher")
+![Marlene Kienbacher](/img/MarleneKienbacher.webp "Marlene Kienbacher") 
 
 
 Mein Name ist **Marlene Kienbacher**. Bereits die erste Psychologiestunde in der Schule hat meine Faszination für diesen Bereich geweckt und meine Entscheidung Psychologie zu studieren war schnell gefasst. 2013 habe ich dieses Studium abgeschlossen und gleich im Anschluss meine Ausbildung zur Klinischen- und Gesundheitspsychologin absolviert. 

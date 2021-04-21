@@ -13,7 +13,7 @@ Mein Name ist **Karin Pöppl**. Mein Studium der Psychologie habe ich 2010 in Wi
 Mein Zugang liegt darin, dass Menschen alles für die Lösung ihrer Probleme mitbringen. Meine Aufgabe sehe ich darin, sie auf den Weg zu ihrer Lösung zu begleiten.
 
 
-![Beschreibungstext](/img/KarinPoeppl.JPG "Karin Pöppl")
+![Karin Pöppl](/img/KarinPoeppl.webp "Karin Pöppl")
 
 # Lebenslauf
 

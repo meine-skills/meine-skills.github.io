@@ -5,16 +5,16 @@ category = []
 
 date = "2021-04-01"
 
-
-
-[[images]]
-    src = "img/2019/09/obst.webp" 
-    alt = "genuss genusz"
-
-
 title = "Ernährungspsychologie"
 type = "post"
 description = ""
+
+[[images]]
+    src = "img/2019/09/obst.webp" 
+    alt = "Ernährungspsychologie emotionales Essen Stressesser Essverhalten ändern"
+
+
+
 +++
 
 
