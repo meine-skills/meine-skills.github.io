@@ -31,7 +31,7 @@ Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
 * Geburtstrauma
 * psychologische Elternberatung, speziell Themen wie Regretting Motherhood, Regretting Fatherhood, Regretting Parenthood
 * [Endlich Eltern – Doch das Glück fehlt](/einzelsettingppd)
-* Mental Load - die Erschöpfung der unsichtbaren Arbeit (an alles denken müssen) betrifft sehr oft Mütter
+* [Mental Load](/mentalload) - die Erschöpfung der unsichtbaren Arbeit (an alles denken müssen) betrifft sehr oft Mütter
 * [Ernährung](/ernaehrung)
 * Stress und Stressmanagement
 * Selbstwertproblematik, Selbstwertaufbau
