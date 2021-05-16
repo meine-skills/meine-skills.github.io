@@ -50,7 +50,9 @@ Ich nutze unter anderem die Inhalte des DBT-Skills-Training, dessen Schwerpunkte
 * Zwischenmenschliche Fertigkeiten
 * Selbstwert
 
-Des Weiteren verwende ich auch gerne Imaginationstechniken zur Ressourcenstärkung. Da aber jeder Mensch unterschiedlich ist und nicht jedes "Werkzeug" bei jedem oder jeder gleich gut funktioniert, passe ich meine Arbeitsweise individuell an meine KlientInnen an. Dabei steht vor allem ein wertschätzender Umgang für mich im Vordergrund. 
+Des Weiteren verwende ich die Methode des [Brainspottings](https://brainspottingaustria.com/uber-brainspotting/), mit dessen Hilfe emotionale und körperliche Symptome nach emotionalen Verletzungen und belastenden Erlebnissen verarbeitet werden können.
+
+Ebenso wende ich gerne Imaginationstechniken zur Ressourcenstärkung an. Da aber jeder Mensch unterschiedlich ist und nicht jedes "Werkzeug" bei jedem oder jeder gleich gut funktioniert, passe ich meine Arbeitsweise individuell an meine KlientInnen an. Dabei steht vor allem ein wertschätzender Umgang für mich im Vordergrund. 
 
 <img src="/img/Steinmann840260.webp" >
 
