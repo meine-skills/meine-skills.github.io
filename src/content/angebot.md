@@ -4,6 +4,7 @@ Angebote = []
 
 date = "2021-04-08"
 
+
 # 
 #featured = "skills_qf.jpg"
 #featuredalt = "Skills"
@@ -18,6 +19,8 @@ date = "2021-04-08"
 title = "Angebot"
 type = "post"
 description = "Klinisch-psychologische Beratung bzw. Behandlung"
+
+
 +++
 
 ## Arbeitsschwerpunkte
@@ -54,7 +57,9 @@ Des Weiteren verwende ich die Methode des [Brainspottings](https://brainspotting
 
 Ebenso wende ich gerne Imaginationstechniken zur Ressourcenstärkung an. Da aber jeder Mensch unterschiedlich ist und nicht jedes "Werkzeug" bei jedem oder jeder gleich gut funktioniert, passe ich meine Arbeitsweise individuell an meine KlientInnen an. Dabei steht vor allem ein wertschätzender Umgang für mich im Vordergrund. 
 
-<img src="/img/Steinmann840260.webp" >
+<!-- <img src="/img/Steinmann840260.webp" >-->
+
+{{<assetsimg src="Steinmann840260.webp" alt="Steinmann" >}} 
 
 ## Ablauf
 
@@ -85,3 +90,5 @@ Sollten Sie einen barrierefreien Zugang benötigen, können wir die Einheiten in
 ### Covid-19-Maßnahmen
 
 Es gelten die derzeit vorgeschriebenen Schutzmaßnahmen. 
+
+{{<thtml >}}

@@ -1,0 +1,11 @@
+{{ with (.Get "title") -}}
+<h4>{{ . }}</h4>
+{{- end -}}
+
+{{ with .Page.Resources.Match "*" }}
+	<div class="Carousel__slide">
+	{{ range . }}
+		{{ .RelPermalink }} <img src="{{ .RelPermalink }}">
+	{{ end }}
+	</div>
+{{ end }}
