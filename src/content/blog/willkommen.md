@@ -11,7 +11,7 @@ description = "auf meine-skills.at"
 #categories = ["Skillstrainig"]
 +++
 
-Mein Name ist [Marlene Kienbacher](/contact), ich bin Klinische Psychologin und Gesundheitspsychologin und biete in meiner Praxis psychologische Beratung und Behandlung zu verschiedenen [Schwerpunkten](/angebot) an.
+Mein Name ist [Marlene Kienbacher](/about), ich bin Klinische Psychologin und Gesundheitspsychologin und biete in meiner Praxis psychologische Beratung und Behandlung zu verschiedenen [Schwerpunkten](/angebot) an.
 
 [{{<assetsimg src="depression.webp" alt="Depression" >}}](/infodepression)
 
