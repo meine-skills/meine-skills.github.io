@@ -9,16 +9,14 @@ title = "Ernährungspsychologie"
 type = "post"
 description = ""
 
-[[images]]
-    src = "img/2019/09/obst.webp" 
-    alt = "Ernährungspsychologie emotionales Essen Stressesser Essverhalten ändern"
-
 
 
 +++
 
 
 Als Ernährungspsychologin befasse ich mich vor allem mit dem Essverhalten. Es geht also nicht darum, was man essen soll um Abzunehmen oder das Gewicht zu halten - die meisten wissen das sowieso. Die Schwierigkeit liegt oft darin, diese Theorien in den Alltag zu integrieren bzw. umzusetzen. Essen ist nämlich so viel mehr als nur Ernährung - dahinter liegen viele Mechanismen, die man beachten muss. Wenn der bisherige Weg nicht funktioniert hat, so ist es oft besser, diesen zu verlassen und sich neue Pfade zu suchen. 
+
+{{<assetsimg src="ernaehrung.webp" alt="Ernährungspsychologie emotionales Essen Stressesser Essverhalten ändern" >}} 
 
 Die PSZ Schiltern GmbH hat bezüglich dieser Ausbildung ein Interview in der Firmenzeitung "PSZ - Konkret" geführt. Hier finden Sie Auszüge davon:
 

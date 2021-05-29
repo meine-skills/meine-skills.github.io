@@ -11,11 +11,20 @@ description = "auf meine-skills.at"
 #categories = ["Skillstrainig"]
 +++
 
-<p align="center">
-<a href ="/angebot/"><img  src="/img/Titelbild.webp" alt="regretting motherhood father parenthood geburtstrauma postpartaledepression natal ernährungspsychologie abnehmen rosesrevolution gewalt selbstwert skillstraining babyblues achtsamkeit darmhypnose reizdarm elternberatung psychologin beratungbehandlung psychologisch mentalload" width="600"></a>
-</p>
+Mein Name ist [Marlene Kienbacher](/contact), ich bin Klinische Psychologin und Gesundheitspsychologin und biete in meiner Praxis psychologische Beratung und Behandlung zu verschiedenen [Schwerpunkten](/angebot) an.
 
+[{{<assetsimg src="depression.webp" alt="Depression" >}}](/infodepression)
 
-Mein Name ist [Marlene Kienbacher](/contact), ich bin Klinische Psychologin und Gesundheitspsychologin und biete in meiner Praxis psychologische Beratung und Behandlung zu verschiedenen [Schwerpunkten](/angebot) an - vor allem bezüglich Elternschaft und Geburt. 
-Gemeinsam mit meiner Kollegin [Karin Pöppl](/karinpoeppl) bieten wir auch [Gruppensettings](/gruppensetting) an. Unter [Informationen](/allgemeineinformationen) finden Sie Hintergrundinformationen, Zitate und Literaturtipps zu meinen Schwerpunkten.
+[{{<assetsimg src="geburt.webp" alt="Belastungen rund um die Geburt" >}}](/infoppd)
 
+[{{<assetsimg src="stress.webp" alt="Stressmanagement" >}}](/angebot)
+
+[{{<assetsimg src="krisen.webp" alt="Lebenskrisen" >}}](/angebot)
+
+[{{<assetsimg src="gleichgewicht.webp" alt="Klarheit finden, Gleichgewicht wieder herstellen" >}}](/angebot)
+
+[{{<assetsimg src="selbstwert.webp" alt="Selbstwert" >}}](/angebot)
+
+[{{<assetsimg src="ernaehrungtitel.webp" alt="Ernährung Ernährungspsychologie" >}}](/ernaehrung)
+
+[{{<assetsimg src="entwicklung.webp" alt="Entwicklung und Veränderung" >}}](/angebot)

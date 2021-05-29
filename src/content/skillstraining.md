@@ -4,15 +4,13 @@ Angebote = []
 
 date = "2021-03-01"
 
-[[images]]
-    src = "img/2019/09/Skills.webp"
-    alt = "skill"
-
 title = "Skillstraining"
 type = "post"
 description = ""
 +++
 
+
+{{<assetsimg src="skills.webp" alt="Skillstraining Emotionsregulation Stressregulation" >}} 
 
 Im Skillstraining erlernen Sie Werkzeuge (Skills)
 

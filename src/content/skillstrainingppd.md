@@ -4,16 +4,13 @@ Angebote = []
 
 date = "2021-03-01"
 
-[[images]]
-    src = "img/2019/09/babyblues.webp" 
-    alt = "babyblues"
-
 title = "Skillstraining speziell nach der Geburt"
 type = "post"
 description = "Endlich Eltern - Doch das Glück fehlt"
 +++
 
-## SKILLSTRAINING
+
+{{<assetsimg src="babyblues.webp" alt="Postpartale Depression Babyblues Regretting Motherhood Überforderung" >}} 
 
 * für Eltern, die sich erschöpft, gestresst, isoliert, überfordert etc. fühlen 
 

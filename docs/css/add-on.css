@@ -1,5 +1,5 @@
 body{
-	background-color: #EED58E;
+	/* Hintergrund background-color: #EED58E;*/
 }
 
 h1 {
@@ -20,12 +20,30 @@ h3,h4,h5,h6 {
 #site-footer .copyright {
 	font-family: Raleway Regular,Helvetica,sans-serif;
 	line-height: 3;
-	font-size: .5em;
+	font-size: .55em;
 }
 
 a {
 	border-bottom:dotted 2px rgba(80, 80, 80, 0.753)
 }
+
+.nav {
+	font-weight: bold;
+	color:#eef;
+	font-size: .7em;
+}
+
+/*
+#site-nav .flyout-menu .link  {
+    background-color: rgba(80, 80, 80, 0.753);
+    color: #ffffff;
+}
+
+#site-nav .flyout-menu .link:hover  {
+    background-color: rgba(80, 80, 80, 0.753);
+    color: #ffffff;
+}
+*/
 
 .table {
 	display: table;

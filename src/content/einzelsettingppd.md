@@ -18,7 +18,7 @@ Viele Eltern sind nach der Geburt eines Kindes erstmal überfordert. Wie soll ma
 
 Vielleicht kennen Sie das Gefühl, dass Sie ja eigentlich glücklich sein sollten und Sie es aber einfach nicht sind. Sie stellen sich ständig die Frage: „Was stimmt denn nicht mit mir? Wieso sind alle andere jungen Eltern so überaus glücklich, nur ich bekomm es einfach nicht auf die Reihe?“
 
-![Postpartale Depression Babyblues Regretting Motherhood Überforderung ](/img/Postpartaledepression.jpg "Depression")
+{{<assetsimg src="Postpartaledepression.webp" alt="Postpartale Depression Babyblues Regretting Motherhood Überforderung" >}} 
 
 Vielleicht sind Sie sogar so mutig, offen darüber zu reden, dass es Ihnen nicht gut geht, aber dann hören Sie nur Sätze wie „Ach, das wird schnell besser“ oder „Ja, es ist anstrengend, aber man kriegt ja zum Glück so viel zurück“. Vielleicht versuchen Sie sich diese Sätze selbst einzureden, aber trotzdem wünschen Sie sich einfach nur Ihr altes Leben zurück und manchmal müssen Sie sich unter Tränen eingestehen, dass Sie es bereuen, ein Kind bekommen zu haben.
 

@@ -5,16 +5,12 @@ Angebote = []
 date = "2021-03-01"
 
 
-[[images]]
-    src = "img/2019/09/gsk.webp" 
-    alt = "gsk"
-
 title = "Soziales Kompetenztraining"
 type = "post"
-description = "GSK"
+description = ""
 +++
 
-## Gruppentraining sozialer Kompetenzen (GSK)
+### Gruppentraining sozialer Kompetenzen (GSK)
 
 Nach dem Konzept von Hinsch, R. & Pfingsten, U.:
 
@@ -26,6 +22,7 @@ In diesem Training geht es darum, die eigenen sozialen Kompetenzen zu verbessern
 
 Um diese unterschiedlichen Situationstypen im Alltag zu meistern, geht es zu Beginn darum, selbstsicheres Verhalten von unsicherem und aggressivem Verhalten zu unterscheiden. Die unterschiedlichen Themenbereiche umfassen eine andere, aber dennoch ähnliche Strategie, um selbstsicher in diesen Situationen auftreten zu können. Die Fähigkeit das eigene Recht durchzusetzen, soziale Beziehungen zu knüpfen und aktiv zu gestalten sowie die eigenen Gefühle und Bedürfnisse zu äußern ist maßgeblich für die Verbesserung und Stabilisierung der psychosozialen Gesundheit.
 
+{{<assetsimg src="gsk.webp" alt="Gruppentraining Soziale Kompetenzen Sozialphobie " >}} 
 
 ### Teilnahme
 

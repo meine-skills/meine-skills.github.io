@@ -146,7 +146,7 @@ a {
     transition: color ease; }
   a:hover {
     border-bottom-color: transparent;
-    color: #DFAF29; }
+    color: #ccc; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #3c3b3b;
@@ -950,7 +950,7 @@ table {
     padding: 0 1.5em;
     text-transform: uppercase; }
   #site-header .flyout-menu {
-    background-color: #847072;
+    background-color: #333;
     border-left: 1px solid rgba(160, 160, 160, 0.3);
     height: 100%;
     margin-top: 3.5em;
