@@ -71,7 +71,7 @@ Wenn Sie Interesse an meinem Angebot haben, nehmen Sie mit [mir](/about) Kontakt
 
 Eine Einheit dauert 50 Minuten und die Kosten dafür belaufen sich auf 75 € pro Einheit. Klinisch-psychologische Behandlung ist leider zurzeit noch eine Privatleistung und es gibt keinen Kostenzuschuss der Krankenkasse. Aus diesem Grund ist auch keine Zuweisung vom Arzt notwendig. Unter bestimmten Bedingungen biete ich auch gerne einen Sozialtarif an - fragen Sie einfach danach.
  
-### Verschwiegenheitspflicht
+### Verschwiegenheits-pflicht
 
 PsychologInnen unterliegen einer gesetzlich verankerten absoluten Verschwiegenheitspflicht. Um Kontakt zwischen meinen KlientInnen zu vermeiden, bitte ich Sie darum, möglichst pünktlich in die Praxis zu kommen und diese anschließend wieder pünktlich zu verlassen.
 
