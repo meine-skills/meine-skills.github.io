@@ -49,7 +49,7 @@ Ich nutze unter anderem die Inhalte des DBT-Skills-Training, dessen Schwerpunkte
 
 * Achtsamkeit, Entspannungstechniken
 * Stressregulation
-* Emotions(Gefühls)regulation
+* Emotions(Gefühls)modulation
 * Zwischenmenschliche Fertigkeiten
 * Selbstwert
 
