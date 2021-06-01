@@ -13,18 +13,12 @@ description = "auf meine-skills.at"
 
 Mein Name ist [Marlene Kienbacher](/about), ich bin Klinische Psychologin und Gesundheitspsychologin und biete in meiner Praxis psychologische Beratung und Behandlung zu verschiedenen [Schwerpunkten](/angebot) an.
 
-[{{<assetsimg src="depression.webp" alt="Depression" >}}](/infodepression)
+[{{<assetsimg src="depression.webp" alt="Depression" >}} ](/infodepression) [{{<assetsimg src="krisen.webp" alt="Lebenskrisen" >}}](/angebot)
 
-[{{<assetsimg src="geburt.webp" alt="Belastungen rund um die Geburt" >}}](/infoppd)
+ [{{<assetsimg src="geburt.webp" alt="Belastungen rund um die Geburt" >}}](/infoppd) [{{<assetsimg src="stress.webp" alt="Stressmanagement" >}}](/angebot) 
 
-[{{<assetsimg src="stress.webp" alt="Stressmanagement" >}}](/angebot)
 
-[{{<assetsimg src="krisen.webp" alt="Lebenskrisen" >}}](/angebot)
+[{{<assetsimg src="gleichgewicht.webp" alt="Klarheit finden, Gleichgewicht wieder herstellen" >}}](/angebot) [{{<assetsimg src="selbstwert.webp" alt="Selbstwert" >}}](/angebot) 
 
-[{{<assetsimg src="gleichgewicht.webp" alt="Klarheit finden, Gleichgewicht wieder herstellen" >}}](/angebot)
+[{{<assetsimg src="entwicklung.webp" alt="Entwicklung und Veränderung" >}}](/angebot)  [{{<assetsimg src="ernaehrungtitel.webp" alt="Ernährung Ernährungspsychologie" >}}](/ernaehrung) 
 
-[{{<assetsimg src="selbstwert.webp" alt="Selbstwert" >}}](/angebot)
-
-[{{<assetsimg src="ernaehrungtitel.webp" alt="Ernährung Ernährungspsychologie" >}}](/ernaehrung)
-
-[{{<assetsimg src="entwicklung.webp" alt="Entwicklung und Veränderung" >}}](/angebot)
