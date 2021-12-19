@@ -16,5 +16,5 @@ description = ""
 +++
 
 
-Wenn Sie das Skillstraining in der Gruppe absolvieren, profitieren Sie sehr von den Inputs und der Zusammenarbeit bzw. dem gegenseitigen Austausch mit den anderen Gruppenmitgliedern. Möchten Sie aber nicht darauf warten, bis eine Gruppe zustande kommt oder nur einzelne Elemente aus dem Training bearbeiten so biete ich die Inhalte des [Skillstrainings in der Gruppe](/skillstraining) gerne auch im Einzelsetting an.
+Wenn du das Skillstraining in der Gruppe absolvierst, profitierst du sehr von den Inputs und der Zusammenarbeit bzw. dem gegenseitigen Austausch mit den anderen Gruppenmitgliedern. Möchtest du aber nicht darauf warten, bis eine Gruppe zustande kommt oder nur einzelne Elemente aus dem Training bearbeiten so biete ich die Inhalte des [Skillstrainings in der Gruppe](/skillstraining) gerne auch im Einzelsetting an.
 

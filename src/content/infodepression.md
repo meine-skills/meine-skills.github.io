@@ -19,8 +19,8 @@ ständiges Grübeln und Gedankenkreisen, Gedanken an den Tod, Schlafstörungen (
 
 **Ich erkenne mich darin wieder! Was kann ich tun?**
 
-Das Wichtigste ist, dass Sie sich professionelle Unterstützung durch eine/n PsychologIn, eine/r PsychotherapeutIn und/oder eine/r ÄrztIn holen. Beschreiben Sie Ihre Situation so gut wie möglich und sprechen Sie Zweifel offen an.
-PartnerInnen und Freunde verfügen nicht über das notwendige Wissen und es fehlt die nötige Distanz, um Ihnen professionell zu helfen. Diese können aber eine sehr wichtige Stütze sein. Gut gemeinte Ratschläge nerven aber mehr als sie helfen. Ratschläge sind oft einfach nur "Schläge". 
+Das Wichtigste ist, sich professionelle Unterstützung durch eine/n PsychologIn, eine/r PsychotherapeutIn und/oder eine/r ÄrztIn zu holen. Beschreibe deine Situation so gut wie möglich und sprich Zweifel offen an.
+PartnerInnen und Freunde verfügen nicht über das notwendige Wissen und es fehlt die nötige Distanz, um professionell zu helfen. Diese können aber eine sehr wichtige Stütze sein. Gut gemeinte Ratschläge nerven aber mehr als sie helfen. Ratschläge sind oft einfach nur "Schläge". 
 
 **Ich schäme mich dafür depressiv zu sein**
 
@@ -29,24 +29,24 @@ Eine Depression kann durch vielfältige Faktoren ausgelöst werden, im Grunde is
 
 **Eine nahestehende Person ist depressiv. Ich weiß nicht, wie ich helfen kann.**
 
-Bleiben Sie in Ihrer Rolle (PartnerIn, Familienangehörige/r, FreundIn, etc.) aber verzichten Sie darauf, eine therapeutische Rolle einzunehmen. Sie können in Ihrem Rahmen emotional unterstützen und helfen, einen geeignete/n ÄrztIn, PsychologIn, TherapeutIn zu suchen – eventuell auch einen stationären Aufenthalt in die Wege leiten. Packen Sie die betroffene Person allerdings nicht in Watte oder behüten sie diese zu sehr. Behalten Sie gemeinsame Aktivitäten bei und holen Sie sich selbst Hilfe, wenn Sie durch die Erkrankung des anderen in eine Belastungssituation geraten.
+Bleib in deiner Rolle (PartnerIn, Familienangehörige/r, FreundIn, etc.) und verzichte darauf, eine therapeutische Rolle einzunehmen. Du kannst in deinem Rahmen emotional unterstützen und helfen, einen geeignete/n ÄrztIn, PsychologIn, TherapeutIn zu suchen – eventuell auch einen stationären Aufenthalt in die Wege leiten. Pack die betroffene Person allerdings nicht in Watte oder behüte diese zu sehr. Behalten gemeinsame Aktivitäten bei und hol dir selbst Hilfe, wenn du durch die Erkrankung des anderen in eine Belastungssituation geratest.
 
 **Was soll ich meinen Kindern sagen?**
 
-Klären Sie Ihre Kinder altersgerecht über die Depression auf und holen Sie sich bei Bedarf Hilfe dafür. Versichern Sie ihnen, dass es sich dabei um eine Erkrankung handelt, die gut behandelbar ist und Sie sich darum kümmern werden. Erklären Sie, dass die Symptome, die Ihre Kinder beobachten können (Traurigkeit, Rückzug) ein Teil dieser Erkrankung sind. Sagen Sie Ihren Kindern, dass Sie sie liebhaben, dies aber vielleicht aufgrund der Erkrankung leider nicht so zeigen können. Sie können sagen, dass Ihre Rolle als Mutter oder Vater für Sie sehr wichtig ist, auch wenn Sie im Moment darin eingeschränkt sind. 
-Holen Sie sich Unterstützung für Ihre Kinder durch Familie, Freunde oder Institutionen, etc. Die Entlastung ist wichtig für Sie und dient dazu, dass Ihre Kinder gut versorgt sind.
+Kläre deine Kinder altersgerecht über die Depression auf und hol dir bei Bedarf Hilfe dafür. Versichere deinen Kindern, dass es sich dabei um eine Erkrankung handelt, die gut behandelbar ist und du dich darum kümmern wirst. Erkläre, dass die Symptome, die deine Kinder beobachten können (Traurigkeit, Rückzug) ein Teil dieser Erkrankung sind. Sag deinen Kindern, dass du sie liebhast, dies aber vielleicht aufgrund der Erkrankung leider nicht so zeigen können. Sie können sagen, dass deine Rolle als Mutter oder Vater für dich sehr wichtig ist, auch wenn du im Moment darin eingeschränkt bist. 
+Hol dir Unterstützung für deine Kinder durch Familie, Freunde oder Institutionen, etc. Die Entlastung ist wichtig für dich und dient dazu, dass deine Kinder gut versorgt sind.
 
 Quelle: vgl. Faßbinder, Klein, Sipos & Schweiger, 2015, S.61–64
 
 **ich kann einfach nicht mehr**
 
-In psychischen Notsituationen oder Krisen können Sie sich rund um die Uhr an das NÖ-Krisentelefon wenden: 
+In psychischen Notsituationen oder Krisen kannst du dich rund um die Uhr an das NÖ-Krisentelefon wenden: 
 
 [<i class="fa fa-phone"></i> 0800 20 20 16](tel:0800202016)
 
 Das Angebot ist kostenlos und vertraulich.
 
-Bei akuten Suizidgedanken bzw. -handlungen rufen Sie bitte umgehen den Notruf mit der Nummer 144.
+Bei akuten Suizidgedanken bzw. -handlungen ruf bitte umgehen den Notruf mit der Nummer 144.
 
 
 

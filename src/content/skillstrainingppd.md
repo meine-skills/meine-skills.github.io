@@ -19,7 +19,7 @@ description = "Endlich Eltern - Doch das Glück fehlt"
 
 
 In zehn wöchentlich stattfindenden Einheiten (à 90 Minuten) 
-erlernen und trainieren Sie in der Gruppe Werkzeuge für den Weg aus der Krise. 
+erlernen und trainieren wir in der Gruppe Werkzeuge für den Weg aus der Krise. 
 
 ### Inhalte 
 
@@ -44,7 +44,7 @@ erlernen und trainieren Sie in der Gruppe Werkzeuge für den Weg aus der Krise.
 
 ### Teilnahme
 
-Für die Teilnahme an unserer Skills-Gruppe [kontaktieren Sie uns bitte telefonisch oder per Mail](/contact) um einen Termin für den kostenlosen Informationsvortrag bzw. für ein Erstgespräch zu vereinbaren.
+Für die Teilnahme an unserer Skills-Gruppe [kontaktiere uns bitte telefonisch oder per Mail](/contact) um einen Termin für den kostenlosen Informationsvortrag bzw. für ein Erstgespräch zu vereinbaren.
 
 ### Verschwiegenheitspflicht 
 
@@ -52,13 +52,13 @@ PsychologInnen unterliegen einer gesetzlich verankerten absoluten Verschwiegenhe
 
 ### Absageregelung 
 
-Sollten Sie einen Termin nicht wahrnehmen können, sagen Sie ihn bitte mindestens 24 Stunden vorher ab. 
+Solltest du einen Termin nicht wahrnehmen können, sage ihn bitte mindestens 24 Stunden vorher ab. 
 
 ### Kosten 
 
 Die Kosten für das Skillstraining betragen 390€ für 10 Einheiten (jeweils 90 Minuten). Der Betrag ist vor Beginn des Skillstrainings zu begleichen. 
 
-Vereinbaren Sie mit uns einen kostenfreien Informationsabend bzw. Erstgespräch für genauere Informationen.
+Vereinbare mit uns einen kostenfreien Informationsabend bzw. Erstgespräch für genauere Informationen.
 
 ### Veranstaltungsort 
 

@@ -12,7 +12,7 @@ description = ""
 
 {{<assetsimg src="skills.webp" alt="Skillstraining Emotionsregulation Stressregulation" >}} 
 
-Im Skillstraining erlernen Sie Werkzeuge (Skills)
+Im Skillstraining erlernt man Werkzeuge (Skills)
 
 * zur Stressreduktion
 * zum besseren Umgang mit Gefühlen und Impulskontrolle
@@ -29,7 +29,7 @@ Das Training findet wöchentlich statt. Dabei werden die zehn Einheiten in der G
 
 ### Teilnahme
 
-Für die Teilnahme an unserer Skills-Gruppe [kontaktieren Sie uns bitte telefonisch oder per Mail](/contact) um einen Termin für den kostenlosen Informationsvortrag bzw. für ein Erstgespräch zu vereinbaren.
+Für die Teilnahme an unserer Skills-Gruppe [kontaktiere uns bitte telefonisch oder per Mail](/contact) um einen Termin für den kostenlosen Informationsvortrag bzw. für ein Erstgespräch zu vereinbaren.
 
 ### Verschwiegenheitspflicht 
 
@@ -37,7 +37,7 @@ PsychologInnen unterliegen einer gesetzlich verankerten absoluten Verschwiegenhe
 
 ### Absageregelung 
 
-Sollten Sie einen Termin nicht wahrnehmen können, sagen Sie ihn bitte mindestens 24 Stunden vorher ab. 
+Solltest du einen Termin nicht wahrnehmen können, sag ihn bitte mindestens 24 Stunden vorher ab. 
 
 
 ### Kosten 
