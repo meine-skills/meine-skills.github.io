@@ -76,7 +76,7 @@ Eine Einheit dauert 50 Minuten und die Kosten dafür belaufen sich auf 78 € pr
 PsychologInnen unterliegen einer gesetzlich verankerten absoluten Verschwiegenheitspflicht. Um Kontakt zwischen meinen Klient*innen zu vermeiden, bitte ich darum, möglichst pünktlich in die Praxis zu kommen und diese anschließend wieder pünktlich zu verlassen.
 
 ### Absageregelung
-Sollest du einen Termin nicht wahrnehmen können, bitte ich darum diesen so schnell wie möglich abzusagen.
+Sollest du einen Termin nicht wahrnehmen können, bitte ich darum, diesen ehesmöglich abzusagen.
 
 ### Ort
 
