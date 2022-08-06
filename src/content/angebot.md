@@ -28,20 +28,19 @@ description = "Klinisch-psychologische Beratung bzw. Behandlung"
 Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
 
 * [Depression](/infodepression) und depressive Phasen
+* Selbstwertproblematik, Selbstwertaufbau
+* Stress und Stressmanagement
+* Ängste im zwischenmenschlichen Kontakt, soziale Unsicherheit
 * Beratung und Begleitung bei Lebensproblemen und Lebenskrisen
 * Selbsterfahrung, Wunsch nach Entwicklung bzw. Veränderung
+* Klärung und Einordnung von zunächst unklaren psychischen Problemen und Beschwerden
 * außergewöhnliche Belastungen vor, während und nach der Geburt eines Kindes
 * Geburtstrauma
-* psychologische Elternberatung, speziell Themen wie Regretting Motherhood, Regretting Fatherhood, Regretting Parenthood
+* Regretting Motherhood, Regretting Fatherhood, Regretting Parenthood
 * [Endlich Eltern – Doch das Glück fehlt](/einzelsettingppd)
 * [Mental Load](/mentalload) - die Erschöpfung der unsichtbaren Arbeit (an alles denken müssen) betrifft sehr oft Mütter
 * [Ernährung](/ernaehrung)
-* Stress und Stressmanagement
-* Selbstwertproblematik, Selbstwertaufbau
-* Klärung und Einordnung von zunächst unklaren psychischen Problemen und Beschwerden
-* Ängste im zwischenmenschlichen Kontakt, soziale Unsicherheit
 
-Junge Eltern können gerne - falls sie keine andere Möglichkeit haben - ihr Baby zu den Einheiten mitnehmen. Eine Teeküche zur Zubereitung von Milchnahrung ist vorhanden.
 
 ## Methoden
 
@@ -65,18 +64,18 @@ Ebenso wende ich gerne Imaginationstechniken zur Ressourcenstärkung an. Da aber
 
 ### Kennenlernen
 
-Wenn du Interesse an meinem Angebot hast, kannst du gerne mit [mir](/about) Kontakt aufnehmen und ein kostenloses Erstgespräch vereinbaren. Dieses dient dazu uns gegenseitig kennenzulernen, deine Ziele zu besprechen und dir meine Arbeitsweise vorzustellen.
+Vereinbare ein kostenloses Erstgepräch [Kontakt](/about) - hier kannst du mich persönlich kennenlernen, deine Ziele besprechen und mehr über meine Arbeitsweise erfahren.
 
 ### Kosten
 
-Eine Einheit dauert 50 Minuten und die Kosten dafür belaufen sich auf 78 € pro Einheit. 
+Die Kosten belaufen sich auf 85 € pro Einheit (50 Min.).
  
 ### Verschwiegenheits-pflicht
 
 PsychologInnen unterliegen einer gesetzlich verankerten absoluten Verschwiegenheitspflicht. Um Kontakt zwischen meinen Klient*innen zu vermeiden, bitte ich darum, möglichst pünktlich in die Praxis zu kommen und diese anschließend wieder pünktlich zu verlassen.
 
 ### Absageregelung
-Sollest du einen Termin nicht wahrnehmen können, bitte ich darum, diesen ehesmöglich abzusagen.
+Sollest du einen Termin nicht wahrnehmen können, bitte ich darum, diesen ehestmöglich (24 Stunden) abzusagen.
 
 ### Ort
 

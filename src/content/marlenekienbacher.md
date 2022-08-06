@@ -29,7 +29,7 @@ type = "post"
   </div>
   <div class="table-row">
     <div class="table-cell">seit 2021</div>
-    <div class="table-cell">nebenberuflich in selbstständiger Praxis tätig</div>
+    <div class="table-cell">in selbstständiger Praxis tätig</div>
   </div>
 </div>
 
@@ -39,7 +39,7 @@ type = "post"
 * Klinische- und Gesundheitspsychologin (BÖP)
 * Lehrgang Skills-Training des ÖDBT
 * Ernährungspsychologin bei Mag. Cornelia Fiechtl
-* Brainspotting, ausgebildet von Brainspotting Austria [<img src="/img/brainspotting.webp" >](https://brainspottingaustria.com/uber-brainspotting/)
+* Brainspotting Phase 1 und 2, ausgebildet von Brainspotting Austria [<img src="/img/brainspotting.webp" >](https://brainspottingaustria.com/uber-brainspotting/)
 
 # Fortbildungen
 
