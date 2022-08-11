@@ -64,7 +64,7 @@ Ebenso wende ich gerne Imaginationstechniken zur Ressourcenstärkung an. Da aber
 
 ### Kennenlernen
 
-Vereinbare ein kostenloses Erstgepräch [Kontakt](/about) - hier kannst du mich persönlich kennenlernen, deine Ziele besprechen und mehr über meine Arbeitsweise erfahren.
+Vereinbare ein kostenloses Erstgepräch [Kontakt](/about) - hier kannst du mich persönlich kennenlernen, deine Ziele besprechen und mehr über meine Arbeitsweise erfahren. Im gegenseitigen Einverständnis können wir dieses Gespräch auch verlängern, die restliche Zeit werde ich dann als psychologische Beratung verrechnen.
 
 ### Kosten
 
