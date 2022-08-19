@@ -68,7 +68,7 @@ Vereinbare ein kostenloses Erstgepräch [Kontakt](/about) - hier kannst du mich 
 
 ### Kosten
 
-Die Kosten belaufen sich auf 85 € pro Einheit (50 Min.).
+Die Kosten belaufen sich auf 80 € pro Einheit (50 Min.).
  
 ### Verschwiegenheits-pflicht
 
