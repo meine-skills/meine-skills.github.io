@@ -30,12 +30,11 @@ Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
 * [Depression](/infodepression) und depressive Phasen
 * Selbstwertproblematik, Selbstwertaufbau
 * Stress und Stressmanagement
-* Ängste im zwischenmenschlichen Kontakt, soziale Unsicherheit
+* Ängste im zwischenmenschlichen Kontakt, soziale Unsicherheit, Bindungsangst
 * Beratung und Begleitung bei Lebensproblemen und Lebenskrisen
 * Selbsterfahrung, Wunsch nach Entwicklung bzw. Veränderung
 * Klärung und Einordnung von zunächst unklaren psychischen Problemen und Beschwerden
 * außergewöhnliche Belastungen vor, während und nach der Geburt eines Kindes
-* Geburtstrauma
 * Regretting Motherhood, Regretting Fatherhood, Regretting Parenthood
 * [Endlich Eltern – Doch das Glück fehlt](/einzelsettingppd)
 * [Mental Load](/mentalload) - die Erschöpfung der unsichtbaren Arbeit (an alles denken müssen) betrifft sehr oft Mütter
@@ -64,11 +63,11 @@ Ebenso wende ich gerne Imaginationstechniken zur Ressourcenstärkung an. Da aber
 
 ### Kennenlernen
 
-Vereinbare ein kostenloses Erstgepräch [Kontakt](/about) - hier kannst du mich persönlich kennenlernen, deine Ziele besprechen und mehr über meine Arbeitsweise erfahren. Im gegenseitigen Einverständnis können wir dieses Gespräch auch verlängern, die restliche Zeit werde ich dann als psychologische Beratung verrechnen.
+Vereinbare ein kostenloses Erstgepräch ([Kontakt](/about)) - hier kannst du mich persönlich kennenlernen, deine Ziele besprechen und mehr über meine Arbeitsweise erfahren.
 
 ### Kosten
 
-Die Kosten belaufen sich auf 80 € pro Einheit (50 Min.).
+Die Kosten belaufen sich auf 78 € pro Einheit (50 Min.).
  
 ### Verschwiegenheits-pflicht
 
