@@ -153,7 +153,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", Helvetica, sans-serif;
   letter-spacing: 0.25em;
   line-height: 1.65;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  scroll-margin-top: 70px; }
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     border-bottom: 0; }
 

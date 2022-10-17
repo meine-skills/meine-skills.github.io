@@ -14,6 +14,9 @@ Special thanks to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/
 
 ---
 
+link nach unten: [Verbesserung]({{< relref  "#verbesserung" >}})
+[Kosten]({{< relref  "#kosten" >}})
+
 # CHANGELOG: 
 * 1.2.2020: hugo-extended v0.59.1 =>  Version 0.63.2 
 

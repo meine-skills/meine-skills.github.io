@@ -70,7 +70,7 @@ unsafe= true
     languageMenu        = false
 
   # startseite
-  #[params.home]
+  [params.home]
   #name = "Home"
   #url = "/home"
   #  header                = "willkommen"
@@ -84,7 +84,7 @@ unsafe= true
   
   [params.intro]
     header                = "Psychologin Wachau Krems Melk"
-    paragraph             = "Selbstwert, Depression, Stress, Krisen, Postpartale Depression, etc."
+    paragraph             = "Mag. Marlene Kienbacher | 3622 Mühldorf b. Spitz | +436766942287 | marlene.kienbacher@meine-skills.at"
     rssIntro              = false
     socialIntro           = false
 
@@ -136,7 +136,7 @@ unsafe= true
   # Identifier prepends a Font Awesome icon to the menu item
   [[menu.main]]
     name              = "Home"
-    identifier        = ""
+    identifier        = "home"
     url               = "/"
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
@@ -194,7 +194,7 @@ unsafe= true
 
     [[Languages.de.menu.main]]
       name              = "Startseite"
-      identifier        = ""
+      identifier        = "home"
       url               = "/"
       pre               = "<i class='fas fa-home'></i>"
       weight            = 1

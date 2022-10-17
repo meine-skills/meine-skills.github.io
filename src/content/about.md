@@ -15,9 +15,9 @@ Mein Name ist **Marlene Kienbacher**. Bereits die erste Psychologiestunde in der
 
 Als mein Sohn 2018 zur Welt kam, wurde mein bisheriges Leben auf den Kopf gestellt. In meinem Psychologiestudium lernte ich, dass eine Lebenskrise auch durch positive Ereignisse ausgelöst werden kann. Eine Lebenskrise bedeutet, dass plötzlich alles anders ist. Die bisherigen Bewältigungsmechanismen greifen nicht mehr, dadurch fühlt man sich erstmal überfordert. Es heißt neue Kompetenzen zu entwickeln, um die Krise zu überwinden. Und genau in so einer Krise befand ich mich.
 
-Obwohl jede/r von uns sich das eine oder andere Mal schlichtweg überfordert fühlen kann, reagiert das Umfeld oft mit Unverständnis oder man kämpft mit dem Gefühl der Scham, dem Gefühl, dass man “nicht in Ordnung” ist. Positive Krisen - wie etwa die Geburt eines Kindes - haben hier noch einmal einen besonderen Stellenwert, denn eigentlich “müsste man doch glücklich sein”.
+Obwohl jede:r von uns sich das eine oder andere Mal schlichtweg überfordert fühlen kann, reagiert das Umfeld oft mit Unverständnis oder man kämpft mit dem Gefühl der Scham, dem Gefühl, dass man “nicht in Ordnung” ist. Positive Krisen - wie etwa die Geburt eines Kindes - haben hier noch einmal einen besonderen Stellenwert, denn eigentlich “müsste man doch glücklich sein”.
 
-Stetige Weiterbildung ist  mir wichtig - nicht nur um am aktuellen Stand zu sein, sondern auch um meinen Werkzeugkoffer weiter zu befüllen. Mir ist es wichtig, meine Methoden und Techniken individuell an meine Klient*innen anpassen zu können, so kann ich dich am besten auf deinem Weg begleiten.
+Stetige Weiterbildung ist  mir wichtig - nicht nur um am aktuellen Stand zu sein, sondern auch um meinen Werkzeugkoffer weiter zu befüllen. Mir ist es wichtig, meine Methoden und Techniken individuell an meine Klient:innen anpassen zu können, so kann ich Sie am besten auf Ihrem Weg begleiten.
 
 
 [Lebenslauf, Aus- und Fortbildungen](/marlenekienbacher)

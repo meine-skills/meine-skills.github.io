@@ -4,40 +4,47 @@ Angebote = []
 
 date = "2021-04-08"
 
-
-# 
 #featured = "skills_qf.jpg"
 #featuredalt = "Skills"
 #featuredpath = "date"
-
-# [[images]]
-#    src = "img/2019/09/skills_qf.jpg" 
-#    alt = "Regretting Motherhood"
-#    stretch 
-
 
 title = "Klinisch-psychologische Beratung bzw. Behandlung"
 type = "post"
 description = "Depression, Selbstwert, Stress, Ängste, Lebenskrisen, Postpartale Depression, Regretting Motherhood, Mental Load"
 
-
 +++
 
-## Gute Gründe für meine psychologische Hilfe:
+## Arbeitsschwerpunkte
 
-* Sie fühlen sich [depressiv](/infodepression)
-* Sie möchten Ihren Selbstwert verbessern
-* Sie leiden unter Stress
-* Sie fühlen sich im zwischenmenschlichen Kontakt unwohl oder leiden unter Bindungsangst
-* Sie stecken in einer Lebenskrise und finden keinen Ausweg bzw. kennen Sie nicht die Ursache Ihrer psychischen Probleme und Beschwerden
-* Sie leiden unter außergewöhnliche Belastungen vor, während und nach der Geburt eines Kindes. Darunter fallen z.B [postpartale Depression](/einzelsettingppd), Regretting Motherhood, [Mental Load](/mentalload)
+Meine Arbeitsschwerpunkte habe ich auf folgende Bereiche gelegt:
+
+* [Depression](/infodepression) und depressive Phasen
+* Selbstwertproblematik, Selbstwertaufbau
+* Stress und Stressmanagement
+* Ängste im zwischenmenschlichen Kontakt, soziale Unsicherheit, Bindungsangst
+* Beratung und Begleitung bei Lebensproblemen und Lebenskrisen
+* Selbsterfahrung, Wunsch nach Entwicklung bzw. Veränderung
+* Klärung und Einordnung von zunächst unklaren psychischen Problemen und Beschwerden
+* außergewöhnliche Belastungen vor, während und nach der Geburt eines Kindes
+* Regretting Motherhood, Regretting Fatherhood, Regretting Parenthood
+* [Endlich Eltern – Doch das Glück fehlt](/einzelsettingppd)
+* [Mental Load](/mentalload) - die Erschöpfung der unsichtbaren Arbeit (an alles denken müssen) betrifft sehr oft Mütter
+* [Ernährung](/ernaehrung)
 
 
-## Meine Methoden zur Verbesserung Ihrer Situation
+## Methoden
 
-An erster Stelle steht für mich ein wertschätzender Umgang. Nur in einer vertrauensvollen Umgebung kann man schwierige Dinge besprechen. Da jeder Mensch unterschiedlich ist, passe ich meine Arbeitsweise individuell an Sie an.
-Als Klinische Psychologin und Gesundheitspsychologin bin ich nämlich im Gegensatz zur Psychotherapie an keinen bestimmte Methode gebunden. Es gibt nur eine Vorgabe: alle Methoden müssen wissenschaftlich geprüft sein.
+Ich nutze unter anderem die Inhalte des DBT-Skills-Training, dessen Schwerpunkte auf folgenden Bereichen liegen:
 
+* Achtsamkeit, Entspannungstechniken
+* Stressregulation
+* Emotions(Gefühls)modulation
+* Zwischenmenschliche Fertigkeiten
+* Selbstwert
+
+Des Weiteren verwende ich die Methode des [Brainspottings](https://brainspottingaustria.com/uber-brainspotting/), mit dessen Hilfe emotionale und körperliche Symptome nach emotionalen Verletzungen und belastenden Erlebnissen verarbeitet werden können.
+
+Ebenso wende ich gerne Imaginationstechniken zur Ressourcenstärkung an. Da aber jeder Mensch unterschiedlich ist und nicht jedes "Werkzeug" bei jedem oder jeder gleich gut funktioniert, passe ich meine Arbeitsweise individuell an meine Klient:innen an. Dabei steht vor allem ein wertschätzender Umgang für mich im Vordergrund. 
 
 <!-- <img src="/img/Steinmann840260.webp" >-->
 
@@ -55,7 +62,7 @@ Die Kosten belaufen sich auf 80€ pro Einheit (50 Min.).
  
 ### Verschwiegenheits-pflicht
 
-PsychologInnen unterliegen einer gesetzlich verankerten absoluten Verschwiegenheitspflicht. Um Kontakt zwischen meinen Klient*innen zu vermeiden, bitte ich darum, möglichst pünktlich in die Praxis zu kommen und diese anschließend wieder pünktlich zu verlassen.
+PsychologInnen unterliegen einer gesetzlich verankerten absoluten Verschwiegenheitspflicht. Um Kontakt zwischen meinen Klient:innen zu vermeiden, bitte ich darum, möglichst pünktlich in die Praxis zu kommen und diese anschließend wieder pünktlich zu verlassen.
 
 ### Absageregelung
 Sollen Sie einen Termin nicht wahrnehmen können, bitte ich darum, diesen ehestmöglich (24 Stunden) abzusagen.
