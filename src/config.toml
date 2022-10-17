@@ -81,8 +81,8 @@ unsafe= true
   # required for proper functionality. HTML is supported within the params.
   
   [params.intro]
-    header                = "meine skills"
-    paragraph             = "Erhaltung und Förderung psychischer Gesundheit"
+    header                = "Psychologin Wachau Krems Melk"
+    paragraph             = "Selbstwert, Depression, Stress, Krisen, Postpartale Depression, etc."
     rssIntro              = false
     socialIntro           = false
 
