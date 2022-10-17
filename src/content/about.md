@@ -1,11 +1,11 @@
 ---
 title: "Marlene Kienbacher"
-date: 2021-04-01
 draft: false
 #tags: ["über uns"]
 categories: []
 meta: "false"
-type: "post"
+type: "about"
+layout: "about"
 ---
 
 ![Marlene Kienbacher](/img/MarleneKienbacher.webp "Marlene Kienbacher") 

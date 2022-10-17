@@ -71,6 +71,8 @@ unsafe= true
 
   # startseite
   #[params.home]
+  #name = "Home"
+  #url = "/home"
   #  header                = "willkommen"
   #  paragraph             = "auf meine-skills.at"
     #content               = "WEBSITE im AUFBAU - UNDER CONSTRUCTION ... <br> "
@@ -134,7 +136,7 @@ unsafe= true
   # Identifier prepends a Font Awesome icon to the menu item
   [[menu.main]]
     name              = "Home"
-    identifier        = "home"
+    identifier        = ""
     url               = "/"
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
@@ -192,7 +194,7 @@ unsafe= true
 
     [[Languages.de.menu.main]]
       name              = "Startseite"
-      identifier        = "home"
+      identifier        = ""
       url               = "/"
       pre               = "<i class='fas fa-home'></i>"
       weight            = 1
