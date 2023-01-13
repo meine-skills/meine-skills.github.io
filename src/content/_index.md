@@ -7,7 +7,7 @@ Angebote = []
 
 
 
-title = "Klinisch-psychologische Beratung bzw. Behandlung"
+title = "Marlene Kienbacher | klinisch-psychologische Behandlung und Beratung | Bezirk Krems"
 
 description = "Depression, Selbstwert, Stress, Ängste, Lebenskrisen, Postpartale Depression, Regretting Motherhood, Mental Load"
 
@@ -28,13 +28,13 @@ Mein Name ist [Marlene Kienbacher](/about), ich bin Klinische Psychologin und Ge
 * Sie leiden unter Stress
 * Sie fühlen sich im zwischenmenschlichen Kontakt unwohl oder leiden unter Bindungsangst
 * Sie stecken in einer Lebenskrise und finden keinen Ausweg bzw. kennen Sie nicht die Ursache Ihrer psychischen Probleme und Beschwerden
-* Sie leiden unter außergewöhnliche Belastungen vor, während und nach der Geburt eines Kindes. Darunter fallen z.B [postpartale Depression](/einzelsettingppd), Regretting Motherhood, [Mental Load](/mentalload)
+* Sie leiden unter außergewöhnlichen Belastungen vor, während und nach der Geburt eines Kindes. Darunter fallen z.B [postpartale Depression](/einzelsettingppd), Regretting Motherhood, [Mental Load](/mentalload)
 
 
 ## Meine Methoden zur Verbesserung Ihrer Situation
 
 An erster Stelle steht für mich ein wertschätzender Umgang. Nur in einer vertrauensvollen Umgebung kann man schwierige Dinge besprechen. Da jeder Mensch unterschiedlich ist, passe ich meine Arbeitsweise individuell an Sie an.
-Als Klinische Psychologin und Gesundheitspsychologin bin ich nämlich im Gegensatz zur Psychotherapie an keinen bestimmte Methode gebunden. Es gibt nur eine wichtige Vorgabe: alle Methoden müssen wissenschaftlich geprüft sein.
+Als Klinische Psychologin und Gesundheitspsychologin bin ich nämlich im Gegensatz zur Psychotherapie an keine bestimmte Methode gebunden. Es gibt nur eine wichtige Vorgabe: alle Methoden müssen wissenschaftlich geprüft sein.
 
 ## Sie sind noch unsicher?
 

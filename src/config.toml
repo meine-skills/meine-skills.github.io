@@ -83,7 +83,7 @@ unsafe= true
   # required for proper functionality. HTML is supported within the params.
   
   [params.intro]
-    header                = "Psychologin Wachau Krems Melk"
+    header                = "Psychologin Mühldorf | Wachau Krems Melk"
     paragraph             = "Mag. Marlene Kienbacher | 3622 Mühldorf b. Spitz | +436766942287 | marlene.kienbacher@meine-skills.at"
     rssIntro              = false
     socialIntro           = false
@@ -222,9 +222,9 @@ unsafe= true
       weight            = 2
 
 [[Languages.de.menu.main]]
-      name              = "Gruppensetting"
-      identifier        = "Gruppensetting"
-      url               = "/gruppensetting"
+      name              = "Ablauf"
+      identifier        = "Ablauf"
+      url               = "/ablauf"
       pre               = "<i class='fas fa-newspaper'></i>"
       weight            = 3
 

@@ -8,7 +8,7 @@ date = "2021-04-08"
 #featuredalt = "Skills"
 #featuredpath = "date"
 
-title = "Klinisch-psychologische Beratung bzw. Behandlung"
+title = "Klinisch-psychologische Beratung und Behandlung"
 type = "post"
 description = "Depression, Selbstwert, Stress, Ängste, Lebenskrisen, Postpartale Depression, Regretting Motherhood, Mental Load"
 
@@ -50,34 +50,3 @@ Ebenso wende ich gerne Imaginationstechniken zur Ressourcenstärkung an. Da aber
 
 {{<assetsimg src="Steinmann840260.webp" alt="Steinmann" >}} 
 
-## Ablauf
-
-### Kennenlernen
-
-Vereinbaren Sie ein kostenloses Erstgepräch ([Kontakt](/about)) - hier können Sie mich persönlich kennenlernen, Ihre Ziele besprechen und mehr über meine Arbeitsweise erfahren.
-
-### Kosten
-
-Die Kosten belaufen sich auf 80€ pro Einheit (50 Min.).
- 
-### Verschwiegenheits-pflicht
-
-PsychologInnen unterliegen einer gesetzlich verankerten absoluten Verschwiegenheitspflicht. Um Kontakt zwischen meinen Klient:innen zu vermeiden, bitte ich darum, möglichst pünktlich in die Praxis zu kommen und diese anschließend wieder pünktlich zu verlassen.
-
-### Absageregelung
-Sollen Sie einen Termin nicht wahrnehmen können, bitte ich darum, diesen ehestmöglich (24 Stunden) abzusagen.
-
-### Ort
-
-Niederranna 1, 3622 Niederranna (Mühldorf bei Spitz)
-
-Mein Praxisraum befindet sich im ersten Stock und ist über eine Treppe erreichbar. 
-Im Hof gibt es genügend Parkmöglichkeiten. 
-
-Sollten Sie einen barrierefreien Zugang benötigen, können wir die Einheiten ins Schloss Schiltern bei Langenlois verlegen.
-
-### Covid-19-Maßnahmen
-
-Es gelten die derzeit vorgeschriebenen Schutzmaßnahmen. 
-
-{{<thtml >}}

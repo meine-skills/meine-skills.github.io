@@ -31,8 +31,11 @@ type = "post"
     <div class="table-cell">seit 2021</div>
     <div class="table-cell">in selbstständiger Praxis tätig</div>
   </div>
+  <div class="table-row">
+    <div class="table-cell">seit 2022</div>
+    <div class="table-cell">Behandlerin beim Projekt #change (BÖP)</div>
+  </div>
 </div>
-
 
 # Ausbildungen
 
@@ -48,6 +51,7 @@ type = "post"
 * Bindung – Wiege der Persönlichkeit
 * Gruppentraining sozialer Kompetenzen nach Hinsch und Pfingsten
 * Selbstbild und Selbstwert – Tools für die psychologische Praxis
+* Selbstbehauptung bei Mag. Karoline Turner
 
 # Vorträge
 

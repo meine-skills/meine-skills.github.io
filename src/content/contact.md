@@ -3,8 +3,8 @@ author = ""
 Angebote = []
 type = "about"
 layout = "about"
-title = "Kontakt"
-description = "für Terminvereinbarungen"
+title = "Abendtermine und Samstagstermine verfügbar"
+description = ""
 
 linktitle = ""
 
