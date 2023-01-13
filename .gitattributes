@@ -1,5 +1,5 @@
-*.html text eol=lf
-*.css text eol=lf
-*.js text eol=lf
+*.html text eol=crlf
+*.css text eol=crlf
+*.js text eol=crlf
 *.jpg binary
 *.png binary

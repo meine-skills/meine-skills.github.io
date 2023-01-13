@@ -45,6 +45,10 @@ unsafe= true
   socialShare           = []
   #socialShare           = ["twitter", "facebook"]
 
+  [assets]
+  disableFingerprinting = true
+
+
   [params.meta]
     # Sets the meta tag description
     description         = "meine skills - skillstraining angebote wochenbettdepression schwangerschaftsdepression"
