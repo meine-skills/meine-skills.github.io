@@ -40,7 +40,7 @@
       {{- if or $.Site.Params.staticman.enabled $.Site.Params.staticman.staticman -}}
         {{- $jsSlice = $jsSlice | append (resources.Get "js/staticman.js" | resources.ExecuteAsTemplate "js/staticman.js" $.Site.Params.staticman) -}}
       {{- end -}}
-      {{- $js := $jsSlice | resources.Concat "js/bundle.js" | minify | fingerprint -}}
+      {{- $js := $jsSlice | resources.Concat "js/bundle.js" | minify -}}
     <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
     <script src="{{ "js/add-on.js" | relURL }}"></script>
     {{- else }}
