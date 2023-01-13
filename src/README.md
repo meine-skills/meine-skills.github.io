@@ -14,6 +14,10 @@ hugo -Fv
 
 oder website-update.ps1 mit "powershell" ausführen
 
+# cleanups
+
+* ggf. docs odner vor online schalten löschen
+* github actions: https://github.com/meine-skills/meine-skills.github.io/actions
 
 #todo's
 
