@@ -7,7 +7,7 @@ Angebote = []
 
 
 
-title = "Marlene Kienbacher | klinisch-psychologische Behandlung und Beratung | Bezirk Krems"
+title = "Psychologische Behandlung und Beratung | Bezirk Krems"
 
 description = "Depression, Selbstwert, Stress, Ängste, Lebenskrisen, Postpartale Depression, Regretting Motherhood, Mental Load"
 

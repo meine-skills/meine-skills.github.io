@@ -258,7 +258,7 @@ textarea {
    padding: 0.25em 0.65em;
    overflow-x: auto;
    &::-webkit-scrollbar {
-     height: .25em;
+     height: 0.25em;
    }
    &::-webkit-scrollbar-track {
      -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -977,7 +977,7 @@ textarea {
  /* ---------------------------------CSS Grid-------------------------------- */
 
  #site-intro {
-   grid-area: intro;
+   grid-area: sidebar;
  }
 
  #site-sidebar {
@@ -1282,7 +1282,7 @@ textarea {
        transition: none;
        white-space: nowrap;
        &::-webkit-scrollbar {
-         height: .25em;
+         height: 0em;
        }
        &::-webkit-scrollbar-track {
          -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -1338,8 +1338,8 @@ textarea {
      margin: 0;
      a {
        border: 0;
-       font-size: 0.35em;
-       font-weight: 800;
+       font-size: 0.45em;
+       font-weight: 400;
        margin-left: 1.5em;
        opacity: 1;
        padding: 0;
@@ -1377,6 +1377,7 @@ textarea {
        }
      }
    }
+
    .lang-toggle {
      &:hover {
        span {
@@ -1404,6 +1405,18 @@ textarea {
        vertical-align: middle;
      }
    }
+   .nav-title .nav-titlepsych {
+    align-items: left;
+    display: flex;
+    font-stretch: 50%;
+    margin: 0.25em;
+      a {
+        color: #FFF;
+        border: 0;
+        font-size: 0.25em;
+        font-weight: 100;
+      }
+    }
  }
 
  #lang-menu {

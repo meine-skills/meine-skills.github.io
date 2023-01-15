@@ -1,0 +1,28 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "src\\themes\\hugo-future-imperfect-slim\\README.md",
+            "group": "Default"
+        },
+        {
+            "filePath": "src\\config.toml",
+            "group": "Default"
+        },
+        {
+            "filePath": "src\\content\\_index.md",
+            "group": "Default"
+        },
+        {
+            "filePath": "src\\layouts\\partials\\site-footer.html",
+            "group": "Default"
+        },
+        {
+            "filePath": "src\\assets\\scss\\main.scss",
+            "group": "Default"
+        },
+        {
+            "filePath": "src\\themes\\hugo-future-imperfect-slim\\layouts\\partials\\site-header.html",
+            "group": "Default"
+        }
+    ]
+}

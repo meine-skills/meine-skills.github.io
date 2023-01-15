@@ -14,7 +14,11 @@
           {{ i18n .Section | default .Title }}
         {{ end }}
       </a>
+      <a href="{{ "/" | relLangURL }}" class="nav">
+        Klinische und Gesundheitspychologin</a>
     </h1>
+
+      
     <menu id="site-nav-menu" class="flyout-menu menu">
       {{ range .Site.Menus.main }}
         {{ if and (gt (len (findRE "fa[rsb]( fa-([a-z-]+))+" .Identifier)) 0) (not .Pre) }}

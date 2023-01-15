@@ -174,7 +174,7 @@ code {
   padding: 0.25em 0.65em;
   overflow-x: auto; }
   code::-webkit-scrollbar {
-    height: .25em; }
+    height: 0.25em; }
   code::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); }
   code::-webkit-scrollbar-thumb {
@@ -754,7 +754,7 @@ table {
 
 /* ---------------------------------CSS Grid-------------------------------- */
 #site-intro {
-  grid-area: intro; }
+  grid-area: sidebar; }
 
 #site-sidebar {
   grid-area: sidebar; }
@@ -999,7 +999,7 @@ table {
         transition: none;
         white-space: nowrap; }
         #site-nav .flyout-menu::-webkit-scrollbar {
-          height: .25em; }
+          height: 0em; }
         #site-nav .flyout-menu::-webkit-scrollbar-track {
           -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
           box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); }
@@ -1045,8 +1045,8 @@ table {
     margin: 0; }
     #site-nav .nav-title a {
       border: 0;
-      font-size: 0.35em;
-      font-weight: 800;
+      font-size: 0.45em;
+      font-weight: 400;
       margin-left: 1.5em;
       opacity: 1;
       padding: 0; }
@@ -1095,6 +1095,16 @@ table {
         display: none; } }
     #site-nav .nav-toggle i {
       vertical-align: middle; }
+  #site-nav .nav-title .nav-titlepsych {
+    align-items: left;
+    display: flex;
+    font-stretch: 50%;
+    margin: 0.25em; }
+    #site-nav .nav-title .nav-titlepsych a {
+      color: #FFF;
+      border: 0;
+      font-size: 0.25em;
+      font-weight: 100; }
 
 #lang-menu.flyout-menu {
   right: -199px;

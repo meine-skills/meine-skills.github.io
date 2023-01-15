@@ -919,9 +919,45 @@ figcaption {
   margin: 0;
   a {
     border: 0;
-    font-size: 0.35em;
-    font-weight: 800;
+    font-size: 0.45em;
+    font-weight: 400;
     margin-left: 1.5em;
+    opacity: 1;
+    padding: 0;
+    img {
+      height: 4.8em;
+      width: 12.6em;
+    }
+  }
+  @include for-desktop-up {
+    flex-grow: 0;
+    &::after {
+      background: $border-color;
+      content: "";
+      display: block;
+      height: 56px;
+      margin-left: 1.5em;
+      width: 1px;
+    }
+    a {
+      min-width: 12.5em;
+      img {
+        margin-top: -0.2em;
+      }
+    }
+  }
+}
+
+.nav-title .nav-titlepsych {
+  align-items: left;
+  @include display-flex;
+  margin: 0.25em;
+  a {
+    color: white;
+    border: 0;
+    font-size: 0.25em;
+    font-weight: 100;
+    margin-left: 1em;
     opacity: 1;
     padding: 0;
     img {
