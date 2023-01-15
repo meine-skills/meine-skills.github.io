@@ -1047,7 +1047,7 @@ table {
       border: 0;
       font-size: 0.45em;
       font-weight: 400;
-      margin-left: 1.5em;
+      margin-left: 0.5em;
       opacity: 1;
       padding: 0; }
       #site-nav .nav-title a img {
