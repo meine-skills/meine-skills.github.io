@@ -1,7 +1,6 @@
 +++
 title = "Placeholder Text"
 description = "Lorem Ipsum Dolor Si Amet"
-author = "Hugo Authors"
 date = "2019-03-09"
 tags = ["markdown", "text"]
 [[images]]

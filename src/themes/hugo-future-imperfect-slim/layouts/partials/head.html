@@ -69,9 +69,4 @@
   {{- end -}}
   {{- .Scratch.Set "Permalink" .Permalink -}}
   {{- .Scratch.Set "Title" .Title -}}
-  {{- if .Params.Author -}}
-    {{- .Scratch.Set "Author" .Params.Author -}}
-  {{- else -}}
-    {{- .Scratch.Set "Author" .Author -}}
-  {{ end }}
 </head>

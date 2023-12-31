@@ -48,7 +48,3 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
-{{ if and .Site.Params.staticman.recaptcha.siteKey .Site.Params.staticman.recaptcha.encryptedKey }}
-  <script src='https://www.google.com/recaptcha/api.js'></script>
-{{- end -}}
-{{- template "_internal/google_analytics_async.html" . -}}

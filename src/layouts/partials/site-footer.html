@@ -11,7 +11,7 @@
     {{ else }}
       &copy; {{ .Site.LastChange.Year }}
       {{if isset .Site.Params "author" }}
-        {{ .Site.Params.author }}
+        {{ .Site.Title }}
       {{ else }}
         {{ .Site.Title }}
       {{ end }}

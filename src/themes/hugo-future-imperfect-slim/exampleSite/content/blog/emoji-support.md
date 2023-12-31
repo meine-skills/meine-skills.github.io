@@ -1,7 +1,6 @@
 +++
 title = "Emoji Support"
 description = "Guide to emoji usage in Hugo"
-author = "Hugo Authors"
 date = "2019-03-05"
 tags = ["emoji"]
 [[images]]

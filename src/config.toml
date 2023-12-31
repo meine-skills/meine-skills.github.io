@@ -5,7 +5,6 @@ title                   = "meine skills"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 5
-disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = ["en"]
@@ -180,21 +179,21 @@ unsafe= true
 #    pre               = "<i class='far fa-envelope'></i>"
 #    weight            = 7
 
+title = 'meine skills'
+description = 'meine skills - beschreibung'
+LanguageCode = "de"
 [Languages]
-  # Each language has its own menu.
-  [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
-    weight              = 2
-
 # TODO:// MASTER CONFIG FILE!
+
 
   [Languages.de]
     LanguageCode        = "de"
     LanguageName        = "Deutsch"
-    title               = "meine skills"
-    description         = "meine skills - beschreibung"
-    weight              = 1
+ 
+
+    [languages.de.params]
+
+      weight              = 1
 
     [[Languages.de.menu.main]]
       name              = "Startseite"

@@ -21,3 +21,6 @@ git clone --recursive https://github.com/meine-skills/meine-skills.github.io.git
 ##checkout with not --recurive
 cd meine-skills.github.io
 git submodule update --init --recursive
+
+git config --global user.name "meine-skills.at"
+git config --global user.email "marlene.kienbacher@meine-skills.at"

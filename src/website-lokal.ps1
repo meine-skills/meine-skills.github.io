@@ -9,6 +9,8 @@ else {
 }
 
 
-& hugo server
+# & hugo server --logLevel debug
+& hugo server --logLevel info
+# & hugo server
 # Start-Process -NoNewWindow {hugo server -D}
 

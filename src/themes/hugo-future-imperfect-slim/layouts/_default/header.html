@@ -12,7 +12,5 @@
   </div>
   <div class="meta">
     <time datetime="{{ .Date }}">{{ .Render "date" }}</time>
-    {{ with .Params.author }}<p>{{ . }}</p>{{ end }}
-    {{ if .Site.Params.ReadingTime }}<p>{{ i18n "reading_time" .ReadingTime }}</p>{{ end }}
   </div>
 </header>
