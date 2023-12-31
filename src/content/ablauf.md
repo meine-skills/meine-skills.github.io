@@ -18,11 +18,11 @@ Vereinbaren Sie ein kostenloses Erstgepräch ([Kontakt](/about)) - hier können 
 
 ### Kosten
 
-Die Kosten belaufen sich auf 80€ pro Einheit. Als Klinische- und Gesundheitspsychologin ist es mein Ziel, dass meine Klient:innen Werkzeuge zur Zielerreichung erlernen und trainieren, um sie dann selbstständig anwenden zu können. Je nach Ausgangslage sind 10 Einheiten oft ausreichend - eine genaue Einschätzung kann aber erst nach einem ausführlichen Gespräch erfolgen.
+Die Kosten belaufen sich auf 85€ pro Einheit. Als Klinische Psychologin und Gesundheitspsychologin ist es mein Ziel, dass meine Klient:innen Werkzeuge zur Zielerreichung erlernen und trainieren, um sie dann selbstständig anwenden zu können. Je nach Ausgangslage sind 10 Einheiten oft ausreichend - eine genaue Einschätzung kann aber erst nach einem ausführlichen Gespräch erfolgen.
  
 ### Verschwiegenheits-pflicht
 
-Als Psychologin unterliegee ich der gesetzlich verankerten absoluten Verschwiegenheitspflicht. Das heißt alle Gesprächsinhalte bleiben streng vertraulich.
+Als Psychologin unterliege ich der gesetzlich verankerten absoluten Verschwiegenheitspflicht. Das heißt alle Gesprächsinhalte bleiben streng vertraulich.
 
 ### Ort
 

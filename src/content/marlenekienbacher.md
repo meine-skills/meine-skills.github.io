@@ -52,6 +52,7 @@ type = "post"
 * Gruppentraining sozialer Kompetenzen nach Hinsch und Pfingsten
 * Selbstbild und Selbstwert – Tools für die psychologische Praxis
 * Selbstbehauptung bei Mag. Karoline Turner
+* Body Image Therapie bei Prof. Priv.Doz. Mag. Dr. Kathrin Kirchheiner
 
 # Vorträge
 
